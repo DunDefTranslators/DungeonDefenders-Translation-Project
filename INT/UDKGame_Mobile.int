@@ -1,0 +1,743 @@
+[DunDefDarkElfWarrior]
+DescriptiveName="Dark Elf Warrior"
+
+[DunDefInput]
+KeyDescriptions[0]=(KeyDescription="1")
+KeyDescriptions[1]=(KeyDescription="2")
+KeyDescriptions[2]=(KeyDescription="3")
+KeyDescriptions[3]=(KeyDescription="4")
+KeyDescriptions[4]=(KeyDescription="5")
+KeyDescriptions[5]=(KeyDescription="6")
+KeyDescriptions[6]=(KeyDescription="7")
+KeyDescriptions[7]=(KeyDescription="8")
+KeyDescriptions[8]=(KeyDescription="9")
+KeyDescriptions[9]=(KeyDescription="0")
+KeyDescriptions[10]=(KeyDescription="Left Mouse Button")
+KeyDescriptions[11]=(KeyDescription="Right Mouse Button")
+KeyDescriptions[12]=(KeyDescription="Middle Mouse Button")
+KeyDescriptions[13]=(KeyDescription="Control")
+KeyDescriptions[14]=(KeyDescription="Control")
+KeyDescriptions[15]=(KeyDescription="Mouse Wheel")
+KeyDescriptions[16]=(KeyDescription="Mouse Wheel")
+KeyDescriptions[17]=(KeyDescription="Shift")
+KeyDescriptions[18]=(KeyDescription="Shift")
+KeyDescriptions[19]=(KeyDescription="Space Bar")
+KeyDescriptions[20]=(KeyDescription="(X)")
+KeyDescriptions[21]=(KeyDescription="(Y)")
+KeyDescriptions[22]=(KeyDescription="(B)")
+KeyDescriptions[23]=(KeyDescription="(A)")
+KeyDescriptions[24]=(KeyDescription="(Start)")
+KeyDescriptions[25]=(KeyDescription="(Back)")
+KeyDescriptions[26]=(KeyDescription="(Up)")
+KeyDescriptions[27]=(KeyDescription="(Down)")
+KeyDescriptions[28]=(KeyDescription="(Left)")
+KeyDescriptions[29]=(KeyDescription="(Right)")
+KeyDescriptions[30]=(KeyDescription="(Left Shoulder)")
+KeyDescriptions[31]=(KeyDescription="(Right Shoulder)")
+KeyDescriptions[32]=(KeyDescription="(Left Trigger)")
+KeyDescriptions[33]=(KeyDescription="(Right Trigger)")
+KeyDescriptions[34]=(KeyDescription="(Left Thumbstick)")
+KeyDescriptions[35]=(KeyDescription="(Right Thumbstick)")
+BindingDescriptions[0]=(Description="Move Forward")
+BindingDescriptions[1]=(Description="Move Backward")
+BindingDescriptions[2]=(Description="Strafe Left")
+BindingDescriptions[3]=(Description="Strafe Right")
+BindingDescriptions[4]=(Description="Jump / Confirm Action")
+BindingDescriptions[5]=(Description="Pause")
+BindingDescriptions[6]=(Description="Activate / Pickup Equipment")
+BindingDescriptions[7]=(Description="Store Equipment")
+BindingDescriptions[8]=(Description="Ability HotKeys")
+BindingDescriptions[9]=(Description="Ability HotKeys")
+BindingDescriptions[10]=(Description="Ability HotKeys")
+BindingDescriptions[11]=(Description="Ability HotKeys")
+BindingDescriptions[12]=(Description="Rotate Camera")
+BindingDescriptions[13]=(Description="Display Area Map")
+BindingDescriptions[14]=(Description="Cancel Action / Call-Out")
+BindingDescriptions[15]=(Description="Cycle Camera Zoom")
+BindingDescriptions[16]=(Description="Show Inventory")
+BindingDescriptions[17]=(Description="Open Action Wheel")
+BindingDescriptions[18]=(Description="Use Weapon / Confirm Action")
+BindingDescriptions[19]=(Description="Alternate Weapon Usage")
+BindingDescriptions[20]=(Description="Move")
+BindingDescriptions[21]=(Description="Turn")
+BindingDescriptions[22]=(Description="Zoom Camera")
+BindingDescriptions[23]=(Description="Turn")
+
+[UI_OptionsMenu]
+ControlSchemeName[0]="Strafing Control Scheme"
+ControlSchemeName[1]="Default Control Scheme"
+
+[UI_Leaderboard]
+myHeroInfo.HeroName="Unknown"
+TopRankingsView="Top Rankings"
+InfiniteWaveString="Infinite Waves"
+RetrieveString="Retrieving Leaderboards..."
+
+[DunDefGoblin]
+DescriptiveName="Goblin"
+
+[UI_CreateHero]
+MSG_PickNameTitle="Choose name:"
+MSG_PickNameDescription="Please enter a name for your character"
+customTemplateName="Custom"
+
+[DunDefPracticeDummy]
+DescriptiveName="Practice Dummy"
+
+[DunDefAchievementTrophy]
+ActivationString_Use="(Show Info)"
+
+[DunDefPlayerAbility_GenericActorSpawner]
+DescriptiveName="Set Unique Description In Archetype"
+
+[DunDefHero]
+StatNames[0]="None"
+StatNames[1]="Hero Health"
+StatNames[2]="Hero Speed"
+StatNames[3]="Hero Damage"
+StatNames[4]="Hero Casting Rate"
+StatNames[5]="Hero Ability One"
+StatNames[6]="Hero Ability Two"
+StatNames[7]="Defense Health"
+StatNames[8]="Defense Attack Rate"
+StatNames[9]="Defense Base Damage"
+StatNames[10]="Defense Area of Effect"
+StatDescriptions[0]="None"
+StatDescriptions[1]="Hero Health Description"
+StatDescriptions[2]="Hero Speed Description"
+StatDescriptions[3]="Hero Damage Description"
+StatDescriptions[4]="Hero Casting Rate Description"
+StatDescriptions[5]="Hero Ability One Description"
+StatDescriptions[6]="Hero Ability Two Description"
+StatDescriptions[7]="Defense Health Description"
+StatDescriptions[8]="Defense Attack Rate Description"
+StatDescriptions[9]="Defense Base Damage Description"
+StatDescriptions[10]="Defense Area of Effect Description"
+
+[GameSpyMessages]
+NoConnection=Could not connect to GameSpy because there is no network connection
+ServiceUnavailable=GameSpy services are currently unavailable
+DupeLogin=You were logged out of GameSpy because your account was logged in elsewhere!
+InvalidUser=Invalid username and/or password.  Please try again.
+UnknownError=Encountered an unknown error while logging in.  Please try again.
+LoggingIn=Logging in ...
+LoginSuccess=Login Succeeded
+LoginCancelled=Login cancelled by user
+SaveLoginInfo=Save Login Info?
+
+[DunDefEnemy]
+DescriptiveName="Enemy"
+
+[UI_MultiplayerMenu]
+MSG_NoGamesFoundTitle="No Games Found"
+MSG_NoGamesFoundDescription="Failed to find a joinable game.\n\nWould you like to create one?"
+MSG_CreateGameFailedTitle="Game Creation Failed"
+MSG_CreateGameFailedDescription="Failed to create a game"
+MSG_CreatingGameTitle="Creating Game"
+MSG_JoiningGameTitle="Joining Game"
+MSG_SearchFailedTitle="Search Failed"
+MSG_SearchFailedDescription="Failed to search for games."
+MSG_NoGamesQuickMatchTitle="No Games Found"
+MSG_NoGamesQuickMatchDescription="Did not find any games.\n\nWould you like to create one?"
+MSG_SearchingForGamesTitle="Searching"
+MSG_SearchingForGamesDescription="Searching for games ..."
+MSG_CreatePrivateMatchTitle="Create Private Match?"
+MSG_CreatePrivateMatchDescription="Your game will not be listed in other players searches. Are you sure you want to create a private match?"
+
+[DunDefDroppedEquipment]
+ActivationString="(Equip This Item)"
+AltActivationString="(Store In Item Box)"
+
+[DunDefForge]
+ActivationString_FailureDuringCombatPhase="(Can not use during Combat Phase)"
+ActivationString_Use="(Activate)"
+AltActivationString="(View"
+DescriptiveName="Defender's Forge"
+leaderboardSignPrefix="#1 Hero"
+leaderboardEmptyString1="Be the first to"
+leaderboardEmptyString2="make the leaderboard!"
+scoreString="Score: "
+LevelString="Lvl"
+
+[DunDefTower]
+ManaText="Mana"
+UpgradeToText="Upgrade To Level"
+AttackRangeString="Attack Range:"
+AttackDamageString="Attack Damage:"
+AttackIntervalString="Attack Rate:"
+AttackIntervalEndString="Seconds"
+TowerUnitCostString="Defense Units:"
+HideDetailsString="(Hide Details)"
+ShowDetailsString="(Show Details)"
+
+[DunDefPlayerAbility_SellTower]
+NotificationString="Select Defense To Sell"
+ActivationFailureStringEnd="to"
+
+[DunDefTower_DetonationType]
+ActivationRangeString="Activation Range:"
+MaximumDetonationsString="Maximum Detonations:"
+AttackDurationString="Effective Duration:"
+DetonationResetTimeString="Detonation Reset Time:"
+AttackRangeString="Effective Range:"
+
+[DunDefSkeleton]
+DescriptiveName="Skeleton"
+
+[HeroEquipment_Familiar]
+ForgedByDescription="Raised By"
+
+[UI_PlayerStats]
+showGamerCardString="Show Gamer Info"
+totalString="Total "
+bestString="Best "
+leastString="Least "
+mostString="Most "
+killString="Kills"
+playerString="Player "
+towerString="Defense "
+towersString="Defenses "
+builtString="Built"
+repairString="Repaired"
+destroyString="Destroyed"
+soldString="Sold"
+timeString="Time"
+chestString="Chests Opened"
+manaString="Mana Earned"
+expString="Experience Gained"
+scoreString="Score"
+damageString="Damage Taken"
+DeathString="Deaths"
+naString="N/A"
+pureStrategyString="Pure Strategy"
+survivalString="Survival"
+highestString="Highest"
+waveString="Wave"
+endingsAchieved="Endings Achieved: "
+towerButtonString="Defenses"
+enemyButtonString="Enemies"
+treasureButtonString="Treasure"
+generalString="General"
+awardString="Awards"
+flawlessVictoryString="Flawless Victory"
+immortalString="Immortal"
+invincibleString="Invincible"
+mvpString="Most Valuable Hero"
+strategistString="Strategist"
+triggerHappyString="Trigger Happy"
+bankerString="Banker"
+chillaxString="Chillax"
+janitorString="Janitor"
+knightString="Knight"
+lordString="Lord"
+handymanString="HandyMan"
+
+[DunDefDemon]
+DescriptiveName="Demon"
+
+[DunDefGameReplicationInfo]
+ScoreAwardPreStrings[1]="Completed Wave"
+ScoreAwardPreStrings[2]="Wave Time Bonus ("
+ScoreAwardPreStrings[3]="No Core Damage: Total Wave Score x"
+ScoreAwardPreStrings[4]="No Player Dmg: Total Wave Score x"
+ScoreAwardPreStrings[5]="Only Used Towers: Total Wave Score x"
+ScoreAwardPreStrings[6]="Only Used Weapons: Total Wave Score x"
+ScoreAwardPreStrings[7]="Defeated"
+ScoreAwardPreStrings[8]="Award: '"
+ScoreAwardPreStrings[9]="Cheated Score! This is a long score description  +"
+ScoreAwardPostStrings[1]="  +"
+ScoreAwardPostStrings[2]="secs)  +"
+ScoreAwardPostStrings[7]="  +"
+ScoreAwardPostStrings[8]="'  +"
+MajorNotificationLabels[0]="        All Players Healed        "
+MajorNotificationLabels[1]="    All Players and Core Healed    "
+MajorNotificationLabels[2]="Wave"
+MajorNotificationLabels[3]="Better Luck Next Time"
+GameOverDescriptionReasons[0]="An Eternia Crystal Was Destroyed!"
+SpectatorWaitString="Waiting For Build Phase To Join. . ."
+PureStrategyModeString="Pure Strategy"
+SurvivalModeString="Survival"
+statsWaitText="Sending stats..."
+
+[UI_GameSetup]
+ChallengeString="Challenge:"
+LevelString="Level:"
+DifficultyString="Difficulty:"
+InfiniteBuildTimeString="Infinite Build Time:"
+SurvivalModeString="Survival Mode:"
+StartingWaveString="Starting Wave:"
+TavernItemPickupString="Tavern Item Pickups:"
+PureStrategyModeString="Pure Strategy Mode:"
+MSG_DLCWarningDescription1="Not all players have the downloadable content map"
+MSG_DLCWarningDescription2="If you change to this level the following players will be booted from the game:"
+MSG_DLCWarningDescription3="Are you sure you want to switch to this level?"
+MSG_DLCWarningTitle="Warning"
+OnStrings[0]="Locked"
+OnStrings[1]="Unlocked"
+StringYes="Yes"
+StringNo="No"
+
+[UIScriptWidget_HeroSelectionButton]
+LevelString="Level"
+HealthString="Health"
+manaString="Mana"
+MaxManaString="Max Mana"
+MaxHealthString="Max Health"
+
+[DunDefWaveBillboard]
+enemiesString="Enemies:"
+
+[DunDefPlayer]
+ActivationString="View Hero Info"
+HealthString="Health:"
+manaString="Mana:"
+
+[DunDef_UIAction_CheckAllPlayersLoggedIn]
+MessageTitle="Cannot Save"
+MessageText="Note: you are not signed into a GamerTag. Progress will not be saved unless you sign in."
+
+[DunDefHeroManager]
+DifficultyNames[0]="Easy"
+DifficultyNames[1]="Medium"
+DifficultyNames[2]="Hard"
+DifficultyNames[3]="Insane"
+CampaignLevelEntries[0]=(LevelFriendlyName="Foundries and Forges",LevelDescription="A hellish place of fire and brimstone, where blacksmiths toil away to produce mighty weapons.")
+CampaignLevelEntries[1]=(LevelFriendlyName="Magus Quarters",LevelDescription="Where the Grand Magus lives and studies the arcane arts.")
+CampaignLevelEntries[2]=(LevelFriendlyName="Alchemical Laboratory",LevelDescription="The Magi have assembled strange devices here to transmute the elements.")
+CampaignLevelEntries[3]=(LevelFriendlyName="Servants Quarters",LevelDescription="The humble common-folk who serve the castle nobility make this place their home.")
+CampaignLevelEntries[4]=(LevelFriendlyName="Castle Armory",LevelDescription="The vast armaments of the castle guard are kept in this fortified training area.")
+CampaignLevelEntries[5]=(LevelFriendlyName="Hall of Court",LevelDescription="The aristocracy enters through this majestic chamber to socialize and hold court.")
+CampaignLevelEntries[6]=(LevelFriendlyName="The Throne Room",LevelDescription="The seat of power itself, from which the realm is ruled.")
+CampaignLevelEntries[7]=(LevelFriendlyName="Challenge: Unlikely Allies",LevelDescription="Protect your Ogre ally from the enemy hordes!")
+CampaignLevelEntries[8]=(LevelFriendlyName="Challenge: Warping Core",LevelDescription="The core will randomly warp to a new location at random intervals, so stay alert!")
+CampaignLevelEntries[9]=(LevelFriendlyName="Challenge: Raining Goblins",LevelDescription="Goblins rain down from the sky, anywhere and everywhere. Better bring your umbrella!")
+CampaignLevelEntries[10]=(LevelFriendlyName="Challenge: Wizardry",LevelDescription="Every Wizard is invincible except two -- find and defeat them, and then take out the next Wizards until they're all destroyed!")
+CampaignLevelEntries[11]=(LevelFriendlyName="Challenge: Ogre Crush",LevelDescription="Can you stand up to a horde of angry Ogres? Find out here!")
+CampaignLevelEntries[12]=(LevelFriendlyName="Challenge: Zippy Terror",LevelDescription="Wave after Wave of crazy explosive Kobolds will speed towards your Core. Do you have what it takes to stop them?")
+CampaignLevelEntries[13]=(LevelFriendlyName="Challenge: Chicken",LevelDescription="One Hero is randomly chosen as the Chicken, who enemies love to target, moves slowly, and dies after a single hit. Can you protect your Core AND yourself?")
+DefaultStatNames[0]="None"
+DefaultStatNames[1]="Hero Health"
+DefaultStatNames[2]="Hero Speed"
+DefaultStatNames[3]="Hero Damage"
+DefaultStatNames[4]="Hero Casting Rate"
+DefaultStatNames[5]="Hero Ability One"
+DefaultStatNames[6]="Hero Ability Two"
+DefaultStatNames[7]="Defense Health"
+DefaultStatNames[8]="Defense Attack Rate"
+DefaultStatNames[9]="Defense Base Damage"
+DefaultStatNames[10]="Defense Area of Effect"
+LobbyLevelName="Tavern"
+CorruptSaveTitle="Corrupt Save"
+CorruptSaveMsg="Your save was corrupted. Hero backup successful"
+
+[DunDefMapInfo]
+DefaultMissionObjectiveText="Defend the Eternia Crystals!"
+LobbyLevelPreDescription="The Tavern of"
+
+[DunDefTower_AuraStickyGloop]
+AttackDamageString="Enemy Movement Speed:"
+
+[UIScriptWidget_HeroInfoExpBar]
+PreValuesString="Experience: "
+
+[UI_SearchFilters]
+MSG_OneDifficultyRequiredTitle="Not Allowed!"
+MSG_OneDifficultyRequiredDescription="You must leave at least 1 difficulty enabled, otherwise you wont get any search results!"
+
+[DunDefTower_ChainLightning]
+ChainLengthString="Max Chain Length:"
+AttackDamagePerSecondString="Per Second"
+AttackIntervalString="Attack Duration:"
+ChainTargetsString="Max Chain Targets:"
+
+[UI_CustomizeCrystal]
+LockedString="Locked!"
+RequiredString="Required:"
+
+[UI_PauseMenu]
+LeaveGameString="Leave Game"
+muteString="Mute Player"
+unmuteString="Unmute Player"
+DeletionConfirmationStrings[0]="Are you sure you wish to restart this level?"
+DeletionConfirmationStrings[1]="Are you sure you wish to return to your Tavern?"
+DeletionConfirmationStrings[2]="Are you sure you wish to leave the game?"
+DeletionConfirmationStrings[3]="Are you sure you wish to exit to the Main Menu?"
+
+[DunDefOgre]
+DescriptiveName="Ogre"
+
+[UI_CharacterSelect]
+PressStartString="Press Start"
+
+[DunDefGameStats]
+statClasses[25]=(AwardName="Immortal",AwardDescription="Did not die")
+statClasses[26]=(AwardName="Invincible",AwardDescription="Did not take damage for an entire wave after the first")
+statClasses[27]=(AwardName="Knight",AwardDescription="Killed 10 enemies in 5 seconds")
+statClasses[28]=(AwardName="Lord",AwardDescription="Killed 50 enemies in 5 seconds")
+statClasses[29]=(AwardName="Strategist",AwardDescription="Scored the most tower kills")
+statClasses[30]=(AwardName="Banker",AwardDescription="Earned the most mana")
+statClasses[31]=(AwardName="Trigger Happy",AwardDescription="Most first to ready for Combat Phase")
+statClasses[32]=(AwardName="Handy Man",AwardDescription="Performed the most tower repairs")
+statClasses[33]=(AwardName="Janitor",AwardDescription="Scored the last kill in the wave")
+statClasses[34]=(AwardName="Chillax",AwardDescription="Moved the least distance in the wave")
+statClasses[35]=(AwardName="Flawless Victory",AwardDescription="No core damage after the first wave")
+statClasses[36]=(AwardName="Most Valuable Hero",AwardDescription="Scored the most total kills")
+statClasses[37]=(AwardName="Teamwork",AwardDescription="Completed a mission with 4 active players")
+statClasses[38]=(AwardName="Skin of Your Teeth",AwardDescription="Survived a wave after the first with 1 core HP")
+statClasses[39]=(AwardName="First Kill",AwardDescription="Scored the first kill in the wave")
+statClasses[40]=(AwardName="Mechanic",AwardDescription="Performed the most tower upgrades")
+statClasses[41]=(AwardName="Boss Slayer",AwardDescription="Your Hero or Defense landed the killing blow on a boss.")
+statClasses[42]=(AwardName="Master Builder",AwardDescription="Kept full Defense Units throughout the wave")
+statClasses[43]=(AwardName="Master Strategist",AwardDescription="Only used Towers to kill enemies")
+statClasses[44]=(AwardName="Gunslinger",AwardDescription="Only used Weapons to kill enemies")
+statClasses[45]=(AwardName="Most Valuable Player",AwardDescription="Scored the most total kills")
+
+[DunDefDamageType_Fire]
+FriendlyName="Fire"
+AdjectiveName="Flaming"
+
+[DunDefDamageType_Poison]
+FriendlyName="Poison"
+AdjectiveName="Poisonous"
+
+[DunDefDragonBossBallista]
+StringBallistaName="War Ballista"
+StringBallistaResetting="(Resetting)"
+StringBallistaActivation="(Activate)"
+
+[DunDefPlayerAbility_DetonateTraps]
+ActivationFailureString_NoTrapsToDetonate="There are no traps nearby to detonate"
+DescriptiveName="Detonate Traps"
+
+[DunDefTower_Aura]
+AttackRangeString="Effective Range:"
+
+[DunDefCrystalCore]
+ActivationBuildPhaseString="(Activate to Ready for Combat Phase)"
+ActivationVictoryString="(Activate to Proceed to Next Level)"
+ActivationVictoryViewStatsString="(Activate to View Level Statistics)"
+CoreUnderAttackMessageString="An Eternia Crystal is under attack!"
+LobbyOpenGameSetupString="Mission Setup"
+LobbyViewHostsStatsString="View Statistics For"
+LobbyViewYourStatsString="View Your Statistics"
+
+[UI_PasswordPrompt]
+MSG_PasswordTitle="Wrong Password"
+MSG_PasswordDescription="The password you entered does not match, please try again"
+
+[DunDefDamageableTarget]
+SummonedByString="Summoned by "
+
+[DunDefWeapon]
+ReloadString="Reloading"
+
+[UIScriptWidget_EquipmentStat]
+DamageResistanceString="Damage Resistance Bonus"
+BonusString="Bonus"
+
+[DunDefViewportClient]
+MSG_DuplicateLoginTitle="Duplicate Login"
+MSG_JoinFailedTitle="Join Failed"
+MSG_JoinFailedDescription="Attempt to join game failed"
+
+[DunDefSceneClient]
+MSG_NetworkConnectionLostTitle="Lost Network Connection"
+MSG_NetworkConnectionLostDescription="Lost Network Connection."
+MSG_SigninChangeTitle="Sign-In Changed"
+MSG_SigninChangeDescription="A sign-in change occured for an active player."
+
+[DunDefPlayerAbility_CharacterToggle]
+ToggleActivationString="Activated"
+ToggleDeactivationString="Deactivated"
+
+[ActionWheelEntry]
+ToolTipDescription="This is a tooltip description & Please replace it with something in the Archetype"
+
+[DunDefKobold]
+DescriptiveName="Kobold"
+
+[DunDefPlayerAbility_RepairTower]
+NotificationString="Select Defense To Repair"
+ActivationFailureString_Mana="Need at least"
+ActivationFailureStringEnd="to"
+
+[DunDefPlayerAbility_Heal]
+CastingDescription="Healing Self"
+ActivationFailureString_Short="Full Health"
+ActivationFailureString="You can't Heal yourself when you have full Health."
+DescriptiveName="Heal Self"
+
+[DunDefDamageType_Generic]
+FriendlyName="Generic"
+
+[UICheckBox_Scripted]
+ValueDataSource.MarkupString="1280x720"
+
+[UI_GameSpyLogin]
+MSG_InvalidCharacterTitle="Invalid Key"
+MSG_InvalidCharacterDescription1="GameSpy IDs cannot start with the '"
+MSG_InvalidCharacterDescription2="' character"
+MSG_LoggingInTitle="Logging In"
+MSG_LoginFailedTitle="Login Failed"
+MSG_LoginSucceededTitle="Login Succeeded"
+MSG_LoginSucceededDescription="Login Succeeded"
+
+[DunDefTower_AuraHeal]
+AttackDamageString="Heal Amount:"
+AttackIntervalString="Heal Rate:"
+
+[DunDefHUD]
+ReachedLevelCapMessageString="has reached the maximum Hero Level:"
+ReachedDemoLevelCapMessageString="has reached the maximum DEMO Hero Level:"
+RandomDeathStrings[0]="You Were Ended"
+RandomDeathStrings[1]="Ouch"
+RandomDeathStrings[2]="That Must Have Hurt"
+
+[UI_NetworkMultiplayer]
+MSG_SearchingForGamesTitle="Searching"
+MSG_SearchingForGamesDescription="Searching for games ..."
+MSG_FailedToJoinGameTitle="Join Failed"
+MSG_FailedToJoinGameDescription="Failed to join the game"
+MSG_JoiningGameTitle="Joining"
+MSG_JoiningGameDescription="Joining game ..."
+MSG_CannotJoinTitle="Can't Join"
+MSG_CannotJoinGameFull="Can't join game because the game does not have enough space for all local players!"
+MSG_CannotJoinNotAllOnline="Can't join game because not all local players can play online!"
+MSG_CreatingGameTitle="Creating Game"
+MSG_CreatingGameDescription="Creating game ..."
+
+[UI_HeroInfoNew]
+LevelString="Level"
+LevelUpPreString="Apply Level Up to"
+
+[UI_HeroSelection]
+CancelString="Cancel"
+
+[UI_EquipmentInfo_New]
+LevelString="Level"
+InvestingString="Investing..."
+UpgradeString="Investment"
+ApplyLevelUpString="Apply Upgrade!"
+MaximumLevelString="At Maximum Level"
+PickStatString="Pick Statistic to Upgrade"
+UpgradeInForgeString="Invest In Forge"
+UpgradeNextWaveString="Invest Next Wave"
+
+[HeroEquipment]
+LevelString="Lvl"
+ForgedByDescription="Forged By"
+AdditionalDescription="Additional"
+DamageDescription="Damage"
+EquipmentStatNames[0]="Base Damage"
+EquipmentStatNames[1]="Ranged Damage"
+EquipmentStatNames[2]="Additional Elemental Damage"
+EquipmentStatNames[3]="Shots Per Second"
+EquipmentStatNames[4]="Clip Ammo"
+EquipmentStatNames[5]="Reload Speed Bonus"
+EquipmentStatNames[6]="Knockback Bonus"
+EquipmentStatNames[7]="Charge Speed Bonus"
+EquipmentStatNames[8]="Blocking Damage Resistance"
+EquipmentStatNames[9]="Additional Projectiles"
+EquipmentStatNames[10]="Projectile Speed Bonus"
+EquipmentStatDescriptions[0]="How much base damage this weapon does per attack."
+EquipmentStatDescriptions[1]="How much ranged damage this weapon does with its projectiles."
+EquipmentStatDescriptions[2]="Additional elemental damage this weapon does per attack."
+EquipmentStatDescriptions[3]="How many times this weapon can fire per second."
+EquipmentStatDescriptions[4]="How much ammunition this weapon stores per clip."
+EquipmentStatDescriptions[5]="A bonus to the reload time of this weapon."
+EquipmentStatDescriptions[6]="A bonus to the knockback attack of this weapon."
+EquipmentStatDescriptions[7]="A bonus to the charging speed of this weapon."
+EquipmentStatDescriptions[8]="The percentage of damage that is reduced when blocking with this weapon."
+EquipmentStatDescriptions[9]="How many additional projectiles this weapon fires per shot."
+EquipmentStatDescriptions[10]="A bonus to this weapon's projectile speed."
+BaseForgerName="Unknown"
+GivenEquipmentMessageString="' has been added to your Item Box!"
+RandomBaseNames[0]=(StringValue="Generic Random Item Name")
+DamageReductionNames[0]=(StringValue=" Enchanted")
+DamageReductionNames[1]=(StringValue=" Blessed")
+DamageReductionNames[2]=(StringValue=" Lucky")
+DamageReductionNames[4]=(StringValue=" Unlucky")
+QualityDescriptorNames[0]=(StringValue="Godly")
+QualityDescriptorNames[1]=(StringValue="Legendary")
+QualityDescriptorNames[2]=(StringValue="Epic")
+QualityDescriptorNames[3]=(StringValue="Amazing")
+QualityDescriptorNames[4]=(StringValue="Powerful")
+QualityDescriptorNames[5]=(StringValue="Shining")
+QualityDescriptorNames[6]=(StringValue="Polished")
+QualityDescriptorNames[7]=(StringValue="Sturdy")
+QualityDescriptorNames[8]=(StringValue="Solid")
+QualityDescriptorNames[9]=(StringValue="Stocky")
+QualityDescriptorNames[10]=(StringValue="Worn")
+QualityDescriptorNames[11]=(StringValue="Torn")
+QualityDescriptorNames[12]=(StringValue="Cursed")
+
+[DunDefPlayerAbility_UpgradeTower]
+FailureString_TowerHasMaxUpgrades="This Defense can not be upgraded any further."
+NotificationString="Select Defense To Upgrade"
+UpgradingString="Upgrading"
+ActivationFailureString_Mana="Need at least"
+ActivationFailureStringEnd="to"
+
+[DunDefPlayerController]
+MSG_StorageDeviceRemovedTitle="Storage Device Removed"
+MSG_StorageDeviceRemovedDescription="A storage device containing downloadable content was removed, you have been returned to the Main Menu."
+MSG_WaitingForDLCMasksTitle="Waiting"
+MSG_WaitingForDLCMasksDescription="Waiting for installed level info from the other players ..."
+MSG_BootedFromGameTitle="Booted From Game"
+MSG_BootedFromGameDescription="You were booted from the game because the host switched to a downloadable content level that you do not have installed."
+MSG_JoiningTitle="Joining ..."
+MSG_JoiningDescription="Joining Game ..."
+MSG_JoinFailedTitle="Join Failed"
+MSG_JoinFailedDescription1="Failed to join the game from invite."
+MSG_JoinFailedDescription2="Failed to join the game from invite because not all players can join."
+MSG_JoinFailedDescription3="Failed to join the game from invite because there is not enough space."
+
+[UIPanel_Leaderboard]
+entryNotFoundString="You have no entries on this leaderboard"
+emptyLeaderboardString="This leaderboard is empty"
+myHeroInfo.HeroName="Unknown"
+TopRankingsView="Top Rankings"
+FriendsView="Friends"
+InfiniteWaveString="Infinite Waves"
+RetrieveString="Retrieving Leaderboards..."
+pureStrategyString="Pure Strategy"
+CampaignString="Campaign"
+ChallengeString="Challenge"
+
+[DunDefTower_SliceNDice]
+DamageRateAtMaxSpinString="Damage Rate At Max Spin:"
+AttackIntervalString="Time To Reach Max Spin:"
+
+[UI_GameStats]
+genericFeedbackString="More Info"
+hideInfoString="Hide Info"
+showGamerCardString="Show Gamer Info"
+timeString="Time"
+totalString="Total"
+combatString="Combat"
+buildString="Build"
+killsString="Kills"
+playersString="Heroes"
+towersString="Defenses"
+wavesString="Waves in Combat"
+chestsString="Treasure Chests"
+builtString="Built"
+soldString="Sold"
+repairedString="Repaired"
+destroyedString="Destroyed"
+openedString="Opened"
+bootyString="Booty"
+usefulBootyString="Useful"
+unusefulBootyString="Not Useful"
+enemiesEncounteredString="Enemies Spawned"
+deathsString="Deaths"
+totalExpString="Experience Gained"
+totalManaString="Mana Collected"
+mvpString="Most Valuable Hero"
+awardsString="Awards"
+LevelString="Level"
+waveString="Wave"
+enemiesString="Enemies"
+spawnedString="Spawned"
+killedString="Killed"
+playerDamageString="Player Damage"
+upgradedString="Upgraded"
+damageTakenString="Damage Taken"
+towerString="Defense "
+heroString="Hero "
+repeatLevelString="Replay Level"
+nextLevelString="Ready for Next Level"
+closeString="Close Stats"
+lobbyString="Return To Tavern"
+bestString="Best "
+leastString="Least "
+mostString="Most "
+naString="N/A"
+playerString="Player "
+scoreString="Score"
+pureStrategyString="Pure Strategy"
+survivalString="Survival"
+highestString="Highest"
+receivingString="Receiving Statistics..."
+exitString="Exit Game"
+
+[DunDefPlayerReplicationInfo]
+LevelUpMessageString="levelled up!"
+ChangedNamesMessageString="changed names to"
+EnteredGameMessageString="has joined the Session."
+LeftGameMessageString="has abandoned the Defense!"
+NewHeroMessageString="has brought"
+NewHeroMessageStringEnd="to the Defense!"
+muteString="(muted)"
+
+[DunDefPlayerAbility_Squire_CircleSlice]
+DescriptiveName="Circle Slice"
+
+[DunDefTower_AuraStrengthDrain]
+AttackDamageString="Enemy Strength:"
+
+[DunDefPlayerAbility_TowerPlacement]
+ActivationFailureStringEnd="to summon"
+
+[DunDefDamageType_Lightning]
+FriendlyName="Lightning"
+AdjectiveName="Electric"
+
+[DunDefPlayerAbility]
+ActivationFailureString_HeroLevel="Need Hero Level"
+ActivationFailureString_Mana="Need"
+ActivationFailureString_Physics="Need to be on solid ground"
+ActivationFailureString_Cooldown="Need to cool down for"
+ActivationManaString="Mana"
+ActivationSecondsString="Seconds"
+ActivationFailureStringEnd="to activate"
+ActivationFailureString_NotApplicable="Can't currently activate"
+CancelledDueToManaString="cancelled due to lack of Mana."
+AbilityUnlockedMessageString="' Ability Is Now Unlocked!"
+
+[DunDefGameSearchCommon]
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[DunDefOnlineGameSettingsConsole]
+LobbyLevelName="Tavern"
+Difficulty.FriendlyName="Difficulty"
+LevelFriendlyName.FriendlyName="Map"
+SurvivalMode.FriendlyName="Infinite Waves?"
+InfiniteBuild.FriendlyName="Infinite Build?"
+PureStrategy.FriendlyName="Pure Strategy?"
+hostInfo.FriendlyName="Host Hero"
+StartAtWave.FriendlyName="Start Wave"
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[DunDefDarkElf]
+DescriptiveName="Dark Elf Archer"
+
+[DunDefOrc]
+DescriptiveName="Orc"
+
+[DunDefPlayerAbility_BuildTower]
+ActivationFailureString_NeedTowerUnits="Need"
+ActivationTowerUnitsString="Free Defense Units"
+ActivationSummonString="to summon"
+TowerUnitDescriptionString="Defense Units"
+ChooseWhereToSummonString="Choose where to summon"
+SummoningString="Summoning"
+SetRotationString="Set rotation of"
+PlacementDeniedStrings[0]="You can not summon to this location"
+PlacementDeniedStrings[1]="Dark energy prevents summoning to this location"
+PlacementDeniedStrings[2]="You can not place two similar Traps together"
+PlacementDeniedStrings[3]="You can not place two similar Auras together"
+AbilityUnlockedMessagePreString="'Summon "
+AbilityUnlockedMessageString="' Is Now Unlocked!"
+
+[UIScriptWidget_HeroStat]
+HeroDamageResistanceString="Damage Resistance"
+heroString="Hero:"
+EquipmentString="Equipment:"
+
+[UI_ItemBox]
+LockItemString="Lock Item"
+UnlockItemString="Unlock Item"
+AllItemsString="All Unlocked Items!"
+SellAllInLobbyString="Sell All In Tavern"
+SellInLobbyString="Sell In Tavern"
