@@ -1,2 +1,2 @@
-[TutorialText_UI:TutPopupRezContainer.PanelBG.Description UILabel]
+﻿[TutorialText_UI:TutPopupRezContainer.PanelBG.Description UILabel]
 DataSource.MarkupString="Toto je cvičný text. Prosím nahraďte jej aktuálním výcvikem."
