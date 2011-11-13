@@ -1,4 +1,4 @@
-[ActionWheel.WheelEntry_Squire_Build_BouncyBlockade ActionWheelEntry]
+﻿[ActionWheel.WheelEntry_Squire_Build_BouncyBlockade ActionWheelEntry]
 ToolTipDescription="Diese spezielle Blockade wirft alle&Feinde mit grosser Kraft und Schaden zurück."
 
 [ActionWheel.WheelEntry_Build_MagicMissileTower ActionWheelEntry]
@@ -44,7 +44,7 @@ DescriptiveName="Rundumschlag"
 ToolTipDescription="Dieses Geschütz schießt Harpunen durch Feinde&und ist nützlich, wenn die Feinde in einer Reihe sind."
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraEnrage ActionWheelEntry]
-ToolTipDescription="Alle Feinde in dieser Aura  werden&sich gegenseitig bekämpfen!"
+ToolTipDescription="Alle Feinde in dieser Aura werden&sich gegenseitig bekämpfen!"
 
 [ActionWheel.WheelEntry_Character ActionWheelEntry]
 DescriptiveName="Held"
@@ -171,7 +171,7 @@ StatNames[10]="Radius der Falle"
 StatDescriptions[5]="Unsichtbarkeit ermöglicht dem Ausführenden, von allen Feinden ungesehen zu bleiben, sogar wenn sie angreifen!"
 StatDescriptions[6]="Durchschuss entfesselt ein magisches Geschoss, das sich durch Feinde reißt, während es gleichzeitig den Schaden der Waffe erhöht."
 HeroClassDisplayName="Jägerin"
-HeroClassDescription="Ausgebildet in der Kundschafterei, setzt die geschwinde und schlanke Jägerin auf tödliche Fallen und Explosionen. Lass Dich nicht durch ihr Aussehen blenden. Dieser elegante weibliche Teufel ist im Umgang mit Waffen, großer Reichweite geschult  - ihre Zielsicherheit ist akkurat. Mit ihrem Bündel an Pfeilen, geschossen aus dem Hinterhalt, wird sie sicherlich kein Feind je zu Gesicht bekommen!"
+HeroClassDescription="Ausgebildet in der Kundschafterei, setzt die geschwinde und schlanke Jägerin auf tödliche Fallen und Explosionen. Lass Dich nicht durch ihr Aussehen blenden. Dieser elegante weibliche Teufel ist im Umgang mit Waffen, großer Reichweite geschult - ihre Zielsicherheit ist akkurat. Mit ihrem Bündel an Pfeilen, geschossen aus dem Hinterhalt, wird sie sicherlich kein Feind je zu Gesicht bekommen!"
 colorTemplates[0]=(colorName="Standard")
 colorTemplates[1]=(colorName="Winter")
 colorTemplates[2]=(colorName="Magd")

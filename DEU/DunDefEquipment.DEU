@@ -1,4 +1,4 @@
-[EquipmentGeneric.HelmetArmorBase_Pristine HeroEquipment]
+﻿[EquipmentGeneric.HelmetArmorBase_Pristine HeroEquipment]
 EquipmentName="Beinschutz"
 EquipmentDescription="Makellose Ausrüstung"
 RandomBaseNames[0]=(StringValue="Makelloser Helm")
