@@ -1,6 +1,6 @@
-ï»¿[EquipmentGeneric.HelmetArmorBase_Pristine HeroEquipment]
+[EquipmentGeneric.HelmetArmorBase_Pristine HeroEquipment]
 EquipmentName="Beinschutz"
-EquipmentDescription="Makellose AusrÃ¼stung"
+EquipmentDescription="Makellose Ausrüstung"
 RandomBaseNames[0]=(StringValue="Makelloser Helm")
 RandomBaseNames[1]=(StringValue="Makellose Haube")
 RandomBaseNames[2]=(StringValue="Makellose Maske")
@@ -8,8 +8,8 @@ RandomBaseNames[3]=(StringValue="Makellose Kapuze")
 RandomBaseNames[4]=(StringValue="Makellose Kappe")
 
 [EquipmentGeneric.TorsoArmorBase_Pristine HeroEquipment]
-EquipmentName="TorsorÃ¼stung"
-EquipmentDescription="Makellose AusrÃ¼stung"
+EquipmentName="Torsorüstung"
+EquipmentDescription="Makellose Ausrüstung"
 RandomBaseNames[0]=(StringValue="Makellose Weste")
 RandomBaseNames[1]=(StringValue="Makelloses Hemd")
 RandomBaseNames[2]=(StringValue="Makelloser Mantel")
@@ -18,20 +18,20 @@ RandomBaseNames[2]=(StringValue="Makelloser Mantel")
 EquipmentName="Axt"
 EquipmentStatNames[0]="Nahkampfschaden"
 EquipmentDescription="Verwendbar durch Knappe"
-RandomBaseNames[0]=(StringValue="GroÃŸe Axt")
-RandomBaseNames[1]=(StringValue="BestienzÃ¤hmer")
+RandomBaseNames[0]=(StringValue="Große Axt")
+RandomBaseNames[1]=(StringValue="Bestienzähmer")
 RandomBaseNames[2]=(StringValue="Beil")
 RandomBaseNames[3]=(StringValue="Zerhacker")
 RandomBaseNames[4]=(StringValue="Streitaxt")
-RandomBaseNames[5]=(StringValue="SchlÃ¤chter")
+RandomBaseNames[5]=(StringValue="Schlächter")
 RandomBaseNames[6]=(StringValue="Kriegsherrenaxt")
-RandomBaseNames[7]=(StringValue="BeschÃ¼tzeraxt")
+RandomBaseNames[7]=(StringValue="Beschützeraxt")
 RandomBaseNames[8]=(StringValue="Fallbeil")
 RandomBaseNames[9]=(StringValue="Vollstrecker")
 
 [EquipmentGeneric.HelmetArmorBase_Plate HeroEquipment]
 EquipmentName="Beinschutz"
-EquipmentDescription="PlattenrÃ¼stung"
+EquipmentDescription="Plattenrüstung"
 RandomBaseNames[0]=(StringValue="Plattenhelm")
 RandomBaseNames[1]=(StringValue="Plattenhaube")
 RandomBaseNames[2]=(StringValue="Plattenmaske")
@@ -40,7 +40,7 @@ RandomBaseNames[4]=(StringValue="Plattenkappe")
 
 [EquipmentGeneric.HelmetArmorBase_Leather HeroEquipment]
 EquipmentName="Beinschutz"
-EquipmentDescription="LederrÃ¼stung"
+EquipmentDescription="Lederrüstung"
 RandomBaseNames[0]=(StringValue="Lederhelm")
 RandomBaseNames[1]=(StringValue="Lederhaube")
 RandomBaseNames[2]=(StringValue="Ledermaske")
@@ -54,7 +54,7 @@ EquipmentDescription="Verwendbar durch Knappe"
 RandomBaseNames[0]=(StringValue="Eispickel")
 RandomBaseNames[1]=(StringValue="Kristallschwert")
 RandomBaseNames[2]=(StringValue="Klarer Traum")
-RandomBaseNames[3]=(StringValue="Ã„therische Klinge")
+RandomBaseNames[3]=(StringValue="Ätherische Klinge")
 RandomBaseNames[4]=(StringValue="Runenklinge")
 RandomBaseNames[5]=(StringValue="Eterniascherbe")
 RandomBaseNames[6]=(StringValue="Brecher")
@@ -65,55 +65,55 @@ RandomBaseNames[9]=(StringValue="Stammesschreck")
 [EquipmentHuntress.CrossbowStyle8 HeroEquipment]
 EquipmentName="Bogen"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Schreiender Teufel")
 RandomBaseNames[1]=(StringValue="Skelettbogen")
 RandomBaseNames[2]=(StringValue="Hellraiser")
 RandomBaseNames[3]=(StringValue="Vertebrae")
-RandomBaseNames[4]=(StringValue="SchÃ¤delbogen")
+RandomBaseNames[4]=(StringValue="Schädelbogen")
 RandomBaseNames[5]=(StringValue="Totenkopf")
-RandomBaseNames[6]=(StringValue="TotengrÃ¤ber")
+RandomBaseNames[6]=(StringValue="Totengräber")
 RandomBaseNames[7]=(StringValue="Leichenbestatter")
 RandomBaseNames[8]=(StringValue="Crossbone")
 RandomBaseNames[9]=(StringValue="Einbalsamierer")
 
 [EquipmentGeneric.BootsArmorBase_Mail HeroEquipment]
 EquipmentName="Stiefelschutz"
-EquipmentDescription="PanzerrÃ¼stung"
+EquipmentDescription="Panzerrüstung"
 RandomBaseNames[0]=(StringValue="Panzerstiefel")
 RandomBaseNames[1]=(StringValue="Panzerschuhe")
 RandomBaseNames[2]=(StringValue="Panzerstollenschuhe")
 RandomBaseNames[3]=(StringValue="Panzerbeinschienen")
 RandomBaseNames[4]=(StringValue="Panzerstampfer")
-RandomBaseNames[5]=(StringValue="PanzerbÃ¤rlatschen")
+RandomBaseNames[5]=(StringValue="Panzerbärlatschen")
 
 [EquipmentGeneric.GauntletArmorBase_Leather HeroEquipment]
 EquipmentName="Handschutz"
-EquipmentDescription="LederrÃ¼stung"
+EquipmentDescription="Lederrüstung"
 RandomBaseNames[0]=(StringValue="Lederhandschuhe")
 RandomBaseNames[1]=(StringValue="Lederstulpen")
 RandomBaseNames[2]=(StringValue="Ledefausthandschuhe")
 RandomBaseNames[3]=(StringValue="Lederarmschienen")
 RandomBaseNames[4]=(StringValue="Ledergriffe")
-RandomBaseNames[5]=(StringValue="LederhandschÃ¼tzer")
+RandomBaseNames[5]=(StringValue="Lederhandschützer")
 
 [EquipmentMonk.MonkSpearStyle4 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Drachenbeisser")
 RandomBaseNames[1]=(StringValue="Schuppige Drachenaxt")
 RandomBaseNames[2]=(StringValue="Drachenaxt des Unheils")
-RandomBaseNames[3]=(StringValue="SpieÃŸ des Verderbens")
+RandomBaseNames[3]=(StringValue="Spieß des Verderbens")
 RandomBaseNames[4]=(StringValue="Doppeldrache")
-RandomBaseNames[5]=(StringValue="GehÃ¶rnte Bedrohung")
+RandomBaseNames[5]=(StringValue="Gehörnte Bedrohung")
 RandomBaseNames[6]=(StringValue="Draconos")
-RandomBaseNames[7]=(StringValue="ReiÃŸerische Wut")
+RandomBaseNames[7]=(StringValue="Reißerische Wut")
 RandomBaseNames[8]=(StringValue="Drachenfluch")
 RandomBaseNames[9]=(StringValue="Drachenspalter")
 
 [EquipmentMage.MagicStaffStyle4 HeroEquipment]
-EquipmentName="WaffenausrÃ¼stung"
+EquipmentName="Waffenausrüstung"
 EquipmentStatNames[0]="Fernkampfschaden"
 EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Blaue Pike")
@@ -130,8 +130,8 @@ RandomBaseNames[9]=(StringValue="Salience")
 [EquipmentMonk.MonkSpearStyle6 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
-RandomBaseNames[0]=(StringValue="WindstoÃŸ der Waage")
+EquipmentDescription="Verwendbar durch Mönch"
+RandomBaseNames[0]=(StringValue="Windstoß der Waage")
 RandomBaseNames[1]=(StringValue="Pike der Zwillinge")
 RandomBaseNames[2]=(StringValue="Sturm des Wassermanns")
 RandomBaseNames[3]=(StringValue="Fiese Bajonette")
@@ -161,11 +161,11 @@ RandomBaseNames[9]=(StringValue="Maximus")
 EquipmentName="Stab"
 EquipmentStatNames[0]="Fernkampfschaden"
 EquipmentDescription="Verwendbar durch Lehrling"
-RandomBaseNames[0]=(StringValue="Purpurner SchÃ¤delstab")
+RandomBaseNames[0]=(StringValue="Purpurner Schädelstab")
 RandomBaseNames[1]=(StringValue="Erbitterung")
 RandomBaseNames[2]=(StringValue="Groll")
-RandomBaseNames[3]=(StringValue="VerkÃ¶rperte Prophezeihung")
-RandomBaseNames[4]=(StringValue="BÃ¶swilligkeit")
+RandomBaseNames[3]=(StringValue="Verkörperte Prophezeihung")
+RandomBaseNames[4]=(StringValue="Böswilligkeit")
 RandomBaseNames[5]=(StringValue="Repulsor")
 RandomBaseNames[6]=(StringValue="Villians Stock")
 RandomBaseNames[7]=(StringValue="Boshafter Kristall")
@@ -175,26 +175,26 @@ RandomBaseNames[9]=(StringValue="Duldung")
 [EquipmentHuntress.CrossbowStyle11 HeroEquipment]
 EquipmentName="Schusswaffe"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Schleuder")
 RandomBaseNames[1]=(StringValue="Razorback")
 RandomBaseNames[2]=(StringValue="Spiker")
 RandomBaseNames[3]=(StringValue="Scheibenwerfer")
 RandomBaseNames[4]=(StringValue="Klingenwerfer")
-RandomBaseNames[5]=(StringValue="RÃ¼ckenschÃ¼ttler")
+RandomBaseNames[5]=(StringValue="Rückenschüttler")
 RandomBaseNames[6]=(StringValue="Pinner")
-RandomBaseNames[7]=(StringValue="ZÃ¼nder")
+RandomBaseNames[7]=(StringValue="Zünder")
 RandomBaseNames[8]=(StringValue="Verleumder")
 RandomBaseNames[9]=(StringValue="Schmerzzupfer")
 
 [EquipmentMonk.MonkSpearStyle11 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Tsudas Weihe")
 RandomBaseNames[1]=(StringValue="Ganzheitliche Disziplin")
 RandomBaseNames[2]=(StringValue="Befreiung")
-RandomBaseNames[3]=(StringValue="TagtrÃ¤umer")
+RandomBaseNames[3]=(StringValue="Tagträumer")
 RandomBaseNames[4]=(StringValue="Zazen")
 RandomBaseNames[5]=(StringValue="Zanbato")
 RandomBaseNames[6]=(StringValue="Miao Dao")
@@ -208,24 +208,24 @@ EquipmentStatNames[0]="Nahkampfschaden"
 EquipmentDescription="Verwendbar durch Knappe"
 RandomBaseNames[0]=(StringValue="Katana")
 RandomBaseNames[1]=(StringValue="Geist des Samurais")
-RandomBaseNames[2]=(StringValue="Daimyos WÃ¼rfler")
+RandomBaseNames[2]=(StringValue="Daimyos Würfler")
 RandomBaseNames[3]=(StringValue="Schneider des Shoguns")
 RandomBaseNames[4]=(StringValue="Masamune")
 RandomBaseNames[5]=(StringValue="Hanzoklinge")
 RandomBaseNames[6]=(StringValue="Musashis Lehre")
 RandomBaseNames[7]=(StringValue="Shinsengumis Befehl")
-RandomBaseNames[8]=(StringValue="GekrÃ¼mmte Schneide")
+RandomBaseNames[8]=(StringValue="Gekrümmte Schneide")
 RandomBaseNames[9]=(StringValue="Wakizashi")
 
 [EquipmentHuntress.CrossbowStyle10 HeroEquipment]
 EquipmentName="Javahawk"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
-RandomBaseNames[0]=(StringValue="PhÃ¶nix")
+EquipmentDescription="Verwendbar durch Jägerin"
+RandomBaseNames[0]=(StringValue="Phönix")
 RandomBaseNames[1]=(StringValue="Feuervogel")
-RandomBaseNames[2]=(StringValue="HÃ¼hnerfurie")
+RandomBaseNames[2]=(StringValue="Hühnerfurie")
 RandomBaseNames[3]=(StringValue="Javahawk")
-RandomBaseNames[4]=(StringValue="BeflÃ¼gelter Tod")
+RandomBaseNames[4]=(StringValue="Beflügelter Tod")
 RandomBaseNames[5]=(StringValue="Hightailer")
 RandomBaseNames[6]=(StringValue="Turmfalke")
 RandomBaseNames[7]=(StringValue="Falconator")
@@ -241,9 +241,9 @@ RandomBaseNames[1]=(StringValue="Tyrfing")
 RandomBaseNames[2]=(StringValue="Furchterregendes Florett")
 RandomBaseNames[3]=(StringValue="Balmung")
 RandomBaseNames[4]=(StringValue="Wikingerklinge")
-RandomBaseNames[5]=(StringValue="RÃ¤uberrapier")
+RandomBaseNames[5]=(StringValue="Räuberrapier")
 RandomBaseNames[6]=(StringValue="Degen")
-RandomBaseNames[7]=(StringValue="PlÃ¼nderers Pata")
+RandomBaseNames[7]=(StringValue="Plünderers Pata")
 RandomBaseNames[8]=(StringValue="Nordmann")
 RandomBaseNames[9]=(StringValue="Grendel")
 
@@ -260,13 +260,13 @@ RandomBaseNames[5]=(StringValue="Steinmetzbrecher")
 RandomBaseNames[6]=(StringValue="Gerechtigkeitshammer")
 RandomBaseNames[7]=(StringValue="Stierdrescher")
 RandomBaseNames[8]=(StringValue="Kriegshammer")
-RandomBaseNames[9]=(StringValue="TodesstoÃŸ")
+RandomBaseNames[9]=(StringValue="Todesstoß")
 
 [EquipmentMonk.MonkSpearStyle5 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
-RandomBaseNames[0]=(StringValue="KÃ¶nigliche Speer")
+EquipmentDescription="Verwendbar durch Mönch"
+RandomBaseNames[0]=(StringValue="Königliche Speer")
 RandomBaseNames[1]=(StringValue="Unheimliche Speer")
 RandomBaseNames[2]=(StringValue="Naginata")
 RandomBaseNames[3]=(StringValue="Guisarme")
@@ -279,21 +279,21 @@ RandomBaseNames[9]=(StringValue="Yari")
 
 [EquipmentGeneric.GauntletArmorBase_Mail HeroEquipment]
 EquipmentName="Handschutz"
-EquipmentDescription="PanzerrÃ¼stung"
+EquipmentDescription="Panzerrüstung"
 RandomBaseNames[0]=(StringValue="Panzerhandschuhe")
 RandomBaseNames[1]=(StringValue="Panzerstulpen")
 RandomBaseNames[2]=(StringValue="Panzerfausthandschuhe")
 RandomBaseNames[3]=(StringValue="Panzerarmschienen")
 RandomBaseNames[4]=(StringValue="Panzergriffe")
-RandomBaseNames[5]=(StringValue="PanzerhandschÃ¼tzer")
+RandomBaseNames[5]=(StringValue="Panzerhandschützer")
 
 [EquipmentMage.MagicStaffStyle2 HeroEquipment]
 EquipmentName="Stab"
 EquipmentStatNames[0]="Fernkampfschaden"
 EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Adlerspeer")
-RandomBaseNames[1]=(StringValue="GeflÃ¼gelter Engel")
-RandomBaseNames[2]=(StringValue="LuftprÃ¼gler")
+RandomBaseNames[1]=(StringValue="Geflügelter Engel")
+RandomBaseNames[2]=(StringValue="Luftprügler")
 RandomBaseNames[3]=(StringValue="Edler Stab")
 RandomBaseNames[4]=(StringValue="Seraphim")
 RandomBaseNames[5]=(StringValue="Himmlischen Zepter")
@@ -305,7 +305,7 @@ RandomBaseNames[9]=(StringValue="Mal'Akh")
 [EquipmentHuntress.CrossbowStyle3 HeroEquipment]
 EquipmentName="Armbrust"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Kriegsbogen")
 RandomBaseNames[1]=(StringValue="Schildbogen")
 RandomBaseNames[2]=(StringValue="Gastraphetes")
@@ -320,15 +320,15 @@ RandomBaseNames[9]=(StringValue="Schwere Armbrust")
 [EquipmentHuntress.CrossbowStyle2 HeroEquipment]
 EquipmentName="Schusswaffe"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
-RandomBaseNames[0]=(StringValue="DonnerbÃ¼chse")
+EquipmentDescription="Verwendbar durch Jägerin"
+RandomBaseNames[0]=(StringValue="Donnerbüchse")
 RandomBaseNames[1]=(StringValue="Duellant")
-RandomBaseNames[2]=(StringValue="SchieÃŸeisen")
+RandomBaseNames[2]=(StringValue="Schießeisen")
 RandomBaseNames[3]=(StringValue="Steinschloss")
 RandomBaseNames[4]=(StringValue="Oshicat")
 RandomBaseNames[5]=(StringValue="Schrotflinte")
 RandomBaseNames[6]=(StringValue="Muskete")
-RandomBaseNames[7]=(StringValue="HakenbÃ¼chse")
+RandomBaseNames[7]=(StringValue="Hakenbüchse")
 RandomBaseNames[8]=(StringValue="Handkanone")
 RandomBaseNames[9]=(StringValue="Pistole")
 
@@ -336,13 +336,13 @@ RandomBaseNames[9]=(StringValue="Pistole")
 EquipmentName="Schwert"
 EquipmentStatNames[0]="Nahkampfschaden"
 EquipmentDescription="Verwendbar durch Knappe"
-RandomBaseNames[0]=(StringValue="Ãœbungsschwert")
+RandomBaseNames[0]=(StringValue="Übungsschwert")
 RandomBaseNames[1]=(StringValue="Bronzeschwert")
 RandomBaseNames[2]=(StringValue="Stahlschwert")
-RandomBaseNames[3]=(StringValue="Ãœbungsklinge")
+RandomBaseNames[3]=(StringValue="Übungsklinge")
 RandomBaseNames[4]=(StringValue="Bronzenklinge")
 RandomBaseNames[5]=(StringValue="Stahlklinge")
-RandomBaseNames[6]=(StringValue="Ãœbungsschneide")
+RandomBaseNames[6]=(StringValue="Übungsschneide")
 RandomBaseNames[7]=(StringValue="Bronzeschneide")
 RandomBaseNames[8]=(StringValue="Stahlschneide")
 RandomBaseNames[9]=(StringValue="Olympus")
@@ -350,56 +350,56 @@ RandomBaseNames[9]=(StringValue="Olympus")
 [EquipmentMonk.MonkSpearStyle9 HeroEquipment]
 EquipmentName="Lanze"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Chunqiu")
-RandomBaseNames[1]=(StringValue="TÃ¶dliches Dadao")
+RandomBaseNames[1]=(StringValue="Tödliches Dadao")
 RandomBaseNames[2]=(StringValue="Todesteiler")
 RandomBaseNames[3]=(StringValue="Niuweidao")
 RandomBaseNames[4]=(StringValue="Seeschlange")
 RandomBaseNames[5]=(StringValue="Haifischzahn")
-RandomBaseNames[6]=(StringValue="KrummsÃ¤bel")
-RandomBaseNames[7]=(StringValue="Schlafender SÃ¤bel")
+RandomBaseNames[6]=(StringValue="Krummsäbel")
+RandomBaseNames[7]=(StringValue="Schlafender Säbel")
 RandomBaseNames[8]=(StringValue="Ozeanwelle")
 RandomBaseNames[9]=(StringValue="Klappklinge")
 
 [EquipmentGeneric.TorsoArmorBase_Mail HeroEquipment]
 EquipmentName="Torsoschutz"
-EquipmentDescription="PanzerrÃ¼stung"
+EquipmentDescription="Panzerrüstung"
 RandomBaseNames[0]=(StringValue="Panzerweste")
 RandomBaseNames[1]=(StringValue="Panzerhemd")
 RandomBaseNames[2]=(StringValue="Panzermantel")
 
 [EquipmentGeneric.GauntletArmorBase_Pristine HeroEquipment]
 EquipmentName="Handschutz"
-EquipmentDescription="makellose AusrÃ¼stung"
+EquipmentDescription="makellose Ausrüstung"
 RandomBaseNames[0]=(StringValue="makellose Handschuhe")
 RandomBaseNames[1]=(StringValue="makellose Stulpen")
 RandomBaseNames[2]=(StringValue="makellose Fausthandschuhe")
 RandomBaseNames[3]=(StringValue="makellose Armschienen")
 RandomBaseNames[4]=(StringValue="makellose Griffe")
-RandomBaseNames[5]=(StringValue="makellose HandschÃ¼tzer")
+RandomBaseNames[5]=(StringValue="makellose Handschützer")
 
 [EquipmentGeneric.GauntletArmorBase_Plate HeroEquipment]
 EquipmentName="Handschutz"
-EquipmentDescription="PlattenrÃ¼stung"
+EquipmentDescription="Plattenrüstung"
 RandomBaseNames[0]=(StringValue="Plattenhandschuhe")
 RandomBaseNames[1]=(StringValue="Plattenstulpen")
 RandomBaseNames[2]=(StringValue="Plattenfausthandschuhe")
 RandomBaseNames[3]=(StringValue="Plattenarmschienen")
 RandomBaseNames[4]=(StringValue="Plattengriffe")
-RandomBaseNames[5]=(StringValue="PlattenhandschÃ¼tzer")
+RandomBaseNames[5]=(StringValue="Plattenhandschützer")
 
 [EquipmentHuntress.CrossbowStyle5 HeroEquipment]
 EquipmentName="Armbrust"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Dornenbogen")
 RandomBaseNames[1]=(StringValue="Dorniger Dragoner")
 RandomBaseNames[2]=(StringValue="Brutaler Bolzer")
 RandomBaseNames[3]=(StringValue="Finsterer Bogen")
 RandomBaseNames[4]=(StringValue="Hornisse")
 RandomBaseNames[5]=(StringValue="Hirschgeweih")
-RandomBaseNames[6]=(StringValue="KÃ¶nigliche Armbrust")
+RandomBaseNames[6]=(StringValue="Königliche Armbrust")
 RandomBaseNames[7]=(StringValue="Lochstanzer")
 RandomBaseNames[8]=(StringValue="Spitzer")
 RandomBaseNames[9]=(StringValue="Chitinarmbrust")
@@ -407,30 +407,30 @@ RandomBaseNames[9]=(StringValue="Chitinarmbrust")
 [EquipmentMonk.MonkSpearStyle3 HeroEquipment]
 EquipmentName="Keule"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Morgenstern")
 RandomBaseNames[1]=(StringValue="Keule")
 RandomBaseNames[2]=(StringValue="Koboldstampfer")
 RandomBaseNames[3]=(StringValue="Goblinhauer")
-RandomBaseNames[4]=(StringValue="OrkschlÃ¤ger")
-RandomBaseNames[5]=(StringValue="SchÃ¼tzenschlÃ¤ger")
+RandomBaseNames[4]=(StringValue="Orkschläger")
+RandomBaseNames[5]=(StringValue="Schützenschläger")
 RandomBaseNames[6]=(StringValue="Magiermalmer")
-RandomBaseNames[7]=(StringValue="KnÃ¼ppel")
-RandomBaseNames[8]=(StringValue="Schwerer SchlÃ¤ger")
-RandomBaseNames[9]=(StringValue="Brutaler SchlÃ¤ger")
+RandomBaseNames[7]=(StringValue="Knüppel")
+RandomBaseNames[8]=(StringValue="Schwerer Schläger")
+RandomBaseNames[9]=(StringValue="Brutaler Schläger")
 
 [EquipmentHuntress.CrossbowStyle6 HeroEquipment]
 EquipmentName="Pistole"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Drachenkanone")
 RandomBaseNames[1]=(StringValue="Teufelsodem")
-RandomBaseNames[2]=(StringValue="ErlÃ¶sung")
-RandomBaseNames[3]=(StringValue="WyvernzÃ¼nder")
+RandomBaseNames[2]=(StringValue="Erlösung")
+RandomBaseNames[3]=(StringValue="Wyvernzünder")
 RandomBaseNames[4]=(StringValue="Skyfaller")
 RandomBaseNames[5]=(StringValue="Flammenwerfer")
 RandomBaseNames[6]=(StringValue="Verbrenner")
-RandomBaseNames[7]=(StringValue="HolzzÃ¼nder")
+RandomBaseNames[7]=(StringValue="Holzzünder")
 RandomBaseNames[8]=(StringValue="Feuerspucker")
 RandomBaseNames[9]=(StringValue="Wyrm")
 
@@ -450,34 +450,34 @@ RandomBaseNames[8]=(StringValue="Krummer Stock")
 RandomBaseNames[9]=(StringValue="Zauberstab")
 
 [WeaponEquipmentBase HeroEquipment]
-EquipmentName="WaffenausrÃ¼stung"
+EquipmentName="Waffenausrüstung"
 RandomBaseNames[0]=(StringValue="Stab")
 RandomBaseNames[1]=(StringValue="Stecken")
 RandomBaseNames[2]=(StringValue="Stab")
 
 [EquipmentGeneric.BootsArmorBase_Plate HeroEquipment]
-EquipmentName="FuÃŸschutz"
-EquipmentDescription="PlattenrÃ¼stung"
+EquipmentName="Fußschutz"
+EquipmentDescription="Plattenrüstung"
 RandomBaseNames[0]=(StringValue="Plattenstiefel")
 RandomBaseNames[1]=(StringValue="Plattenschuhe")
 RandomBaseNames[2]=(StringValue="Blechstollenschuhe")
 RandomBaseNames[3]=(StringValue="Blechbeinschienen")
 RandomBaseNames[4]=(StringValue="Blechstampfer")
-RandomBaseNames[5]=(StringValue="BlechbÃ¤rlatschen")
+RandomBaseNames[5]=(StringValue="Blechbärlatschen")
 
 [EquipmentHuntress.CrossbowStyle1 HeroEquipment]
 EquipmentName="Armbrust"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="einfache Armbrust")
-RandomBaseNames[1]=(StringValue="einfacher SchieÃŸer")
+RandomBaseNames[1]=(StringValue="einfacher Schießer")
 RandomBaseNames[2]=(StringValue="einfacher Handbogen")
 RandomBaseNames[3]=(StringValue="schlichte Armbrust")
-RandomBaseNames[4]=(StringValue="schlichter SchieÃŸer")
+RandomBaseNames[4]=(StringValue="schlichter Schießer")
 RandomBaseNames[5]=(StringValue="schlichter Handbogen")
-RandomBaseNames[6]=(StringValue="AnfÃ¤ngerarmbrust")
-RandomBaseNames[7]=(StringValue="AnfÃ¤ngerschieÃŸer")
-RandomBaseNames[8]=(StringValue="AnfÃ¤ngerhandbogen")
+RandomBaseNames[6]=(StringValue="Anfängerarmbrust")
+RandomBaseNames[7]=(StringValue="Anfängerschießer")
+RandomBaseNames[8]=(StringValue="Anfängerhandbogen")
 RandomBaseNames[9]=(StringValue="Ungenaue Armbrust")
 
 [EquipmentMage.MagicStaffStyle9 HeroEquipment]
@@ -486,10 +486,10 @@ EquipmentStatNames[0]="Fernkampfwaffe"
 EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Drachenauge")
 RandomBaseNames[1]=(StringValue="Reptilienzepter")
-RandomBaseNames[2]=(StringValue="PlattenÃ¼berzogener Stab")
+RandomBaseNames[2]=(StringValue="Plattenüberzogener Stab")
 RandomBaseNames[3]=(StringValue="Abgegriffener Mantis")
 RandomBaseNames[4]=(StringValue="Drachenlederzepter")
-RandomBaseNames[5]=(StringValue="SkarabÃ¤us")
+RandomBaseNames[5]=(StringValue="Skarabäus")
 RandomBaseNames[6]=(StringValue="Alter Zorn")
 RandomBaseNames[7]=(StringValue="Schuppiger Stab")
 RandomBaseNames[8]=(StringValue="Schiekra")
@@ -500,13 +500,13 @@ EquipmentName="Stab"
 EquipmentStatNames[0]="Fernkampfschaden"
 EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Sternentor")
-RandomBaseNames[1]=(StringValue="GlÃ¼hender Bident")
-RandomBaseNames[2]=(StringValue="GlÃ¼hender Obelisk")
+RandomBaseNames[1]=(StringValue="Glühender Bident")
+RandomBaseNames[2]=(StringValue="Glühender Obelisk")
 RandomBaseNames[3]=(StringValue="Nichtsrufer")
 RandomBaseNames[4]=(StringValue="Blaue Bedrohung")
 RandomBaseNames[5]=(StringValue="Ebenenwanderer")
-RandomBaseNames[6]=(StringValue="Ã„ther")
-RandomBaseNames[7]=(StringValue="IntensitÃ¤t")
+RandomBaseNames[6]=(StringValue="Äther")
+RandomBaseNames[7]=(StringValue="Intensität")
 RandomBaseNames[8]=(StringValue="Helligkeit")
 RandomBaseNames[9]=(StringValue="Moas Intuition")
 
@@ -515,8 +515,8 @@ EquipmentName="Stab"
 EquipmentStatNames[0]="Fernkampfschaden"
 EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Empathie")
-RandomBaseNames[1]=(StringValue="AffinitÃ¤t")
-RandomBaseNames[2]=(StringValue="WÃ¤rme")
+RandomBaseNames[1]=(StringValue="Affinität")
+RandomBaseNames[2]=(StringValue="Wärme")
 RandomBaseNames[3]=(StringValue="Wohlwille")
 RandomBaseNames[4]=(StringValue="Augis Reue")
 RandomBaseNames[5]=(StringValue="Einblick")
@@ -536,9 +536,9 @@ RandomBaseNames[3]=(StringValue="Arachnid")
 RandomBaseNames[4]=(StringValue="Prestbringer")
 RandomBaseNames[5]=(StringValue="Kranker Wille")
 RandomBaseNames[6]=(StringValue="Metamorphose")
-RandomBaseNames[7]=(StringValue="VerhÃ¤ngnisvoller Griff")
-RandomBaseNames[8]=(StringValue="Klaue der ZerstÃ¶rung")
-RandomBaseNames[9]=(StringValue="DÃ¤monengriff")
+RandomBaseNames[7]=(StringValue="Verhängnisvoller Griff")
+RandomBaseNames[8]=(StringValue="Klaue der Zerstörung")
+RandomBaseNames[9]=(StringValue="Dämonengriff")
 
 [EquipmentMage.MagicStaffStyle5 HeroEquipment]
 EquipmentName="Stab"
@@ -547,17 +547,17 @@ EquipmentDescription="Verwendbar durch Lehrling"
 RandomBaseNames[0]=(StringValue="Mystischer Speer")
 RandomBaseNames[1]=(StringValue="Betrachter")
 RandomBaseNames[2]=(StringValue="Erikaler Stab")
-RandomBaseNames[3]=(StringValue="GleichgÃ¼ltigkeit")
+RandomBaseNames[3]=(StringValue="Gleichgültigkeit")
 RandomBaseNames[4]=(StringValue="Apathie")
 RandomBaseNames[5]=(StringValue="Stoischheit")
 RandomBaseNames[6]=(StringValue="Wiege der Verachtung")
-RandomBaseNames[7]=(StringValue="Arkane TrÃ¤gheit")
-RandomBaseNames[8]=(StringValue="NÃ¤rrische Vision")
+RandomBaseNames[7]=(StringValue="Arkane Trägheit")
+RandomBaseNames[8]=(StringValue="Närrische Vision")
 RandomBaseNames[9]=(StringValue="Trauers Klagelied")
 
 [EquipmentGeneric.BootsArmorBase_Pristine HeroEquipment]
 EquipmentName="Basis Stiefel"
-EquipmentDescription="makellose AusrÃ¼stung"
+EquipmentDescription="makellose Ausrüstung"
 RandomBaseNames[0]=(StringValue="makellose Stiefel")
 RandomBaseNames[1]=(StringValue="makellose Schuhe")
 RandomBaseNames[2]=(StringValue="makellose Stollen")
@@ -577,25 +577,25 @@ RandomBaseNames[4]=(StringValue="Fluch des Albtraums")
 RandomBaseNames[5]=(StringValue="Untergang des Hades")
 RandomBaseNames[6]=(StringValue="Einforderer")
 RandomBaseNames[7]=(StringValue="Elend")
-RandomBaseNames[8]=(StringValue="GeiÃŸel")
+RandomBaseNames[8]=(StringValue="Geißel")
 RandomBaseNames[9]=(StringValue="Ordnungsverderber")
 
 [EquipmentGeneric.BootsArmorBase_Chain HeroEquipment]
-EquipmentName="FuÃŸschutz"
-EquipmentDescription="KettenrÃ¼stung"
+EquipmentName="Fußschutz"
+EquipmentDescription="Kettenrüstung"
 RandomBaseNames[0]=(StringValue="Kettenstiefel")
 RandomBaseNames[1]=(StringValue="Kettenschuhe")
 RandomBaseNames[2]=(StringValue="Kettenstollen")
 RandomBaseNames[3]=(StringValue="Kettenbeinschienen")
 RandomBaseNames[4]=(StringValue="Kettenstampfer")
-RandomBaseNames[5]=(StringValue="KettenbÃ¤rlatschen")
+RandomBaseNames[5]=(StringValue="Kettenbärlatschen")
 
 [EquipmentHuntress.CrossbowStyle4 HeroEquipment]
 EquipmentName="Gatlinggun"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
-RandomBaseNames[0]=(StringValue="StoÃŸer")
-RandomBaseNames[1]=(StringValue="KreissÃ¤ge")
+EquipmentDescription="Verwendbar durch Jägerin"
+RandomBaseNames[0]=(StringValue="Stoßer")
+RandomBaseNames[1]=(StringValue="Kreissäge")
 RandomBaseNames[2]=(StringValue="Gatlinggun")
 RandomBaseNames[3]=(StringValue="Wahnsinnsfuchtel")
 RandomBaseNames[4]=(StringValue="Minigun")
@@ -615,24 +615,24 @@ RandomBaseNames[2]=(StringValue="Koloss")
 RandomBaseNames[3]=(StringValue="Sterblichkeit")
 RandomBaseNames[4]=(StringValue="Delirium")
 RandomBaseNames[5]=(StringValue="Rausch")
-RandomBaseNames[6]=(StringValue="SchwÃ¤rmerei")
+RandomBaseNames[6]=(StringValue="Schwärmerei")
 RandomBaseNames[7]=(StringValue="Inbrunst")
 RandomBaseNames[8]=(StringValue="Wanderstab")
 RandomBaseNames[9]=(StringValue="Jeremys Hingabe")
 
 [EquipmentGeneric.GauntletArmorBase_Chain HeroEquipment]
 EquipmentName="Handschutz"
-EquipmentDescription="KettenrÃ¼stung"
+EquipmentDescription="Kettenrüstung"
 RandomBaseNames[0]=(StringValue="Kettenhandschuhe")
 RandomBaseNames[1]=(StringValue="Kettenstulpen")
 RandomBaseNames[2]=(StringValue="Kettenfausthandschuhe")
 RandomBaseNames[3]=(StringValue="Kettenarmschienen")
 RandomBaseNames[4]=(StringValue="Kettengreifer")
-RandomBaseNames[5]=(StringValue="KettenhandschÃ¼tzer")
+RandomBaseNames[5]=(StringValue="Kettenhandschützer")
 
 [EquipmentGeneric.TorsoArmorBase_Leather HeroEquipment]
-EquipmentName="TorsorÃ¼stung"
-EquipmentDescription="LederrÃ¼stung"
+EquipmentName="Torsorüstung"
+EquipmentDescription="Lederrüstung"
 RandomBaseNames[0]=(StringValue="Lederweste")
 RandomBaseNames[1]=(StringValue="Ledermantel")
 RandomBaseNames[2]=(StringValue="Lederhemd")
@@ -647,14 +647,14 @@ RandomBaseNames[2]=(StringValue="Stygischer Zorn")
 RandomBaseNames[3]=(StringValue="Schwarzer Zorn")
 RandomBaseNames[4]=(StringValue="McGurner")
 RandomBaseNames[5]=(StringValue="Kristallspitze")
-RandomBaseNames[6]=(StringValue="JadezerstÃ¶rer")
+RandomBaseNames[6]=(StringValue="Jadezerstörer")
 RandomBaseNames[7]=(StringValue="Jaspisstab")
 RandomBaseNames[8]=(StringValue="Monolit")
-RandomBaseNames[9]=(StringValue="GolembÃ¤ndiger")
+RandomBaseNames[9]=(StringValue="Golembändiger")
 
 [EquipmentGeneric.TorsoArmorBase_Chain HeroEquipment]
-EquipmentName="TorsorÃ¼stung"
-EquipmentDescription="KettenrÃ¼stung"
+EquipmentName="Torsorüstung"
+EquipmentDescription="Kettenrüstung"
 RandomBaseNames[0]=(StringValue="Kettenweste")
 RandomBaseNames[1]=(StringValue="Kettenhemd")
 RandomBaseNames[2]=(StringValue="Kettenmantel")
@@ -662,9 +662,9 @@ RandomBaseNames[2]=(StringValue="Kettenmantel")
 [EquipmentMonk.MonkSpearStyle10 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Namaste")
-RandomBaseNames[1]=(StringValue="EndgÃ¼ltiges GelÃ¼bde")
+RandomBaseNames[1]=(StringValue="Endgültiges Gelübde")
 RandomBaseNames[2]=(StringValue="Brooker")
 RandomBaseNames[3]=(StringValue="Fromme Pike")
 RandomBaseNames[4]=(StringValue="Heilige Hellebarde")
@@ -677,7 +677,7 @@ RandomBaseNames[9]=(StringValue="Meisterspeer")
 [EquipmentMonk.MonkSpearStyle1 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="bescheidener Speer")
 RandomBaseNames[1]=(StringValue="bescheidene Lanze")
 RandomBaseNames[2]=(StringValue="bescheidene Pike")
@@ -687,21 +687,21 @@ RandomBaseNames[5]=(StringValue="gebogene Pike")
 RandomBaseNames[6]=(StringValue="stumpfer Speer")
 RandomBaseNames[7]=(StringValue="stumpfe Lanze")
 RandomBaseNames[8]=(StringValue="stumpfe Pike")
-RandomBaseNames[9]=(StringValue="Des SchÃ¼lers Streitaxt")
+RandomBaseNames[9]=(StringValue="Des Schülers Streitaxt")
 
 [EquipmentGeneric.BootsArmorBase_Leather HeroEquipment]
-EquipmentName="FuÃŸschutz"
-EquipmentDescription="LederrÃ¼stung"
+EquipmentName="Fußschutz"
+EquipmentDescription="Lederrüstung"
 RandomBaseNames[0]=(StringValue="Lederstiefel")
 RandomBaseNames[1]=(StringValue="Lederschuhe")
 RandomBaseNames[2]=(StringValue="Lederstollen")
 RandomBaseNames[3]=(StringValue="Lederbeinschienen")
 RandomBaseNames[4]=(StringValue="Lederstampfer")
-RandomBaseNames[5]=(StringValue="LederbÃ¤rlatschen")
+RandomBaseNames[5]=(StringValue="Lederbärlatschen")
 
 [EquipmentGeneric.HelmetArmorBase_Chain HeroEquipment]
 EquipmentName="Beinschutz"
-EquipmentDescription="KettenrÃ¼stung"
+EquipmentDescription="Kettenrüstung"
 RandomBaseNames[0]=(StringValue="Kettenhelm")
 RandomBaseNames[1]=(StringValue="Kettenhaube")
 RandomBaseNames[2]=(StringValue="Kettenmaske")
@@ -710,7 +710,7 @@ RandomBaseNames[4]=(StringValue="Kettenkappe")
 
 [EquipmentGeneric.HelmetArmorBase_Mail HeroEquipment]
 EquipmentName="Beinschutz"
-EquipmentDescription="PanzerrÃ¼stung"
+EquipmentDescription="Panzerrüstung"
 RandomBaseNames[0]=(StringValue="Panzerhelm")
 RandomBaseNames[1]=(StringValue="Panzerhaube")
 RandomBaseNames[2]=(StringValue="Panzermaske")
@@ -724,18 +724,18 @@ EquipmentDescription="Verwendbar durch Knappe"
 RandomBaseNames[0]=(StringValue="Burschenschwert")
 RandomBaseNames[1]=(StringValue="Hackbeil")
 RandomBaseNames[2]=(StringValue="Schlachter")
-RandomBaseNames[3]=(StringValue="RÃ¼ckschwert")
+RandomBaseNames[3]=(StringValue="Rückschwert")
 RandomBaseNames[4]=(StringValue="Goblinhacker")
 RandomBaseNames[5]=(StringValue="Verachtungsschneide")
-RandomBaseNames[6]=(StringValue="SchlÃ¤fer")
+RandomBaseNames[6]=(StringValue="Schläfer")
 RandomBaseNames[7]=(StringValue="Breitklinge")
-RandomBaseNames[8]=(StringValue="KÃ¼hnheit")
+RandomBaseNames[8]=(StringValue="Kühnheit")
 RandomBaseNames[9]=(StringValue="Cloud's Neid")
 
 [EquipmentHuntress.CrossbowStyle7 HeroEquipment]
 EquipmentName="Armbrust"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Elegante Armbrust")
 RandomBaseNames[1]=(StringValue="Originelle Armbrust")
 RandomBaseNames[2]=(StringValue="Shakespeare")
@@ -743,15 +743,15 @@ RandomBaseNames[3]=(StringValue="Verfeinerte Armbrust")
 RandomBaseNames[4]=(StringValue="Elegante Armbrust")
 RandomBaseNames[5]=(StringValue="Zier-Armbrust")
 RandomBaseNames[6]=(StringValue="Schicke Armbrust")
-RandomBaseNames[7]=(StringValue="KÃ¶nigliche Faustfeuerwaffe")
-RandomBaseNames[8]=(StringValue="SchÃ¶ner Bolzenwerfer")
+RandomBaseNames[7]=(StringValue="Königliche Faustfeuerwaffe")
+RandomBaseNames[8]=(StringValue="Schöner Bolzenwerfer")
 RandomBaseNames[9]=(StringValue="Ausgewogene Armbrust")
 
 [EquipmentSquire.BroadswordStyle9 HeroEquipment]
 EquipmentName="Schwert"
 EquipmentStatNames[0]="Nahkampfschaden"
 EquipmentDescription="Verwendbar durch Knappe"
-RandomBaseNames[0]=(StringValue="DÃ¤monenklinge")
+RandomBaseNames[0]=(StringValue="Dämonenklinge")
 RandomBaseNames[1]=(StringValue="Hassgipfel")
 RandomBaseNames[2]=(StringValue="Furcht")
 RandomBaseNames[3]=(StringValue="Jordans Scheu")
@@ -760,11 +760,11 @@ RandomBaseNames[5]=(StringValue="Verzweiflung")
 RandomBaseNames[6]=(StringValue="Stachel der Angst")
 RandomBaseNames[7]=(StringValue="Herzhacker")
 RandomBaseNames[8]=(StringValue="Henker")
-RandomBaseNames[9]=(StringValue="Einschneidender ZweihÃ¤nder")
+RandomBaseNames[9]=(StringValue="Einschneidender Zweihänder")
 
 [EquipmentGeneric.TorsoArmorBase_Plate HeroEquipment]
-EquipmentName="TorsorÃ¼stung"
-EquipmentDescription="PlattenrÃ¼stung"
+EquipmentName="Torsorüstung"
+EquipmentDescription="Plattenrüstung"
 RandomBaseNames[0]=(StringValue="Plattenweste")
 RandomBaseNames[1]=(StringValue="Plattenhemd")
 RandomBaseNames[2]=(StringValue="Plattenmantel")
@@ -773,21 +773,21 @@ RandomBaseNames[2]=(StringValue="Plattenmantel")
 EquipmentName="Schwert"
 EquipmentStatNames[0]="Nahkampfschaden"
 EquipmentDescription="Verwendbar durch Knappe"
-RandomBaseNames[0]=(StringValue="PrinzenschÃ¼tzer")
+RandomBaseNames[0]=(StringValue="Prinzenschützer")
 RandomBaseNames[1]=(StringValue="Kriegsmesser")
 RandomBaseNames[2]=(StringValue="Joyeuse")
 RandomBaseNames[3]=(StringValue="Gerechtigkeitsbringer")
-RandomBaseNames[4]=(StringValue="SouverÃ¤n")
+RandomBaseNames[4]=(StringValue="Souverän")
 RandomBaseNames[5]=(StringValue="Maharadschah")
 RandomBaseNames[6]=(StringValue="Zarenschwert")
-RandomBaseNames[7]=(StringValue="WahrheitsmaÃŸ")
-RandomBaseNames[8]=(StringValue="Alexanders GroÃŸschwert")
+RandomBaseNames[7]=(StringValue="Wahrheitsmaß")
+RandomBaseNames[8]=(StringValue="Alexanders Großschwert")
 RandomBaseNames[9]=(StringValue="Yotams Dekret")
 
 [EquipmentMonk.MonkSpearStyle8 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Zeremonieller Spaten")
 RandomBaseNames[1]=(StringValue="Shaolinspaten")
 RandomBaseNames[2]=(StringValue="Abtsfaust")
@@ -802,60 +802,60 @@ RandomBaseNames[9]=(StringValue="Halbmondspaten")
 [EquipmentMonk.MonkSpearStyle7 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
+EquipmentDescription="Verwendbar durch Mönch"
 RandomBaseNames[0]=(StringValue="Hellion")
 RandomBaseNames[1]=(StringValue="Metzler")
-RandomBaseNames[2]=(StringValue="BlutvergieÃŸer")
-RandomBaseNames[3]=(StringValue="RÃ¼cksichtslose Pike")
+RandomBaseNames[2]=(StringValue="Blutvergießer")
+RandomBaseNames[3]=(StringValue="Rücksichtslose Pike")
 RandomBaseNames[4]=(StringValue="Krummer Speer")
 RandomBaseNames[5]=(StringValue="Barbarenhaft")
 RandomBaseNames[6]=(StringValue="Primitiver Speer")
 RandomBaseNames[7]=(StringValue="Grausame Lanze")
-RandomBaseNames[8]=(StringValue="BÃ¶sartigkeit")
+RandomBaseNames[8]=(StringValue="Bösartigkeit")
 RandomBaseNames[9]=(StringValue="Graumsamkeit")
 
 [EquipmentHuntress.CrossbowStyle9 HeroEquipment]
 EquipmentName="Armbrust"
 EquipmentStatNames[0]="Fernkampfschaden"
-EquipmentDescription="Verwendbar durch JÃ¤gerin"
+EquipmentDescription="Verwendbar durch Jägerin"
 RandomBaseNames[0]=(StringValue="Ternion")
 RandomBaseNames[1]=(StringValue="Zerberus")
 RandomBaseNames[2]=(StringValue="Dreifachschuss")
 RandomBaseNames[3]=(StringValue="Dreifach")
 RandomBaseNames[4]=(StringValue="Dreifache Gefahr")
-RandomBaseNames[5]=(StringValue="HydraschlÃ¤chter")
-RandomBaseNames[6]=(StringValue="SchimÃ¤renschieÃŸer")
+RandomBaseNames[5]=(StringValue="Hydraschlächter")
+RandomBaseNames[6]=(StringValue="Schimärenschießer")
 RandomBaseNames[7]=(StringValue="Tri-Qaws")
-RandomBaseNames[8]=(StringValue="ErzÃ¤hlerkomplex")
-RandomBaseNames[9]=(StringValue="NÃ¼tzliche Armbrust")
+RandomBaseNames[8]=(StringValue="Erzählerkomplex")
+RandomBaseNames[9]=(StringValue="Nützliche Armbrust")
 
 [EquipmentMonk.MonkSpearStyle2 HeroEquipment]
 EquipmentName="Speer"
 EquipmentStatNames[0]="Nahkampfschaden"
-EquipmentDescription="Verwendbar durch MÃ¶nch"
-RandomBaseNames[0]=(StringValue="WÃ¤chterpike")
+EquipmentDescription="Verwendbar durch Mönch"
+RandomBaseNames[0]=(StringValue="Wächterpike")
 RandomBaseNames[1]=(StringValue="Steinbesetzte Pike")
 RandomBaseNames[2]=(StringValue="Juwelenbesetzter Speer")
-RandomBaseNames[3]=(StringValue="Eingewickelter AufspieÃŸer")
-RandomBaseNames[4]=(StringValue="BÃ¶sartige Stangenwaffe")
+RandomBaseNames[3]=(StringValue="Eingewickelter Aufspießer")
+RandomBaseNames[4]=(StringValue="Bösartige Stangenwaffe")
 RandomBaseNames[5]=(StringValue="Gesellenspitze")
-RandomBaseNames[6]=(StringValue="JÃ¼ngerlanze")
-RandomBaseNames[7]=(StringValue="JÃ¼ngerspeer")
+RandomBaseNames[6]=(StringValue="Jüngerlanze")
+RandomBaseNames[7]=(StringValue="Jüngerspeer")
 RandomBaseNames[8]=(StringValue="Steinbesetzte Lanze")
-RandomBaseNames[9]=(StringValue="WÃ¤chterspeer")
+RandomBaseNames[9]=(StringValue="Wächterspeer")
 
 [VictoryItems.MonkSpear_VictoryReward HeroEquipment]
 EquipmentName="Vaters Speer"
-EquipmentDescription="Der leistungsstarke Speer eines legendÃ¤ren Dichter-Kriegers."
+EquipmentDescription="Der leistungsstarke Speer eines legendären Dichter-Kriegers."
 
 [VictoryItems.MageStaff_VictoryReward HeroEquipment]
 EquipmentName="Vaters Kirchenstab"
-EquipmentDescription="Der magische Stab eines legendÃ¤ren und brillanten Magiers."
+EquipmentDescription="Der magische Stab eines legendären und brillanten Magiers."
 
 [VictoryItems.HuntressBow_VictoryReward HeroEquipment]
 EquipmentName="Mutters Armbrust"
-EquipmentDescription="Die treue Armbrust einer legendÃ¤ren und gerissenen JÃ¤gerin."
+EquipmentDescription="Die treue Armbrust einer legendären und gerissenen Jägerin."
 
 [VictoryItems.Broadsword_VictoryReward HeroEquipment]
 EquipmentName="Vaters Schwert"
-EquipmentDescription="Das mÃ¤chtige Schwert eines legendÃ¤ren und mutige Ritters."
+EquipmentDescription="Das mächtige Schwert eines legendären und mutige Ritters."

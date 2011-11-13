@@ -1,66 +1,66 @@
-ï»¿[ActionWheel.WheelEntry_Squire_Build_BouncyBlockade ActionWheelEntry]
-ToolTipDescription="Diese spezielle Blockade wirft alle&Feinde mit grosser Kraft und Schaden zurÃ¼ck."
+?[ActionWheel.WheelEntry_Squire_Build_BouncyBlockade ActionWheelEntry]
+ToolTipDescription="Diese spezielle Blockade wirft alle&Feinde mit grosser Kraft und Schaden zurück."
 
 [ActionWheel.WheelEntry_Build_MagicMissileTower ActionWheelEntry]
-ToolTipDescription="SchieÃŸt magische Geschosse auf die Gegner.&Nicht sonderlich stark, kann aber in groÃŸer Anzahl tÃ¶dlich sein."
+ToolTipDescription="Schießt magische Geschosse auf die Gegner.&Nicht sonderlich stark, kann aber in großer Anzahl tödlich sein."
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraEnsnare ActionWheelEntry]
 ToolTipDescription="Alle Feinde in dieser Aura&werden drastisch langsamer."
 
 [ActionWheel.WheelEntry_Build_ChainLightningTower ActionWheelEntry]
-ToolTipDescription="SchieÃŸt betÃ¤ubende, elektrische Blitze,&die zwischen den Feinden umherspringen."
+ToolTipDescription="Schießt betäubende, elektrische Blitze,&die zwischen den Feinden umherspringen."
 
 [ActionWheel.WheelEntry_Upgrade ActionWheelEntry]
-ToolTipDescription="WÃ¤hle eine Verteidigung aus,&um sie mit Mana aufzuwerten."
+ToolTipDescription="Wähle eine Verteidigung aus,&um sie mit Mana aufzuwerten."
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraStrengthDrain ActionWheelEntry]
 ToolTipDescription="Alle Feinde in dieser Aura&haben einen drastisch gesunkenen Angriffsschaden."
 
 [ActionWheel.WheelEntry_DetonateTraps ActionWheelEntry]
-ToolTipDescription="Detoniere selbsttÃ¤tig alle Fallen,&die unmittelbar in der NÃ¤he sind."
+ToolTipDescription="Detoniere selbsttätig alle Fallen,&die unmittelbar in der Nähe sind."
 
 [Abilities.Ability_Huntress_PiercingShot DunDefPlayerAbility_GenericActorSpawner]
 DescriptiveName="Durchschuss"
 
 [ActionWheel.WheelEntry_Build_DeadlyStrikerTower ActionWheelEntry]
-ToolTipDescription="SchieÃŸt schnelle, tÃ¶dliche und magische Bolzen, die& mit einer geringen Feuerrate, auch durch WÃ¤nde schiessen."
+ToolTipDescription="Schießt schnelle, tödliche und magische Bolzen, die& mit einer geringen Feuerrate, auch durch Wände schiessen."
 
 [ActionWheel.WheelEntry_Sell ActionWheelEntry]
-ToolTipDescription="Verkauf eine Verteidigung fÃ¼r einen Teil der ursprÃ¼nglichen Kosten,&abhÃ¤ngig von der Gesundheit die sie hat."
+ToolTipDescription="Verkauf eine Verteidigung für einen Teil der ursprünglichen Kosten,&abhängig von der Gesundheit die sie hat."
 
 [ActionWheel.WheelEntry_Squire_Build_BowlingBallTower ActionWheelEntry]
-ToolTipDescription="Dieses GeschÃ¼tz schieÃŸt Kugeln,&die an Gegnern und WÃ¤nden abprallen, jedoch nur in eine bestimmte Richtung."
+ToolTipDescription="Dieses Geschütz schießt Kugeln,&die an Gegnern und Wänden abprallen, jedoch nur in eine bestimmte Richtung."
 
 [ActionWheel.WheelEntry_Recruit_HeroBoost ActionWheelEntry]
-ToolTipDescription="ErhÃ¶ht die StÃ¤rke von allen in der NÃ¤he befindlichen&Helden und verbÃ¼ndeten Kreaturen und regeneriert deren Gesundheit."
+ToolTipDescription="Erhöht die Stärke von allen in der Nähe befindlichen&Helden und verbündeten Kreaturen und regeneriert deren Gesundheit."
 
 [ActionWheel.WheelEntry_Build_ProxMineTrap ActionWheelEntry]
-ToolTipDescription="Eine Falle, die, sobald sie ausgelÃ¶st wird,&allen Feinde mit einer Explosion schadet."
+ToolTipDescription="Eine Falle, die, sobald sie ausgelöst wird,&allen Feinde mit einer Explosion schadet."
 
 [Abilities.Ability_Squire_CircleSlice DunDefPlayerAbility_Squire_CircleSlice]
 DescriptiveName="Rundumschlag"
 
 [ActionWheel.WheelEntry_Squire_Build_HarpoonTower ActionWheelEntry]
-ToolTipDescription="Dieses GeschÃ¼tz schieÃŸt Harpunen durch Feinde&und ist nÃ¼tzlich, wenn die Feinde in einer Reihe sind."
+ToolTipDescription="Dieses Geschütz schießt Harpunen durch Feinde&und ist nützlich, wenn die Feinde in einer Reihe sind."
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraEnrage ActionWheelEntry]
-ToolTipDescription="Alle Feinde in dieser Aura werden&sich gegenseitig bekÃ¤mpfen!"
+ToolTipDescription="Alle Feinde in dieser Aura werden&sich gegenseitig bekämpfen!"
 
 [ActionWheel.WheelEntry_Character ActionWheelEntry]
 DescriptiveName="Held"
-ToolTipDescription="Greife auf deine HeldenfÃ¤higkeiten, dein Inventar&und die Attribute zu."
+ToolTipDescription="Greife auf deine Heldenfähigkeiten, dein Inventar&und die Attribute zu."
 
 [ActionWheel.WheelEntry_Squire_Build_SpikyBlockade ActionWheelEntry]
-ToolTipDescription="Diese verstÃ¤rkte Blockade hat Dornen,&die Feinde schÃ¤digen, die dessen Front berÃ¼hren!"
+ToolTipDescription="Diese verstärkte Blockade hat Dornen,&die Feinde schädigen, die dessen Front berühren!"
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraHeal ActionWheelEntry]
-ToolTipDescription="Alle verbÃ¼ndeten Helden in dieser&Aura werden mit der Zeit geheilt!"
+ToolTipDescription="Alle verbündeten Helden in dieser&Aura werden mit der Zeit geheilt!"
 
 [ActionWheel.WheelEntry_Squire_Build_SliceNDiceTower ActionWheelEntry]
-ToolTipDescription="Diese Blockade braucht Anlaufzeit, aber&sobald sie rotiert, schneidet sie alle Feinde in Reichweite in StÃ¼cke!"
+ToolTipDescription="Diese Blockade braucht Anlaufzeit, aber&sobald sie rotiert, schneidet sie alle Feinde in Reichweite in Stücke!"
 
 [ActionWheel.WheelEntry_Build_InfernoTrap ActionWheelEntry]
-ToolTipDescription="Wenn diese Falle ausgelÃ¶st wird, beschÃ¤digt ein Flammenkreis&im Lauf der Zeit alle Feinde in unmittelbarer NÃ¤he."
+ToolTipDescription="Wenn diese Falle ausgelöst wird, beschädigt ein Flammenkreis&im Lauf der Zeit alle Feinde in unmittelbarer Nähe."
 
 [ActionWheel.WheelEntry_Recruit_Build_AuraDeathlyHallows ActionWheelEntry]
 ToolTipDescription="Alle Feinde in dieser Aura verlieren&im Lauf der Zeit ihre Gesundheit!"
@@ -79,13 +79,13 @@ DescriptiveName="Unsichtbarkeit"
 DescriptiveName="Verteidigung aufwerten"
 
 [ActionWheel.WheelEntry_Apprentice_Overcharge ActionWheelEntry]
-ToolTipDescription="Reduziert deine BeschwÃ¶rungsdauer,&solange die FÃ¤higkeit aktiv ist."
+ToolTipDescription="Reduziert deine Beschwörungsdauer,&solange die Fähigkeit aktiv ist."
 
 [Abilities.Ability_RepairTower DunDefPlayerAbility_RepairTower]
 DescriptiveName="Reparieren"
 
 [ActionWheel.WheelEntry_Build_DarknessTrap ActionWheelEntry]
-ToolTipDescription="Wenn diese Falle ausgelÃ¶st wird, bewirkt eine&Finsterniswolke, dass Feinde ihr aktuelles Ziel verlieren."
+ToolTipDescription="Wenn diese Falle ausgelöst wird, bewirkt eine&Finsterniswolke, dass Feinde ihr aktuelles Ziel verlieren."
 
 [ActionWheel.WheelEntry_Initiate_Invisibility ActionWheelEntry]
 ToolTipDescription="Werde unsichtbar,&um von deinen Feinden nicht gesehen zu werden."
@@ -94,67 +94,67 @@ ToolTipDescription="Werde unsichtbar,&um von deinen Feinden nicht gesehen zu wer
 DescriptiveName="Blutrausch"
 
 [ActionWheel.WheelEntry_Repair ActionWheelEntry]
-ToolTipDescription="WÃ¤hle eine Verteidigung aus,&um sie mit Mana zu reparieren."
+ToolTipDescription="Wähle eine Verteidigung aus,&um sie mit Mana zu reparieren."
 
 [ActionWheel.WheelEntry_Build_FireballTower ActionWheelEntry]
-ToolTipDescription="Feuert explodierende FeuerbÃ¤lle mit FlÃ¤chenschaden.&Langsam, aber effektiv."
+ToolTipDescription="Feuert explodierende Feuerbälle mit Flächenschaden.&Langsam, aber effektiv."
 
 [ActionWheel.WheelEntry_Huntress_PiercingShot ActionWheelEntry]
-ToolTipDescription="SchieÃŸt einen magischen Pfeil ab, der durch deine&Feinde fliegt und sie nacheinander schÃ¤digt."
+ToolTipDescription="Schießt einen magischen Pfeil ab, der durch deine&Feinde fliegt und sie nacheinander schädigt."
 
 [ActionWheel.WheelEntry_Heal ActionWheelEntry]
 ToolTipDescription="Selbstheilung"
 
 [Abilities.Ability_Recruit_TowerBoost DunDefPlayerAbility_Recruit_TowerBoost]
-DescriptiveName="VerteidigungsverstÃ¤rkung"
+DescriptiveName="Verteidigungsverstärkung"
 
 [ActionWheel.WheelEntry_Build_GasTrap ActionWheelEntry]
-ToolTipDescription="Gibt Reizgas ab, wenn sie aktiviert wird und&lÃ¤hmt alle Feinde in Ihrer NÃ¤he fÃ¼r eine bestimmte Dauer."
+ToolTipDescription="Gibt Reizgas ab, wenn sie aktiviert wird und&lähmt alle Feinde in Ihrer Nähe für eine bestimmte Dauer."
 
 [ActionWheel.WheelEntry_Build_EtherealSpikeTrap ActionWheelEntry]
-ToolTipDescription="Wenn diese Falle ausgelÃ¶st wird, wird ein einziger&Feind im Umkreis aufgespieÃŸt und leidet massiv Schaden."
+ToolTipDescription="Wenn diese Falle ausgelöst wird, wird ein einziger&Feind im Umkreis aufgespießt und leidet massiv Schaden."
 
 [ActionWheel.WheelEntry_HeroInfo ActionWheelEntry]
 DescriptiveName="Heldeninformationen"
 ToolTipDescription="Schau dir die Attribute und das Inventar deines Helden an."
 
 [ActionWheel.WheelEntry_Recruit_TowerBoost ActionWheelEntry]
-ToolTipDescription="ErhÃ¶ht die StÃ¤rke aller TÃ¼rme in&der NÃ¤he und regeneriert deren Gesundheit."
+ToolTipDescription="Erhöht die Stärke aller Türme in&der Nähe und regeneriert deren Gesundheit."
 
 [ActionWheel.WheelEntry_Squire_CircleSlice ActionWheelEntry]
-ToolTipDescription="LÃ¶st einen verheerenden Rundumschlag gegenÃ¼ber&allen Feinden aus!"
+ToolTipDescription="Löst einen verheerenden Rundumschlag gegenüber&allen Feinden aus!"
 
 [ActionWheel.WheelEntry_Build ActionWheelEntry]
-DescriptiveName="BeschwÃ¶re Verteidigungen"
-ToolTipDescription="WÃ¤hle eine Verteidigungen&aus und beschwÃ¶re sie!"
+DescriptiveName="Beschwöre Verteidigungen"
+ToolTipDescription="Wähle eine Verteidigungen&aus und beschwöre sie!"
 
 [ActionWheel.WheelEntry_Apprentice_ManaBomb ActionWheelEntry]
-ToolTipDescription="BeschwÃ¶re eine massive Manaexplosion,&die groÃŸe SchÃ¤den in deiner nÃ¤heren Umgebung anrichtet."
+ToolTipDescription="Beschwöre eine massive Manaexplosion,&die große Schäden in deiner näheren Umgebung anrichtet."
 
 [ActionWheel.WheelEntry_Build_Blockade ActionWheelEntry]
 ToolTipDescription="Blockiert Feinde und hebt auf magische&Weise die elementaren Attribute aller Kreaturen, die sie angreift, auf."
 
 [Abilities.Ability_Recruit_HeroBoost DunDefPlayerAbility_Recruit_HeroBoost]
-DescriptiveName="HeldenverstÃ¤rkung"
+DescriptiveName="Heldenverstärkung"
 
 [ActionWheel.WheelEntry_Squire_BloodRage ActionWheelEntry]
 ToolTipDescription="Werde zum Berserker und schlachte deine Feinde ab.&verdoppelt Geschwindigkeit, Schaden und Widerstand!"
 
 [Abilities.Ability_Apprentice_Overcharge DunDefPlayerAbility_Apprentice_Overcharge]
-DescriptiveName="Ãœberladung"
+DescriptiveName="Überladung"
 
 [HeroTemplateApprentice DunDefHero]
-StatNames[5]="Ãœberladung"
+StatNames[5]="Überladung"
 StatNames[6]="Manabombe"
-StatDescriptions[5]="Durch Ãœberladung kann der Lehrling Verteidigungen und&Zauber viel schneller als sonst wirken."
-StatDescriptions[6]="Die Manabombe entfesselt einen verwÃ¼stenden explosiven StoÃŸ,&der allen nahe gelegenen Feinde massiven Schaden zufÃ¼gt."
+StatDescriptions[5]="Durch Überladung kann der Lehrling Verteidigungen und&Zauber viel schneller als sonst wirken."
+StatDescriptions[6]="Die Manabombe entfesselt einen verwüstenden explosiven Stoß,&der allen nahe gelegenen Feinde massiven Schaden zufügt."
 HeroClassDisplayName="Lehrling"
-HeroClassDescription="Durch Anlegen seines Mantels und des Zauberhutes, wird der Lehrling beflÃ¼gelt, tiefer in die Welt der Magie einzutauchen. Unter der Leitung des Grossen Magus hat der Lehrling die Kunst der BeschwÃ¶rung erlernt. WÃ¤hrend verzaubernde TÃ¼rme mystischen Ursprungs ihm zu Hilfe kommen, lÃ¤sst er seine Feinde mit Wellen voll von Magie aus der Ferne zerstÃ¶ren."
+HeroClassDescription="Durch Anlegen seines Mantels und des Zauberhutes, wird der Lehrling beflügelt, tiefer in die Welt der Magie einzutauchen. Unter der Leitung des Grossen Magus hat der Lehrling die Kunst der Beschwörung erlernt. Während verzaubernde Türme mystischen Ursprungs ihm zu Hilfe kommen, lässt er seine Feinde mit Wellen voll von Magie aus der Ferne zerstören."
 colorTemplates[0]=(colorName="Standard")
 colorTemplates[1]=(colorName="Glut")
 colorTemplates[2]=(colorName="Dschungel")
 colorTemplates[3]=(colorName="Gefahr")
-colorTemplates[4]=(colorName="HÃ¼bsch")
+colorTemplates[4]=(colorName="Hübsch")
 colorTemplates[5]=(colorName="Apotheker")
 colorTemplates[6]=(colorName="Sturm")
 colorTemplates[7]=(colorName="Ausgewogen")
@@ -166,22 +166,22 @@ StatNames[5]="Unsichtbarkeit"
 StatNames[6]="Durchschuss"
 StatNames[7]="Anzahl der Detonationen der Falle"
 StatNames[8]="Frequenz der Falle"
-StatNames[9]="StÃ¤rke der Falle"
+StatNames[9]="Stärke der Falle"
 StatNames[10]="Radius der Falle"
-StatDescriptions[5]="Unsichtbarkeit ermÃ¶glicht dem AusfÃ¼hrenden, von allen Feinden ungesehen zu bleiben, sogar wenn sie angreifen!"
-StatDescriptions[6]="Durchschuss entfesselt ein magisches Geschoss, das sich durch Feinde reiÃŸt, wÃ¤hrend es gleichzeitig den Schaden der Waffe erhÃ¶ht."
-HeroClassDisplayName="JÃ¤gerin"
-HeroClassDescription="Ausgebildet in der Kundschafterei, setzt die geschwinde und schlanke JÃ¤gerin auf tÃ¶dliche Fallen und Explosionen. Lass Dich nicht durch ihr Aussehen blenden. Dieser elegante weibliche Teufel ist im Umgang mit Waffen, groÃŸer Reichweite geschult - ihre Zielsicherheit ist akkurat. Mit ihrem BÃ¼ndel an Pfeilen, geschossen aus dem Hinterhalt, wird sie sicherlich kein Feind je zu Gesicht bekommen!"
+StatDescriptions[5]="Unsichtbarkeit ermöglicht dem Ausführenden, von allen Feinden ungesehen zu bleiben, sogar wenn sie angreifen!"
+StatDescriptions[6]="Durchschuss entfesselt ein magisches Geschoss, das sich durch Feinde reißt, während es gleichzeitig den Schaden der Waffe erhöht."
+HeroClassDisplayName="Jägerin"
+HeroClassDescription="Ausgebildet in der Kundschafterei, setzt die geschwinde und schlanke Jägerin auf tödliche Fallen und Explosionen. Lass Dich nicht durch ihr Aussehen blenden. Dieser elegante weibliche Teufel ist im Umgang mit Waffen, großer Reichweite geschult - ihre Zielsicherheit ist akkurat. Mit ihrem Bündel an Pfeilen, geschossen aus dem Hinterhalt, wird sie sicherlich kein Feind je zu Gesicht bekommen!"
 colorTemplates[0]=(colorName="Standard")
 colorTemplates[1]=(colorName="Winter")
 colorTemplates[2]=(colorName="Magd")
 colorTemplates[3]=(colorName="Party")
 colorTemplates[4]=(colorName="Hinterwald")
-colorTemplates[5]=(colorName="GÃ¶r")
+colorTemplates[5]=(colorName="Gör")
 colorTemplates[6]=(colorName="Tarnung")
 colorTemplates[7]=(colorName="Koralle")
 colorTemplates[8]=(colorName="Anfeuerer")
-colorTemplates[9]=(colorName="ZurÃ¼ckgekehrter")
+colorTemplates[9]=(colorName="Zurückgekehrter")
 
 [heroManager DunDefHeroManager]
 CrystalCores[0]=(coreName="Klassisch")
@@ -193,72 +193,72 @@ CrystalCores[5]=(coreName="Molekular")
 CrystalCores[6]=(coreName="Runisch")
 CrystalCores[7]=(coreName="Landschaftlich")
 CrystalCores[8]=(coreName="Wasserfall")
-CrystalCores[9]=(coreName="Ã–stlich")
+CrystalCores[9]=(coreName="Östlich")
 CrystalCores[10]=(coreName="Westlich")
 CrystalCores[11]=(coreName="Fantasie")
 CrystalCores[12]=(coreName="Kelch")
 CrystalCores[13]=(coreName="Behornt")
-CrystalCores[14]=(coreName="BÃ¼chse der Pandora")
+CrystalCores[14]=(coreName="Büchse der Pandora")
 CrystalCores[15]=(coreName="Buch der Seelen")
-CrystalCores[16]=(coreName="MajestÃ¤tische Urne")
-CrystalCores[17]=(coreName="SchÃ¤deltastisch!")
+CrystalCores[16]=(coreName="Majestätische Urne")
+CrystalCores[17]=(coreName="Schädeltastisch!")
 CrystalCores[18]=(coreName="Geld")
 CrystalCores[19]=(coreName="Obelisk")
 CrystalCores[20]=(coreName="Himmelsstadt")
 CrystalCores[21]=(coreName="Bio-Container")
 CrystalCores[22]=(coreName="Schmelzkern")
 CrystalCores[23]=(coreName="Organischer Becher")
-CrystalCores[24]=(coreName="KÃ¶nigskrone")
+CrystalCores[24]=(coreName="Königskrone")
 CrystalCores[25]=(coreName="Sie sind Trendy.")
-ProTips[0]="Alle Bosse haben eine SchwÃ¤che. Finde und nutze Sie!"
-ProTips[1]="Nutze eine Kombination aus verschiedenen Heldenklassen fÃ¼r die effektivsten Strategien!"
-ProTips[2]="Du kannst deine AusrÃ¼stung an der Schmiede aufwerten, um sie stÃ¤rker zu machen. Ebenfalls kannst du Ã¼berschÃ¼ssige Objekte verkaufen."
-ProTips[3]="Greife auf deine HeldenfÃ¤higkeiten im Bereich 'Helden' des Aktionsrads zu. Weise deinen FÃ¤higkeiten Hotkeys zu, um sie schneller im Spiel anwenden zu kÃ¶nnen."
-ProTips[4]="ÃœberschÃ¼ssiges Mana kannst du in deiner Verteidigerschmiede lagern."
-ProTips[5]="Benutze die Minikarte, um bessere AusrÃ¼stung zu finden, welche als grÃ¼ne Punkten angezeigt werden."
-ProTips[6]="Alle Helden kÃ¶nnen Fallen der JÃ¤gerin auslÃ¶sen."
-ProTips[7]="Die 'VerstÃ¤rkungs'-FÃ¤higkeiten des MÃ¶nchs machen ihn zu einer wichtigen Waffe gegen Oger."
-ProTips[8]="Mit 'Unsichtbarkeit' kann die JÃ¤gerin ungehindert Verteidigungen reparieren oder verbessern."
-ProTips[9]="Benutze die 'Block'-FÃ¤higkeit des Knappen wenn Du in der Patsche sitzt!"
-ProTips[10]="Die 'Ãœberladung'sfÃ¤higkeit des Lehrlings kann in Verbindung mit der 'Manabombe' und anderen Zaubern benutzt werden."
-ProTips[11]="Die Wirkgeschwindigkeit des Helden ist wichtig fÃ¼r schnelle Reparaturen und Aufwertungen."
-ProTips[12]="Hohe Geschwindigkeit ist wichtig um sich schnell Ã¼ber grosse Karten bewegen zu kÃ¶nnen. VernachlÃ¤ssige nicht die Heldengeschwindigkeit!"
-ProTips[13]="Werte auf anstatt zu reparieren! Aufwertung der Verteidigung fÃ¼llt automatisch seine Gesundheit!"
-ProTips[14]="Du kannst GegenstÃ¤nde in deiner Taverne sperren, um deine RÃ¼stungen und Waffen sicher anderen Spielern zu zeigen."
-ProTips[15]="Benutze Verteidigungen der unterschiedlichen Heldenklassen fÃ¼r die die bestmÃ¶glichste Strategie."
+ProTips[0]="Alle Bosse haben eine Schwäche. Finde und nutze Sie!"
+ProTips[1]="Nutze eine Kombination aus verschiedenen Heldenklassen für die effektivsten Strategien!"
+ProTips[2]="Du kannst deine Ausrüstung an der Schmiede aufwerten, um sie stärker zu machen. Ebenfalls kannst du überschüssige Objekte verkaufen."
+ProTips[3]="Greife auf deine Heldenfähigkeiten im Bereich 'Helden' des Aktionsrads zu. Weise deinen Fähigkeiten Hotkeys zu, um sie schneller im Spiel anwenden zu können."
+ProTips[4]="Überschüssiges Mana kannst du in deiner Verteidigerschmiede lagern."
+ProTips[5]="Benutze die Minikarte, um bessere Ausrüstung zu finden, welche als grüne Punkten angezeigt werden."
+ProTips[6]="Alle Helden können Fallen der Jägerin auslösen."
+ProTips[7]="Die 'Verstärkungs'-Fähigkeiten des Mönchs machen ihn zu einer wichtigen Waffe gegen Oger."
+ProTips[8]="Mit 'Unsichtbarkeit' kann die Jägerin ungehindert Verteidigungen reparieren oder verbessern."
+ProTips[9]="Benutze die 'Block'-Fähigkeit des Knappen wenn Du in der Patsche sitzt!"
+ProTips[10]="Die 'Überladung'sfähigkeit des Lehrlings kann in Verbindung mit der 'Manabombe' und anderen Zaubern benutzt werden."
+ProTips[11]="Die Wirkgeschwindigkeit des Helden ist wichtig für schnelle Reparaturen und Aufwertungen."
+ProTips[12]="Hohe Geschwindigkeit ist wichtig um sich schnell über grosse Karten bewegen zu können. Vernachlässige nicht die Heldengeschwindigkeit!"
+ProTips[13]="Werte auf anstatt zu reparieren! Aufwertung der Verteidigung füllt automatisch seine Gesundheit!"
+ProTips[14]="Du kannst Gegenstände in deiner Taverne sperren, um deine Rüstungen und Waffen sicher anderen Spielern zu zeigen."
+ProTips[15]="Benutze Verteidigungen der unterschiedlichen Heldenklassen für die die bestmöglichste Strategie."
 ProTips[16]="Achte auf die Gesundheit deiner Verteidigungen. Verteidigungen zu reparieren, kostet weniger als sie wieder aufzubauen."
-ProTips[17]="Das Verkaufen von Verteidigungen, die wÃ¤hrend der gleichen Bauphase beschworen wurden, erstattet den ganzen Manapreis zurÃ¼ck."
-ProTips[18]="Verteidigungen kÃ¶nnen Geschosse durch andere Verteidigungen schieÃŸen."
+ProTips[17]="Das Verkaufen von Verteidigungen, die während der gleichen Bauphase beschworen wurden, erstattet den ganzen Manapreis zurück."
+ProTips[18]="Verteidigungen können Geschosse durch andere Verteidigungen schießen."
 ProTips[19]="Benutze die Umgebung zu deinem Vorteil. Stosse Feinde in Stacheln oder Lava."
 ProTips[20]="Die Minikarte zeigt die Gesundheit anderer Verteidigungen. Verteidigungen, die sich in einem kritischen Zustand befinden, blinken rot!"
 ProTips[21]="Nimm eine sichere Position ein, bevor du aufwertest oder reparierst."
-ProTips[22]="Lass die Wyvern nicht aus dem Auge. Sie kÃ¶nnen Ã¼ber deine Verteidigungen fliegen und Eternia-Kristalle von oben aus angreifen."
-ProTips[23]="Wenn du die Dunkelelfmagier am Leben lÃ¤sst, werden Sie sich und ihre GefÃ¤hrten heilen und immer wieder Skelette beschwÃ¶ren."
-ProTips[24]="Die Dunkelelfkrieger werden dich um jedem Preis verfolgen. Selbst wenn du unsichtbar bist! Wenn sie rennen kÃ¶nnen sie auch keine Fallen auslÃ¶sen. Vor ihren akrobatischen Angriffen ist deshalb Vorsicht geboten!"
-ProTips[25]="TÃ¶te Kobolde noch bevor sie ihr Dynamit anzÃ¼nden kÃ¶nnen, um Explosionen zu vermeiden!"
-ProTips[26]="Achte vor jeder Welle auf die Feindestafeln vor den Toren, um mÃ¶glichst strategisch vorzugehen."
+ProTips[22]="Lass die Wyvern nicht aus dem Auge. Sie können über deine Verteidigungen fliegen und Eternia-Kristalle von oben aus angreifen."
+ProTips[23]="Wenn du die Dunkelelfmagier am Leben lässt, werden Sie sich und ihre Gefährten heilen und immer wieder Skelette beschwören."
+ProTips[24]="Die Dunkelelfkrieger werden dich um jedem Preis verfolgen. Selbst wenn du unsichtbar bist! Wenn sie rennen können sie auch keine Fallen auslösen. Vor ihren akrobatischen Angriffen ist deshalb Vorsicht geboten!"
+ProTips[25]="Töte Kobolde noch bevor sie ihr Dynamit anzünden können, um Explosionen zu vermeiden!"
+ProTips[26]="Achte vor jeder Welle auf die Feindestafeln vor den Toren, um möglichst strategisch vorzugehen."
 ProTips[27]="Sei ein Teamspieler, repariere Verteidigungen anderer Spieler und nicht nur deine eigenen."
 ProTips[28]="Deine Mitspieler brauchen Mana? Benutze die Mana Wegwerfen-Option im Heldeninfo-Fenster."
-ProTips[29]="Tausche Helden an der Verteidigerschmiede aus um auch Verteidigungen deiner anderen Klassen bauen zu kÃ¶nnen."
-ProTips[30]="Sichere deine Objekte in der Itembox mit der 'Sperren' Funktion, um versehentliches Verkaufen oder Wegwerfen zu verhindern. GegenstÃ¤nde, die in der Taverne fallen gelassen werden, bleiben liegen. Dies ist nÃ¼tzlich, weil dein Stauraum begrenzt ist!"
-ProTips[31]="Im Laufe deines Abenteuers kannst du auf Vertraute und Tiere treffen, die auch auf aufgewertet werden kÃ¶nnen!"
-ProTips[32]="Die 'Block'-fÃ¤higkeit des Knappen ermÃ¶glicht es ihm, ankommenden Schaden zu mindern und seinem Helfer eine Unterbrechung zu vermeiden."
+ProTips[29]="Tausche Helden an der Verteidigerschmiede aus um auch Verteidigungen deiner anderen Klassen bauen zu können."
+ProTips[30]="Sichere deine Objekte in der Itembox mit der 'Sperren' Funktion, um versehentliches Verkaufen oder Wegwerfen zu verhindern. Gegenstände, die in der Taverne fallen gelassen werden, bleiben liegen. Dies ist nützlich, weil dein Stauraum begrenzt ist!"
+ProTips[31]="Im Laufe deines Abenteuers kannst du auf Vertraute und Tiere treffen, die auch auf aufgewertet werden können!"
+ProTips[32]="Die 'Block'-fähigkeit des Knappen ermöglicht es ihm, ankommenden Schaden zu mindern und seinem Helfer eine Unterbrechung zu vermeiden."
 ProTips[33]="Halte im Eifer des Gefechts immer Ausschau nach Dunkelelfkriegern. Sie umgehen Verteidigungen und greifen dich direkt an!"
-ProTips[34]="Vermehre Auszeichnungen und reduziere deine Kampfzeit, um eine hÃ¶here Punktzahl zu erhalten!"
-ProTips[35]="Du wirst seltene und mÃ¤chtigere GegenstÃ¤nde auf herausfordernderen Schwierigkeitsgraden finden, aber nur die zÃ¤hesten Helden werden diese Schlachten Ã¼berleben!"
-ProTips[36]="Oger kÃ¶nnen zÃ¤h sein, aber sie im Grunde dumm. Ziehe ihre Aufmerksamkeit auf dich und locke sie weg von fast zerstÃ¶rten Verteidigungen und Eternia-Kristallen!"
-ProTips[37]="Du bekommst erhÃ¶hte Attributsboni auf deine RÃ¼stunsgegenstÃ¤nde wÃ¤hrend du ein komplettes Set trÃ¤gst! Das wird durch eine blaue Aura um deine RÃ¼stung im Inventar angezeigt."
-ProTips[38]="ElementarschÃ¤den der Waffen werden nicht vom Helden- Grundschaden-Attribut beeinflusst, aber lassen sich viel schneller als gewÃ¶hnlicher Schaden aufwerten."
-ProTips[39]="Du kannst sehr seltene mythische GegenstÃ¤nde durch das Vollenden von irren Herausforderungen und dem Erhalt der extremsten Errungenschaften erhalten. Welch fantastische Wunder erwarten wohl den mÃ¤chtigsten aller Helden?"
-ProTips[40]="Survival-Modus ist ein guter Weg, um deine FÃ¤higkeiten zu verbessern, und neue, hilfreiche Freunde zu finden. Du kannst auch den Mix-Modus versuchen um eine verrÃ¼ckte Herausforderung zu erstellen, oder den Strategie-Modus, in dem es auf deine Verteidigungen ankommt!"
-ProTips[41]="Beweise, dass du eine Legende bist, indem du in der Halle der Helden gegen deine Freunde kÃ¤mpfst!"
+ProTips[34]="Vermehre Auszeichnungen und reduziere deine Kampfzeit, um eine höhere Punktzahl zu erhalten!"
+ProTips[35]="Du wirst seltene und mächtigere Gegenstände auf herausfordernderen Schwierigkeitsgraden finden, aber nur die zähesten Helden werden diese Schlachten überleben!"
+ProTips[36]="Oger können zäh sein, aber sie im Grunde dumm. Ziehe ihre Aufmerksamkeit auf dich und locke sie weg von fast zerstörten Verteidigungen und Eternia-Kristallen!"
+ProTips[37]="Du bekommst erhöhte Attributsboni auf deine Rüstunsgegenstände während du ein komplettes Set trägst! Das wird durch eine blaue Aura um deine Rüstung im Inventar angezeigt."
+ProTips[38]="Elementarschäden der Waffen werden nicht vom Helden- Grundschaden-Attribut beeinflusst, aber lassen sich viel schneller als gewöhnlicher Schaden aufwerten."
+ProTips[39]="Du kannst sehr seltene mythische Gegenstände durch das Vollenden von irren Herausforderungen und dem Erhalt der extremsten Errungenschaften erhalten. Welch fantastische Wunder erwarten wohl den mächtigsten aller Helden?"
+ProTips[40]="Survival-Modus ist ein guter Weg, um deine Fähigkeiten zu verbessern, und neue, hilfreiche Freunde zu finden. Du kannst auch den Mix-Modus versuchen um eine verrückte Herausforderung zu erstellen, oder den Strategie-Modus, in dem es auf deine Verteidigungen ankommt!"
+ProTips[41]="Beweise, dass du eine Legende bist, indem du in der Halle der Helden gegen deine Freunde kämpfst!"
 ProTips[42]="Haustiere beim Tavernen-Wirt zu kaufen, kann hilfreich sein, aber auch sehr teuer. Vielleicht gibt es einen anderen Weg, sie zu sammeln..."
-ProTips[43]="Items kÃ¶nnen eine unterschiedliche maximale Aufwertungsstufe haben, die bestimmt, wie leistungsstark sie einmal sein wird. Achte auf die Upgrade-Levels, um zu entscheiden, ob ein Artikel fÃ¼r den sofortigen Gebrauch oder erst spÃ¤ter zu gebrauchen ist."
-ProTips[44]="Alles liegengelassene Mana und alle Objekte, welche vergessen wurden, werden automatisch in die Mana-Banken aller Spieler aufgeteilt und eingezahlt, wenn die neue Welle beginnt. Dasselbe gilt auch fÃ¼r den Kartensieg."
-ProTips[45]="Versuche, alles zu sammeln, was herumliegt, aber denke auch an deine VerbÃ¼ndeten! ÃœberprÃ¼fe die Itembox zwischen den Wellen, um zu sehen, was du gefunden hast! Verkaufe die Ã¼berschÃ¼ssige Beute, um Mana in die Bank einzuzahlen."
-ProTips[46]="Der Taverne-Wirt bietet Dienstleistungen, wie das Umbenennen oder ZurÃ¼cksetzen der Aufstiegs-Punkte deiner Helden an, oder kann dir sogar einen Erfahrungsschub, fÃ¼r einen schnelleren Stufenaufstieg geben. Diese Dienste sind teuer, kÃ¶nnen sich aber fÃ¼r mÃ¤chtigere Helden lohnen."
-ProTips[47]="Herausforderungen haben die unterschiedlichsten Ziele, stellen aber auch eine sorgfÃ¤ltige Spezialisierung des Helden und der Verteidigungen vorraus, um diese zu erreichen. Nicht jede Helden-Klasse ist gleichermaÃŸen gut geeignet, fÃ¼r eine bestimmte Mission!"
-ProTips[48]="Vor einem Bosskampf hast du nur sehr kurz Zeit, um deine Verteidigung zu verstÃ¤rken oder reparieren. Sei darauf vorbereitet!"
+ProTips[43]="Items können eine unterschiedliche maximale Aufwertungsstufe haben, die bestimmt, wie leistungsstark sie einmal sein wird. Achte auf die Upgrade-Levels, um zu entscheiden, ob ein Artikel für den sofortigen Gebrauch oder erst später zu gebrauchen ist."
+ProTips[44]="Alles liegengelassene Mana und alle Objekte, welche vergessen wurden, werden automatisch in die Mana-Banken aller Spieler aufgeteilt und eingezahlt, wenn die neue Welle beginnt. Dasselbe gilt auch für den Kartensieg."
+ProTips[45]="Versuche, alles zu sammeln, was herumliegt, aber denke auch an deine Verbündeten! Überprüfe die Itembox zwischen den Wellen, um zu sehen, was du gefunden hast! Verkaufe die überschüssige Beute, um Mana in die Bank einzuzahlen."
+ProTips[46]="Der Taverne-Wirt bietet Dienstleistungen, wie das Umbenennen oder Zurücksetzen der Aufstiegs-Punkte deiner Helden an, oder kann dir sogar einen Erfahrungsschub, für einen schnelleren Stufenaufstieg geben. Diese Dienste sind teuer, können sich aber für mächtigere Helden lohnen."
+ProTips[47]="Herausforderungen haben die unterschiedlichsten Ziele, stellen aber auch eine sorgfältige Spezialisierung des Helden und der Verteidigungen vorraus, um diese zu erreichen. Nicht jede Helden-Klasse ist gleichermaßen gut geeignet, für eine bestimmte Mission!"
+ProTips[48]="Vor einem Bosskampf hast du nur sehr kurz Zeit, um deine Verteidigung zu verstärken oder reparieren. Sei darauf vorbereitet!"
 RandomDeathStrings[0]="..."
 RandomDeathStrings[1]="Zeit zum Nachdenken"
 RandomDeathStrings[2]="Schneller handeln!"
@@ -268,16 +268,16 @@ RandomDeathStrings[5]="Das war nur ein Versuch?"
 RandomDeathStrings[6]="Versuchst du es?"
 RandomDeathStrings[7]="Hast du dich nur dort hingelegt?"
 RandomDeathStrings[8]="Worauf achtest du?"
-RandomDeathStrings[9]="SchlÃ¤fst du?"
+RandomDeathStrings[9]="Schläfst du?"
 RandomDeathStrings[10]="Bist du noch da?"
 RandomDeathStrings[11]="Bist du sicher, dass du das schaffen kannst?"
-RandomDeathStrings[12]="Sammle deine KrÃ¤fte"
-RandomDeathStrings[13]="Vertraue deinen FÃ¤higkeiten"
+RandomDeathStrings[12]="Sammle deine Kräfte"
+RandomDeathStrings[13]="Vertraue deinen Fähigkeiten"
 RandomDeathStrings[14]="Mutig sein"
 RandomDeathStrings[15]="Bereit sein!"
-RandomDeathStrings[16]="Sei zÃ¤h und gewinne!"
+RandomDeathStrings[16]="Sei zäh und gewinne!"
 RandomDeathStrings[17]="Glaube daran und du wirst es erreichen"
-RandomDeathStrings[18]="Mehr GlÃ¼ck beim nÃ¤chsten Mal"
+RandomDeathStrings[18]="Mehr Glück beim nächsten Mal"
 RandomDeathStrings[19]="Reisst euch zusammen ..."
 RandomDeathStrings[20]="Beruhige dich"
 RandomDeathStrings[21]="Sammle deine Gedanken"
@@ -297,8 +297,8 @@ RandomDeathStrings[34]="Nicht noch mal runterfallen"
 RandomDeathStrings[35]="Du bringst dich selbst in Verlegenheit"
 RandomDeathStrings[36]="Aufwachen!"
 RandomDeathStrings[37]="Nicht aufgeben!"
-RandomDeathStrings[38]="Nicht zurÃ¼ckhalten"
-RandomDeathStrings[39]="LÃ¤sst du deine Aufgabe unvollendet?"
+RandomDeathStrings[38]="Nicht zurückhalten"
+RandomDeathStrings[39]="Lässt du deine Aufgabe unvollendet?"
 RandomDeathStrings[40]="Lass dir den Mut nicht nehmen!"
 RandomDeathStrings[41]="Nicht die Hoffnung verlieren"
 RandomDeathStrings[42]="Du bringst mich zum Lachen!"
@@ -308,179 +308,179 @@ RandomDeathStrings[45]="Verkauf dich nicht unter Wert"
 RandomDeathStrings[46]="Kein Verzicht"
 RandomDeathStrings[47]="Als Team leisten wir mehr"
 RandomDeathStrings[48]="Du sahst in die Fratze des Feindes"
-RandomDeathStrings[49]="KÃ¤mpfen und gewinnen!"
+RandomDeathStrings[49]="Kämpfen und gewinnen!"
 RandomDeathStrings[50]="Wo es schwer wird, gilt es weiter zu machen!"
 RandomDeathStrings[51]="Schon fertig?"
 RandomDeathStrings[52]="Konzentriere deine Gedanken"
 RandomDeathStrings[53]="Leb deinen Traum"
-RandomDeathStrings[54]="Aktiviere deine AbwehrkrÃ¤fte"
+RandomDeathStrings[54]="Aktiviere deine Abwehrkräfte"
 RandomDeathStrings[55]="Kraft tanken"
 RandomDeathStrings[56]="Komm"
-RandomDeathStrings[57]="Die ZÃ¤hne der Bestie gesehen?"
-RandomDeathStrings[58]="HÃ¤ngst du fest?"
-RandomDeathStrings[59]="Den Boden unter den FÃ¼ssen verloren?"
+RandomDeathStrings[57]="Die Zähne der Bestie gesehen?"
+RandomDeathStrings[58]="Hängst du fest?"
+RandomDeathStrings[59]="Den Boden unter den Füssen verloren?"
 RandomDeathStrings[60]="Du musst noch trainieren, mein Junge."
 RandomDeathStrings[61]="Ich kann nichts sehen"
 RandomDeathStrings[62]="Wenn du gewinnst, wird es Kuchen geben."
-RandomDeathStrings[63]="Ist es zu schwer fÃ¼r dich?"
+RandomDeathStrings[63]="Ist es zu schwer für dich?"
 RandomDeathStrings[64]="Ist das alles was du drauf hast?"
-RandomDeathStrings[65]="Ist das deine aktuelle SpielstÃ¤rke?"
+RandomDeathStrings[65]="Ist das deine aktuelle Spielstärke?"
 RandomDeathStrings[66]="Das ist deine Grenze?"
 RandomDeathStrings[67]="Es kann noch nicht zu Ende sein!"
 RandomDeathStrings[68]="Es wird nicht einfacher."
 RandomDeathStrings[69]="Es ist noch nicht vorbei!"
-RandomDeathStrings[70]="Es ist nicht zu spÃ¤t"
-RandomDeathStrings[71]="Richtest du nach GrÃ¶sse oder Intelligenz?"
+RandomDeathStrings[70]="Es ist nicht zu spät"
+RandomDeathStrings[71]="Richtest du nach Grösse oder Intelligenz?"
 RandomDeathStrings[72]="Mach weiter so."
-RandomDeathStrings[73]="VorwÃ¤rts!"
-RandomDeathStrings[74]="Ãœben, Ãœben, Ãœben!"
+RandomDeathStrings[73]="Vorwärts!"
+RandomDeathStrings[74]="Üben, Üben, Üben!"
 RandomDeathStrings[75]="Reparieren!"
-RandomDeathStrings[76]="Du musst es Ã¶fters versuchen."
+RandomDeathStrings[76]="Du musst es öfters versuchen."
 RandomDeathStrings[77]="Kenne dich selbst um zu wissen, wer dein Feind ist."
 RandomDeathStrings[78]="Wissen ist die halbe Miete."
 RandomDeathStrings[79]="Aus Fehlern lernt man."
 RandomDeathStrings[80]="Lass uns weiter machen!"
 RandomDeathStrings[81]="Lass es uns tun!"
-RandomDeathStrings[82]="Lass uns stÃ¤rker werden!"
-RandomDeathStrings[83]="Lass uns darÃ¼ber hinwegsehen!"
-RandomDeathStrings[84]="Lass es uns mÃ¶glich machen!"
-RandomDeathStrings[85]="Lass uns das Ã¼berstehen!"
-RandomDeathStrings[86]="Lass uns unsere Strategie noch einmal Ã¼berdenken"
+RandomDeathStrings[82]="Lass uns stärker werden!"
+RandomDeathStrings[83]="Lass uns darüber hinwegsehen!"
+RandomDeathStrings[84]="Lass es uns möglich machen!"
+RandomDeathStrings[85]="Lass uns das überstehen!"
+RandomDeathStrings[86]="Lass uns unsere Strategie noch einmal überdenken"
 RandomDeathStrings[87]="Lass es uns erneut versuchen!"
 RandomDeathStrings[88]="Gemeinsam sind wir stark!"
-RandomDeathStrings[89]="Du musst leben um wieder zu kÃ¤mpfen!"
+RandomDeathStrings[89]="Du musst leben um wieder zu kämpfen!"
 RandomDeathStrings[90]="Meistere erstmal die Grundlagen"
-RandomDeathStrings[91]="Kein RÃ¼ckzug!"
+RandomDeathStrings[91]="Kein Rückzug!"
 RandomDeathStrings[92]="Niemals aufgeben!"
-RandomDeathStrings[93]="Keine Ruhe fÃ¼r die mÃ¼den Krieger!"
-RandomDeathStrings[94]="Nichts ist unmÃ¶glich!"
+RandomDeathStrings[93]="Keine Ruhe für die müden Krieger!"
+RandomDeathStrings[94]="Nichts ist unmöglich!"
 RandomDeathStrings[95]="Oh nein!"
 RandomDeathStrings[96]="Autsch"
 RandomDeathStrings[97]="Pass besser auf!"
-RandomDeathStrings[98]="Vielleicht ist es Zeit fÃ¼r eine Pause."
+RandomDeathStrings[98]="Vielleicht ist es Zeit für eine Pause."
 RandomDeathStrings[99]="Hast du vielleicht eine bessere Strategie?"
 RandomDeathStrings[100]="Halt auch mal still um Erfolg zu haben!"
 RandomDeathStrings[101]="Bereite dich vor!"
 RandomDeathStrings[102]="Den Sieg im Blick!"
 RandomDeathStrings[103]="So hoch du kannst!"
 RandomDeathStrings[104]="Vorbereiten! ... Wiedereinstieg ... jetzt!"
-RandomDeathStrings[105]="Wehre die SchlÃ¤ge ab!"
+RandomDeathStrings[105]="Wehre die Schläge ab!"
 RandomDeathStrings[106]="Auferstanden von den Toten."
 RandomDeathStrings[107]="Stelle dich der Herausforderung."
 RandomDeathStrings[108]="Nutze den Tag"
 RandomDeathStrings[109]="Zeig denen, was du drauf hast!"
 RandomDeathStrings[110]="Bleib entschlossen!"
 RandomDeathStrings[111]="Stark bleiben!"
-RandomDeathStrings[112]="Dageblieben und kÃ¤mpfe!"
+RandomDeathStrings[112]="Dageblieben und kämpfe!"
 RandomDeathStrings[113]="Bleib bei deiner Aufgabe!"
 RandomDeathStrings[114]="Starker Stand ist die Voraussetzung!"
 RandomDeathStrings[115]="Strebe nach Exzellenz!"
-RandomDeathStrings[116]="Ãœbertreffe dein Limit!"
+RandomDeathStrings[116]="Übertreffe dein Limit!"
 RandomDeathStrings[117]="Teamwork ist wesentlich."
 RandomDeathStrings[118]="Temperament und Entschlossenheit."
 RandomDeathStrings[119]="Das muss weh getan haben!"
 RandomDeathStrings[120]="Das war nicht gut!"
 RandomDeathStrings[121]="Der Feind wird nicht stehenbleiben."
 RandomDeathStrings[122]="Die Reise ist noch nicht vorbei!"
-RandomDeathStrings[123]="Je mehr, desto stÃ¤rker!"
-RandomDeathStrings[124]="Plane Raum fÃ¼r Verbesserungen ein!"
-RandomDeathStrings[125]="Ãœberdenke das noch mal!"
+RandomDeathStrings[123]="Je mehr, desto stärker!"
+RandomDeathStrings[124]="Plane Raum für Verbesserungen ein!"
+RandomDeathStrings[125]="Überdenke das noch mal!"
 RandomDeathStrings[126]="Dieser Kampf ist noch nicht vorbei!"
 RandomDeathStrings[127]="Dies ist nicht das Ende!"
 RandomDeathStrings[128]="Das ist unglaublich! ...schlecht."
 RandomDeathStrings[129]="Das mir das nicht wieder vorkommt!"
-RandomDeathStrings[130]="Gemeinsam kÃ¶nnen wir siegen!"
-RandomDeathStrings[131]="Gemeinsam sind wir stÃ¤rker!"
+RandomDeathStrings[130]="Gemeinsam können wir siegen!"
+RandomDeathStrings[131]="Gemeinsam sind wir stärker!"
 RandomDeathStrings[132]="Heute Nacht speisen wir in der Taverne!"
 RandomDeathStrings[133]="Vertraue dir selbst."
 RandomDeathStrings[134]="Versuche es noch einmal."
 RandomDeathStrings[135]="Vielleicht solltest du die Tutorials wiederholen?"
 RandomDeathStrings[136]="Tss, tss, tss."
-RandomDeathStrings[137]="Mache ihre SchwÃ¤che zu deinem Vorteil!"
+RandomDeathStrings[137]="Mache ihre Schwäche zu deinem Vorteil!"
 RandomDeathStrings[138]="Setze dein Potential frei!"
 RandomDeathStrings[139]="Mit kleinen Schritten, Richtung Sieg"
 RandomDeathStrings[140]="Sieg oder Tod!"
 RandomDeathStrings[141]="Aufwachen!"
 RandomDeathStrings[142]="Wir sind eins!"
 RandomDeathStrings[143]="Gemeinsam schaffen wir das."
-RandomDeathStrings[144]="Wir kÃ¶nnen einander helfen!"
-RandomDeathStrings[145]="GlÃ¼ckwunsch zu deinem Tod!"
+RandomDeathStrings[144]="Wir können einander helfen!"
+RandomDeathStrings[145]="Glückwunsch zu deinem Tod!"
 RandomDeathStrings[146]="Was meinst du, machst du da?"
 RandomDeathStrings[147]="Was war das?"
 RandomDeathStrings[148]="Eiderdaus!"
 RandomDeathStrings[149]="Warum bist du nur so schwach?"
 RandomDeathStrings[150]="Wenn du es nicht kannst, lass jemand anderes spielen!"
-RandomDeathStrings[151]="Zusammenarbeit fÃ¼hrt zum Erfolg"
+RandomDeathStrings[151]="Zusammenarbeit führt zum Erfolg"
 RandomDeathStrings[152]="Du kannst es besser! Das weiss ich."
 RandomDeathStrings[153]="Schaffen du es kannst!"
 RandomDeathStrings[154]="Du wirst dein Ziel erreichen"
 RandomDeathStrings[155]="Wer unter der Erde liegt, kann nicht verteidigen!"
-RandomDeathStrings[156]="Du kannst jetzt nicht einfach aufhÃ¶ren!"
-RandomDeathStrings[157]="Du wurdest ans Ende deiner Reise befÃ¶rdert"
-RandomDeathStrings[158]="Du kannst dein Schicksal nicht Ã¤ndern."
-RandomDeathStrings[159]="Hast du aufgehÃ¶rt?"
+RandomDeathStrings[156]="Du kannst jetzt nicht einfach aufhören!"
+RandomDeathStrings[157]="Du wurdest ans Ende deiner Reise befördert"
+RandomDeathStrings[158]="Du kannst dein Schicksal nicht ändern."
+RandomDeathStrings[159]="Hast du aufgehört?"
 RandomDeathStrings[160]="Niemals aufgeben, niemals aufgeben!"
-RandomDeathStrings[161]="Diese Zeile muss vom Entwickler gelÃ¶scht werden!"
+RandomDeathStrings[161]="Diese Zeile muss vom Entwickler gelöscht werden!"
 RandomDeathStrings[162]="Damit kommen die nicht durch!"
 
 [heroManager:DunDefAchievementManager_0 DunDefAchievementManager]
-AchievementEntries[0]=(AchievementName="Der Schmied",AchievementDescription="Du hast deine erste AusrÃ¼stung aufgewertet. Weiter so!")
-AchievementEntries[1]=(AchievementName="Und Dies Ist Meine Waffe",AchievementDescription="Du hast eine AusrÃ¼stung zu ihrem maximalen Potential aufgewertet!")
-AchievementEntries[2]=(AchievementName="HelferzÃ¤hmer",AchievementDescription="Du hast einen Helfer zu seiner maximalen Stufe erhoben!")
-AchievementEntries[3]=(AchievementName="SchÃ¼ler",AchievementDescription="Erreichte Stufe 10")
+AchievementEntries[0]=(AchievementName="Der Schmied",AchievementDescription="Du hast deine erste Ausrüstung aufgewertet. Weiter so!")
+AchievementEntries[1]=(AchievementName="Und Dies Ist Meine Waffe",AchievementDescription="Du hast eine Ausrüstung zu ihrem maximalen Potential aufgewertet!")
+AchievementEntries[2]=(AchievementName="Helferzähmer",AchievementDescription="Du hast einen Helfer zu seiner maximalen Stufe erhoben!")
+AchievementEntries[3]=(AchievementName="Schüler",AchievementDescription="Erreichte Stufe 10")
 AchievementEntries[4]=(AchievementName="Veteran",AchievementDescription="Erreichte Stufe 30")
 AchievementEntries[5]=(AchievementName="Verteidiger von Etheria",AchievementDescription="Erreichte Stufe 70")
-AchievementEntries[6]=(AchievementName="Ohne Grenzen",AchievementDescription="Trug ein komplettes Set von hÃ¶chstaufgewerteten GegenstÃ¤nden")
+AchievementEntries[6]=(AchievementName="Ohne Grenzen",AchievementDescription="Trug ein komplettes Set von höchstaufgewerteten Gegenständen")
 AchievementEntries[7]=(AchievementName="Aus den Tiefen",AchievementDescription="Alle Level des 1. Gebiets auf einem beliebigen Schwierigkeitsgrad vollendet.")
-AchievementEntries[8]=(AchievementName="Zu Den DÃ¤chern",AchievementDescription="Alle Level des 2. Gebiets auf einem beliebigen Schwierigkeitsgrad vollendet.")
+AchievementEntries[8]=(AchievementName="Zu Den Dächern",AchievementDescription="Alle Level des 2. Gebiets auf einem beliebigen Schwierigkeitsgrad vollendet.")
 AchievementEntries[9]=(AchievementName="Eine Kost des Siegs",AchievementDescription="Alle Level des 3. Gebiets auf einem beliebigen Schwierigkeitsgrad vollendet.")
 AchievementEntries[10]=(AchievementName="Kerker-Kriecher",AchievementDescription="Alle Level auf einem beliebigen Schwierigkeitsgrad vollendet.")
 AchievementEntries[11]=(AchievementName="Der Bauch der Bestie",AchievementDescription="Alle Level des 1. Gebiets auf Schwierig abgeschlossen.")
-AchievementEntries[12]=(AchievementName="Der KÃ¶rper der Bestie",AchievementDescription="Alle Level des 2. Gebiets auf Schwierig abgeschlossen.")
+AchievementEntries[12]=(AchievementName="Der Körper der Bestie",AchievementDescription="Alle Level des 2. Gebiets auf Schwierig abgeschlossen.")
 AchievementEntries[13]=(AchievementName="Die Krone der Bestie",AchievementDescription="Alle Level des 3. Gebiets auf Schwierig abgeschlossen.")
-AchievementEntries[14]=(AchievementName="KerkerplÃ¼nderung",AchievementDescription="Alle Level auf Schwierig abgeschlossen.")
+AchievementEntries[14]=(AchievementName="Kerkerplünderung",AchievementDescription="Alle Level auf Schwierig abgeschlossen.")
 AchievementEntries[15]=(AchievementName="Vom Feuer mit Schwefel",AchievementDescription="Alle Level des 1. Gebiets auf Wahnsinnig abgeschlossen.")
-AchievementEntries[16]=(AchievementName="Durch die Ã¼berfÃ¼llte Festung",AchievementDescription="Alle Level des 2. Gebiets auf Wahnsinnig abgeschlossen.")
-AchievementEntries[17]=(AchievementName="Zum hÃ¶chsten Gipfel",AchievementDescription="Alle Level des 3. Gebiets auf Wahnsinnig abgeschlossen.")
-AchievementEntries[18]=(AchievementName="Dungeon Defender",AchievementDescription="Alle Level auf Wahnsinnig abgeschlossen. Herzlichen GlÃ¼ckwunsch, tapferer Krieger!")
-AchievementEntries[19]=(AchievementName="Wo sind die Blaupausen?",AchievementDescription="'Keine TÃ¼rme erlaubt' auf mindestens Mittel abgeschlossen.")
-AchievementEntries[20]=(AchievementName="FÃ¼r immer Freunde",AchievementDescription="'Unwahrscheinliche VerbÃ¼ndete' auf mindestens Mittel abgeschlossen.")
+AchievementEntries[16]=(AchievementName="Durch die überfüllte Festung",AchievementDescription="Alle Level des 2. Gebiets auf Wahnsinnig abgeschlossen.")
+AchievementEntries[17]=(AchievementName="Zum höchsten Gipfel",AchievementDescription="Alle Level des 3. Gebiets auf Wahnsinnig abgeschlossen.")
+AchievementEntries[18]=(AchievementName="Dungeon Defender",AchievementDescription="Alle Level auf Wahnsinnig abgeschlossen. Herzlichen Glückwunsch, tapferer Krieger!")
+AchievementEntries[19]=(AchievementName="Wo sind die Blaupausen?",AchievementDescription="'Keine Türme erlaubt' auf mindestens Mittel abgeschlossen.")
+AchievementEntries[20]=(AchievementName="Für immer Freunde",AchievementDescription="'Unwahrscheinliche Verbündete' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[21]=(AchievementName="88 Kern",AchievementDescription="'Teleportierender Kristall' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[22]=(AchievementName="Ella, Ella",AchievementDescription="'Goblinregen' auf mindestens Mittel abgeschlossen.")
-AchievementEntries[23]=(AchievementName="Zauberer-JÃ¤ger",AchievementDescription="'Zauberei' auf mindestens Mittel abgeschlossen.")
+AchievementEntries[23]=(AchievementName="Zauberer-Jäger",AchievementDescription="'Zauberei' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[24]=(AchievementName="Du Nicht Nehmen Pilz",AchievementDescription="'Ogerandrang' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[25]=(AchievementName="Flitzepeter",AchievementDescription="'Blitzkrieg' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[26]=(AchievementName="Miese Laune",AchievementDescription="'Huhn' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[27]=(AchievementName="Kerncardio",AchievementDescription="'Umherziehender Kristall' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[28]=(AchievementName="Monsterwahn",AchievementDescription="'Tod von Oben' auf mindestens Mittel abgeschlossen.")
-AchievementEntries[29]=(AchievementName="KernzerstÃ¶rer",AchievementDescription="'Angriff' auf mindestens Mittel abgeschlossen.")
+AchievementEntries[29]=(AchievementName="Kernzerstörer",AchievementDescription="'Angriff' auf mindestens Mittel abgeschlossen.")
 AchievementEntries[30]=(AchievementName="Goldrausch",AchievementDescription="'Schatzsuche' auf mindestens Mittel abgeschlossen.")
-AchievementEntries[31]=(AchievementName="Ein Herausforderer nÃ¤hert sich",AchievementDescription="Alle Herausforderungen in Mittel abgeschlossen. Bereit fÃ¼r WAHNSINNIG?")
-AchievementEntries[32]=(AchievementName="Waffenmeister",AchievementDescription="'Keine TÃ¼rme erlaubt' auf Wahnsinnig abgeschlossen.")
+AchievementEntries[31]=(AchievementName="Ein Herausforderer nähert sich",AchievementDescription="Alle Herausforderungen in Mittel abgeschlossen. Bereit für WAHNSINNIG?")
+AchievementEntries[32]=(AchievementName="Waffenmeister",AchievementDescription="'Keine Türme erlaubt' auf Wahnsinnig abgeschlossen.")
 AchievementEntries[33]=(AchievementName="Koboldvernichter",AchievementDescription="'Blitzkrieg' auf Wahnsinnig abgeschlossen.")
 AchievementEntries[34]=(AchievementName="Monsterwahnsinn",AchievementDescription="'Tod von Oben' auf Wahnsinnig abgeschlossen.")
 AchievementEntries[35]=(AchievementName="Lass uns im Regen tanzen!",AchievementDescription="'Goblinregen' auf Wahnsinnig abgeschlossen.")
 AchievementEntries[36]=(AchievementName="Gold Blitz",AchievementDescription="'Schatzsuche' auf Wahnsinnig abgeschlossen.")
 AchievementEntries[37]=(AchievementName="Ogerblockparty",AchievementDescription="'Ogerandrang' auf Wahnsinnig abgeschlossen.")
-AchievementEntries[38]=(AchievementName="ÃœberlebenskÃ¼nstler",AchievementDescription="Erreichte Ãœberlebenswelle 15 auf Mittel")
-AchievementEntries[39]=(AchievementName="Dicke Haut",AchievementDescription="Erreicht Ãœberlebenswelle 20 auf Mittel")
-AchievementEntries[40]=(AchievementName="Knallharter Bursche",AchievementDescription="Erreichte Ãœberlebenswelle 15 auf Schwer")
-AchievementEntries[41]=(AchievementName="Iron Man",AchievementDescription="Erreicht Ãœberlebenswelle 10 auf Wahnsinn")
-AchievementEntries[42]=(AchievementName="Verteidigung Ist der beste Angriff",AchievementDescription="Erreicht Ãœberlebenswelle 10 in allen Levels in "Reine Strategie" auf mindestens Mittel")
+AchievementEntries[38]=(AchievementName="Überlebenskünstler",AchievementDescription="Erreichte Überlebenswelle 15 auf Mittel")
+AchievementEntries[39]=(AchievementName="Dicke Haut",AchievementDescription="Erreicht Überlebenswelle 20 auf Mittel")
+AchievementEntries[40]=(AchievementName="Knallharter Bursche",AchievementDescription="Erreichte Überlebenswelle 15 auf Schwer")
+AchievementEntries[41]=(AchievementName="Iron Man",AchievementDescription="Erreicht Überlebenswelle 10 auf Wahnsinn")
+AchievementEntries[42]=(AchievementName="Verteidigung Ist der beste Angriff",AchievementDescription="Erreicht Überlebenswelle 10 in allen Levels in "Reine Strategie" auf mindestens Mittel")
 AchievementEntries[43]=(AchievementName="Wahrer Adel",AchievementDescription="Die Auszeichnung 'Lord' erworben, auf mindestens Mittel.")
-AchievementEntries[44]=(AchievementName="Oh MÃ¤chtiger Niederstrecker!",AchievementDescription="Trug ein volles Set gÃ¶ttlicher Items.")
-AchievementEntries[45]=(AchievementName="GÃ¶ttliche Absicht",AchievementDescription="Nahm eine gÃ¶ttliche Waffe auf.")
-AchievementEntries[46]=(AchievementName="Perfektionist",AchievementDescription="Die Auszeichnung 'Einwandfreier Sieg' erworben, Ã¼ber den Verlauf von allen Missionen auf mindestens Mittel.")
-AchievementEntries[47]=(AchievementName="DraufgÃ¤nger",AchievementDescription="Die Auszeichnung 'HÃ¤ngen und WÃ¼rgen' erworben, in 6 verschiedenen Missionen.")
+AchievementEntries[44]=(AchievementName="Oh Mächtiger Niederstrecker!",AchievementDescription="Trug ein volles Set göttlicher Items.")
+AchievementEntries[45]=(AchievementName="Göttliche Absicht",AchievementDescription="Nahm eine göttliche Waffe auf.")
+AchievementEntries[46]=(AchievementName="Perfektionist",AchievementDescription="Die Auszeichnung 'Einwandfreier Sieg' erworben, über den Verlauf von allen Missionen auf mindestens Mittel.")
+AchievementEntries[47]=(AchievementName="Draufgänger",AchievementDescription="Die Auszeichnung 'Hängen und Würgen' erworben, in 6 verschiedenen Missionen.")
 AchievementEntries[48]=(AchievementName="Mastermind",AchievementDescription="Die Auszeichnung 'Meisterstratege' erworben, in allen Missionen.")
 AchievementEntries[49]=(AchievementName="Rohe Gewalt",AchievementDescription="Die Auszeichnung 'Revolverheld' erworben, in allen Missionen.")
 AchievementEntries[50]=(AchievementName="Teamgeist",AchievementDescription="Alle Levels mit 4 Mitspielern, auf mindestens Mittel geschafft.")
 AchievementEntries[51]=(AchievementName="Eine Frage der Perspektive",AchievementDescription="Hat das Ende aller vier Helden gesehen")
 AchievementEntries[52]=(AchievementName="Gruppenumarmung",AchievementDescription="Hat einen Helden jeder Klasse auf Stufe 60 gebracht")
-AchievementEntries[53]=(AchievementName="Fang sie alle",AchievementDescription="Lagere alle Helfer in deiner Itembox oder rÃ¼ste sie direkt auf deinen Helden aus")
+AchievementEntries[53]=(AchievementName="Fang sie alle",AchievementDescription="Lagere alle Helfer in deiner Itembox oder rüste sie direkt auf deinen Helden aus")
 AchievementEntries[54]=(AchievementName="Hauptbankier",AchievementDescription="Lagere 15.000.000 Mana in deiner Manabank")
 AchievementEntries[55]=(AchievementName="Guter Student",AchievementDescription="Hat das Tutorial abgeschlossen. Du hast Dir eine Bratwurst verdient!")
-AchievementEntries[56]=(AchievementName="LegendÃ¤rer Verteidiger",AchievementDescription="Du hast jede Dungeon Defenders-Tat vollbracht! Das Trendy-Entwicklungsteam salutiert vor dir!")
+AchievementEntries[56]=(AchievementName="Legendärer Verteidiger",AchievementDescription="Du hast jede Dungeon Defenders-Tat vollbracht! Das Trendy-Entwicklungsteam salutiert vor dir!")
 UnlockedMessageString="Erfolg vollbracht:"
 UnlockedCoreMessageString="Eternia-Kristall freigeschaltet!"
 
@@ -488,9 +488,9 @@ UnlockedCoreMessageString="Eternia-Kristall freigeschaltet!"
 StatNames[5]="Rundumschlag"
 StatNames[6]="Blutrausch"
 StatDescriptions[5]="Der Rundumschlag bewirkt einen fegenden Angriff gegen alle nahen Feinde."
-StatDescriptions[6]="Der Blutrausch bringt den Knappen in einem Zustand heulender Rage, durch den er massivst seinen Schaden erhÃ¶ht und sich mit erhÃ¶hter Geschwindigkeit bewegt."
+StatDescriptions[6]="Der Blutrausch bringt den Knappen in einem Zustand heulender Rage, durch den er massivst seinen Schaden erhöht und sich mit erhöhter Geschwindigkeit bewegt."
 HeroClassDisplayName="Knappe"
-HeroClassDescription="Als ein tapferer Ritter in Ausbildung, wahrt der Knappe die Ehre und den Adel seines KÃ¶nigreichs mit jedem Schnitt seiner Klinge. Der Knappe bevorzugt Nahkampfwaffen als sein Werkzeug der Gerechtigkeit und baut Verteidigungen roher Gewalt mit begrenzter Reichweite. Wuchtende Dornen und fegende Klingen entfesseln den Zorn, den er Ã¼ber seine Feinde bringt."
+HeroClassDescription="Als ein tapferer Ritter in Ausbildung, wahrt der Knappe die Ehre und den Adel seines Königreichs mit jedem Schnitt seiner Klinge. Der Knappe bevorzugt Nahkampfwaffen als sein Werkzeug der Gerechtigkeit und baut Verteidigungen roher Gewalt mit begrenzter Reichweite. Wuchtende Dornen und fegende Klingen entfesseln den Zorn, den er über seine Feinde bringt."
 colorTemplates[0]=(colorName="Standard")
 colorTemplates[1]=(colorName="Mut")
 colorTemplates[2]=(colorName="Nacht")
@@ -503,22 +503,22 @@ colorTemplates[8]=(colorName="Biss")
 colorTemplates[9]=(colorName="Spuk")
 
 [HeroTemplateRecruit DunDefHero]
-StatNames[5]="TurmverstÃ¤rkung"
-StatNames[6]="HeldenverstÃ¤rkung"
+StatNames[5]="Turmverstärkung"
+StatNames[6]="Heldenverstärkung"
 StatNames[7]="Lebensdauer der Aura"
 StatNames[8]="Geschwindigkeit der Aura"
-StatNames[9]="StÃ¤rke der Aura"
+StatNames[9]="Stärke der Aura"
 StatNames[10]="Wirkungsbereich der Aura"
-StatDescriptions[5]="Die TurmverstÃ¤rkung macht alle nahen TÃ¼rme effizienter, erhÃ¶ht ihren Schaden und regeneriert ihre Gesundheit."
-StatDescriptions[6]="Die HeldenverstÃ¤rkung macht alle nahen Helden effizienter, erhÃ¶ht ihren Schaden und regeneriert ihre Gesundheit."
-HeroClassDisplayName="MÃ¶nch"
-HeroClassDescription="Einst ein friedlicher und passiver SchÃ¼ler, ist der MÃ¶nch von seiner einsamen Meditation berufen und dazu gezwungen, zur Verteidigung seines Landes die Waffe zu erheben . Nur er, durch seinen meisterhaften Umgang mit dem Speer, kann den Tod seines Meisters rÃ¤chen. Seine Aura kanalisierend nutzt der MÃ¶nch Energien zur Heilung seiner VerbÃ¼ndeten und zur SchÃ¤digung seiner Feinde."
+StatDescriptions[5]="Die Turmverstärkung macht alle nahen Türme effizienter, erhöht ihren Schaden und regeneriert ihre Gesundheit."
+StatDescriptions[6]="Die Heldenverstärkung macht alle nahen Helden effizienter, erhöht ihren Schaden und regeneriert ihre Gesundheit."
+HeroClassDisplayName="Mönch"
+HeroClassDescription="Einst ein friedlicher und passiver Schüler, ist der Mönch von seiner einsamen Meditation berufen und dazu gezwungen, zur Verteidigung seines Landes die Waffe zu erheben . Nur er, durch seinen meisterhaften Umgang mit dem Speer, kann den Tod seines Meisters rächen. Seine Aura kanalisierend nutzt der Mönch Energien zur Heilung seiner Verbündeten und zur Schädigung seiner Feinde."
 colorTemplates[0]=(colorName="Standard")
 colorTemplates[1]=(colorName="Krieger")
-colorTemplates[2]=(colorName="FÃ¼hrer")
+colorTemplates[2]=(colorName="Führer")
 colorTemplates[3]=(colorName="Himmel")
 colorTemplates[4]=(colorName="Blutmantel")
-colorTemplates[5]=(colorName="GÃ¼tig")
+colorTemplates[5]=(colorName="Gütig")
 colorTemplates[6]=(colorName="Stein")
 colorTemplates[7]=(colorName="Botschafter")
 colorTemplates[8]=(colorName="Meister")
