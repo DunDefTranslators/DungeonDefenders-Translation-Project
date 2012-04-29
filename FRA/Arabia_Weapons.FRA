@@ -1,0 +1,40 @@
+[Campaign.BoardswordStyle4_Boss HeroEquipment]
+EquipmentName="Couteau de Cristal de l'Efrit"
+EquipmentDescription="Chef d'oeuvre de fabrication des Djinns."
+
+[Campaign.BroadswordStyle8_EMH HeroEquipment]
+EquipmentName="Fauchon d'Ebène"
+EquipmentDescription="Une lame taillée dans l'Obsidienne."
+
+[Campaign.CrossbowStyle7_EMH HeroEquipment]
+EquipmentName="Samiel l'Ecorcheur"
+EquipmentDescription="Equipé des dents de ceux qui sont tombés."
+
+[Campaign.CrossbowStyle8_Boss HeroEquipment]
+EquipmentName="Shaitan des Mille Vents"
+EquipmentDescription="La furie de la tempête bat en elle."
+
+[Campaign.MagicStaffStyle4_EMH HeroEquipment]
+EquipmentName="Canne Eternelle"
+EquipmentDescription="Fémur maudit des Ogres des sables."
+
+[Campaign.MagicStaffStyle7_Boss HeroEquipment]
+EquipmentName="Oculus du Roi Génie"
+EquipmentDescription="Il a un oeil sur vous ..."
+
+[Campaign.MonkSpearStyle2_Boss HeroEquipment]
+EquipmentName="Sabre du Soleil de Junbao"
+EquipmentDescription="Les rayons du Soleil concentrés en une seule lame."
+
+[Campaign.MonkSpearStyle9_EMH HeroEquipment]
+EquipmentName="Cimeterre à lame scintillante"
+EquipmentDescription="Sa surface est aveuglante."
+
+[Challenge.CrossbowStyle8_EMH HeroEquipment]
+EquipmentName="Shai Hulud"
+EquipmentDescription="Terreur des sables."
+
+[Challenge.MagicStaffStyle05 HeroEquipment]
+EquipmentName="Bâton du Roi Génie"
+EquipmentDescription="Un Cristal brillant sur une langue rabougrie."
+

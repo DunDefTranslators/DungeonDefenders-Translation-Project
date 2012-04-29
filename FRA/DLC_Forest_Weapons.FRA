@@ -1,0 +1,43 @@
+[Campaign.BroadswordStyle6_EMH HeroEquipment]
+EquipmentName="Couperet d'arachnide"
+EquipmentDescription="Il est étrange que la reine puisse porter une telle arme."
+
+[Campaign.BroadswordStyle9_Boss HeroEquipment]
+EquipmentName="Tristesse de la forêt"
+EquipmentDescription="Récupéré dans les confins de la forêt."
+
+[Campaign.CrossbowStyle11_Boss HeroEquipment]
+EquipmentName="Arachnéenne tireur"
+EquipmentDescription="Un outil ancien d'un aventurier rebelle."
+
+[Campaign.CrossbowStyle5_EMH HeroEquipment]
+EquipmentName="Chitine recurve"
+EquipmentDescription="Fabriqué à partir de la carapace quasiment indestructible de la Reine Araignée."
+
+[Campaign.MagicStaffStyle8_Boss HeroEquipment]
+EquipmentName="Essentiellement suspendus"
+EquipmentDescription="Partie de la Reine vit pour servir un objectif différent ..."
+
+[Campaign.MagicStaffStyle9_EMH HeroEquipment]
+EquipmentName="Patte de la reine"
+EquipmentDescription="Elle est encore gorgée de poison."
+
+[Campaign.SpearStyle10_Boss HeroEquipment]
+EquipmentName="Griffe de la reine"
+EquipmentDescription="Empoisonné directement à partir de la glande à sa pointe !"
+
+[Campaign.SpearStyle5_EMH HeroEquipment]
+EquipmentName="Démêleuse de toile"
+EquipmentDescription="Ou comment donner une bonne leçon à ces arachnides!"
+
+[Challenge.BroadswordStyle8 HeroEquipment]
+EquipmentName="Transducteur interdimensionnel"
+EquipmentDescription="Atteint dans le Néant à exploiter les araignées d'énergie éthérée."
+
+[Challenge.SpearStyle3_EMH HeroEquipment]
+EquipmentName="Remodeleur d'araignée"
+EquipmentDescription="Les araignées ne ressemblaient pas à cela avant d'être téléportées."
+
+[Familiars.LegendaryFairy HeroEquipment_Familiar_PlayerHealer]
+EquipmentDescription="Reine des Fées, utile à celui dont le courage est grand."
+

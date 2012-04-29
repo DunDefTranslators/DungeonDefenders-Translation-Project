@@ -1,0 +1,40 @@
+[Apprentice.HeroEquipment_MushroomStaff HeroEquipment]
+EquipmentName="Tristesse de la forêt"
+EquipmentDescription="Récupéré dans les confins de la forêt."
+
+[Apprentice.HeroEquipment_SpiderQueenStaff HeroEquipment]
+EquipmentName="Main de la Reine"
+EquipmentDescription="Un tonnerre d'applaudissements pour la reine."
+
+[Huntress.HeroEquipment_BeetleBow HeroEquipment]
+EquipmentName="Mort noire"
+EquipmentDescription="Un plaisir pour l'œil, mais un poison pour le cœur."
+
+[Huntress.HeroEquipment_ForestBow HeroEquipment]
+EquipmentName="Arbalète d'Hastat"
+EquipmentDescription="Ses projectiles ne peuvent tuer ceux qui ont un cœur pur."
+
+[Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
+EquipmentName="Glaive de la licorne"
+EquipmentDescription="Tout ce qui reste d'une créature errante."
+
+[Monk.HeroEquipment_MantisSpear HeroEquipment]
+EquipmentName="Faux religieuse"
+EquipmentDescription="C'était inévitable. Ce le sera toujours."
+
+[Monk.HeroEquipment_SpiderLegSpear HeroEquipment]
+EquipmentName="Patte de la Reine"
+EquipmentDescription="Elle est encore gorgée de poison."
+
+[Squire.HeroEquipment_Cleaver HeroEquipment]
+EquipmentName="Couperet d'arachnide"
+EquipmentDescription="Il est étrange que la reine puisse porter une telle arme."
+
+[Squire.HeroEquipment_SquireChallenge HeroEquipment]
+EquipmentName="Marteau rotule"
+EquipmentDescription="Les araignées seraient autant efficaces."
+
+[Squire.HeroEquipment_WebbingUntangler HeroEquipment]
+EquipmentName="Démêleuse de toile"
+EquipmentDescription="Ou comment donner une bonne leçon à ces arachnides !"
+

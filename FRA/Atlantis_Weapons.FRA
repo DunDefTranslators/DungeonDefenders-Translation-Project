@@ -1,0 +1,99 @@
+[Campaign.BroadswordStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Glaive de guerre du Triton"
+EquipmentDescription="Fléau des profondeurs"
+
+[Campaign.BroadswordStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Glaive de guerre du Triton"
+RandomBaseNames[0]=(StringValue="Epée des profondeurs")
+RandomBaseNames[1]=(StringValue="Epée des marées")
+EquipmentDescription="Fléau des profondeurs"
+
+[Campaign.BroadswordStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Rouage-marteau"
+EquipmentDescription="La fureur de l'eau et de l'acier"
+
+[Campaign.BroadswordStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Rouage-marteau"
+RandomBaseNames[0]=(StringValue="Ouvreur de Coquillages")
+RandomBaseNames[1]=(StringValue="Marteau destructeur")
+EquipmentDescription="La fureur de l'eau et de l'acier"
+
+[Campaign.CrossbowStyle2_DLC_Boss HeroEquipment]
+EquipmentName="Charge de profondeur"
+EquipmentDescription="Ruine d'Aquanos"
+
+[Campaign.CrossbowStyle2_DLC_Boss_LD HeroEquipment]
+EquipmentName="Charge de profondeur"
+RandomBaseNames[0]=(StringValue="Débuteur de Vagues")
+RandomBaseNames[1]=(StringValue="Eclabousseur")
+EquipmentDescription="Ruine d'Aquanos"
+
+[Campaign.CrossbowStyle3_DLC_EMH HeroEquipment]
+EquipmentName="Noyau énergétique sous pression"
+EquipmentDescription="Fournit une immense énergie électrique"
+
+[Campaign.CrossbowStyle3_DLC_EMH_LD HeroEquipment]
+EquipmentName="Noyau énergétique sous pression"
+RandomBaseNames[0]=(StringValue="Déchargeur Aquatique")
+RandomBaseNames[1]=(StringValue="Anguille électrique")
+EquipmentDescription="Fournit une immense énergie électrique"
+
+[Campaign.MagicStaffStyle1_DLC_EMH HeroEquipment]
+EquipmentName="Gourdin rythmique de Xilent"
+EquipmentDescription="Bat au rythme de l'abîme"
+
+[Campaign.MagicStaffStyle1_DLC_EMH_LD HeroEquipment]
+EquipmentName="Gourdin rythmique de Xilent"
+RandomBaseNames[0]=(StringValue="Bâton hydraulique")
+RandomBaseNames[1]=(StringValue="Baguette de Sourcier")
+EquipmentDescription="Bat au rythme de l'abîme"
+
+[Campaign.MagicStaffStyle3_DLC_Boss HeroEquipment]
+EquipmentName="Arronax"
+EquipmentDescription="Nommé par le premier explorateurs du Aquanos"
+
+[Campaign.MagicStaffStyle3_DLC_Boss_LD HeroEquipment]
+EquipmentName="Arronax"
+RandomBaseNames[0]=(StringValue="Bâton des Mers")
+RandomBaseNames[1]=(StringValue="Baguette des Marées")
+EquipmentDescription="Nommé par le premier explorateurs du Aquanos"
+
+[Campaign.MonkSpearStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Hallebarde de Lémurien"
+EquipmentDescription="Couvert de crasse des mers sombres"
+
+[Campaign.MonkSpearStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Hallebarde de Lémurien"
+RandomBaseNames[0]=(StringValue="Crampon")
+RandomBaseNames[1]=(StringValue="Lance des Mers")
+EquipmentDescription="Couvert de crasse des mers sombres"
+
+[Campaign.MonkSpearStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Collecteur d'algues géantes"
+EquipmentDescription="Plantes contre Lames"
+
+[Campaign.MonkSpearStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Collecteur d'algues géantes"
+RandomBaseNames[0]=(StringValue="Aqua Lance")
+RandomBaseNames[1]=(StringValue="Lance hydraulique")
+EquipmentDescription="Plantes contre Lames"
+
+[Challenge.BroadswordStyle3_DLC HeroEquipment]
+EquipmentName="Dent de Kraken"
+EquipmentDescription="Arraché directement de la gueule de la bête"
+
+[Challenge.BroadswordStyle3_DLC_LD HeroEquipment]
+EquipmentName="Dent de Kraken"
+RandomBaseNames[0]=(StringValue="Surineur de Crabe")
+RandomBaseNames[1]=(StringValue="Mordeur Océanique")
+EquipmentDescription="Arraché directement de la gueule de la bête"
+
+[Challenge.CrossbowStyle4_DLC HeroEquipment]
+EquipmentName="Flamme éternelle du Nautilus"
+EquipmentDescription="Crache du feu Alchimique"
+
+[Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
+EquipmentName="Flamme éternelle du Nautilus"
+RandomBaseNames[0]=(StringValue="Vague de Flamme")
+RandomBaseNames[1]=(StringValue="Eclat de chaudière")
+EquipmentDescription="Crache du feu Alchimique"

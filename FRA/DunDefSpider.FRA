@@ -1,0 +1,6 @@
+[DunDefMapInfo_PortalDefense]
+RemainingTouchesString="Énergie du portail :"
+
+[DunDefCrystalCore_PortalDefense]
+DescriptiveName="Énergie"
+
