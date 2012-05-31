@@ -1,0 +1,43 @@
+[Campaign.BroadswordStyle6_EMH HeroEquipment]
+EquipmentName="Spinnenspalter"
+EquipmentDescription="Eigenartig, dass die Königin so etwas bei sich trug."
+
+[Campaign.BroadswordStyle9_Boss HeroEquipment]
+EquipmentName="Trauer des Waldes"
+EquipmentDescription="Aus den dunkelsten Tiefen des Waldes."
+
+[Campaign.CrossbowStyle11_Boss HeroEquipment]
+EquipmentName="Gossamer Scharfschütze"
+EquipmentDescription="Ein uraltes Werkzeug eines eigensinnigen Abenteurers."
+
+[Campaign.CrossbowStyle5_EMH HeroEquipment]
+EquipmentName="Chitin-Reflexbogen"
+EquipmentDescription="Hergestellt aus dem schier unzerstörbaren Panzer der Spinnenkönigin."
+
+[Campaign.MagicStaffStyle8_Boss HeroEquipment]
+EquipmentName="Schwebende Essenz"
+EquipmentDescription="Ein Teil der Königin lebt weiter um einem anderen Zweck zu dienen..."
+
+[Campaign.MagicStaffStyle9_EMH HeroEquipment]
+EquipmentName="Bein der Königin"
+EquipmentDescription="Es trieft noch immer vor Gift."
+
+[Campaign.SpearStyle10_Boss HeroEquipment]
+EquipmentName="Giftzahn der Königin"
+EquipmentDescription="Leitet Gift direkt aus ihren Drüsen an die Spitze!"
+
+[Campaign.SpearStyle5_EMH HeroEquipment]
+EquipmentName="Netztrenner"
+EquipmentDescription="Wird den Spinnen eine Lehre erteilen!"
+
+[Challenge.BroadswordStyle8 HeroEquipment]
+EquipmentName="Interdimensionaler Transduzierer"
+EquipmentDescription="Reicht bis in die Unterwelt um die ätherische Energie der Spinnen zu nutzen."
+
+[Challenge.SpearStyle3_EMH HeroEquipment]
+EquipmentName="Der Spinnen-Umgestalter"
+EquipmentDescription="So haben die Spinnen nicht ausgesehen, bevor sie teleportiert sind..."
+
+[Familiars.LegendaryFairy HeroEquipment_Familiar_PlayerHealer]
+EquipmentDescription="Königin der Feen, Begleiterin derer mit großem Mut."
+

@@ -1,0 +1,40 @@
+[Apprentice.HeroEquipment_MushroomStaff HeroEquipment]
+EquipmentName="Des Waldes Trauer"
+EquipmentDescription="Aus den Tiefen des Waldes geborgen."
+
+[Apprentice.HeroEquipment_SpiderQueenStaff HeroEquipment]
+EquipmentName="Hand der Königin"
+EquipmentDescription="Applaus für die Königin"
+
+[Huntress.HeroEquipment_BeetleBow HeroEquipment]
+EquipmentName="Schwarzer Tod"
+EquipmentDescription="Erfreue dein Auge, aber quäle dein Herz."
+
+[Huntress.HeroEquipment_ForestBow HeroEquipment]
+EquipmentName="Hastats Reflexbogen"
+EquipmentDescription="Von seiner Sehne geschossene Pfeile sind gegen jene mit reiner Seele wirkungslos."
+
+[Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
+EquipmentName="Gleve des Einhorns"
+EquipmentDescription="Alles was noch von einem wandernden Wesen übrig ist."
+
+[Monk.HeroEquipment_MantisSpear HeroEquipment]
+EquipmentName="Mantissichel"
+EquipmentDescription="Es war unvermeidlich. Es wird es immer sein."
+
+[Monk.HeroEquipment_SpiderLegSpear HeroEquipment]
+EquipmentName="Bein der Königin"
+EquipmentDescription="Es trieft noch immer vor Gift."
+
+[Squire.HeroEquipment_Cleaver HeroEquipment]
+EquipmentName="Spinnenspalter"
+EquipmentDescription="Eigenartig, dass die Königin so etwas bei sich trug."
+
+[Squire.HeroEquipment_SquireChallenge HeroEquipment]
+EquipmentName="Patellarfäustel"
+EquipmentDescription="Warum nicht gleich eine Spinne?"
+
+[Squire.HeroEquipment_WebbingUntangler HeroEquipment]
+EquipmentName="Netztrenner"
+EquipmentDescription="Wird den Spinnen eine Lehre erteilen!"
+

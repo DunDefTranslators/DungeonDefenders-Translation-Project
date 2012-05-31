@@ -1,0 +1,36 @@
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Ein Oger ist erschienen"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
+StringVar="Levelsieg!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
+StringVar="Aktiviere den Kristall um fortzufahren"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
+StringVar="Weiter zum nächsten Level"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
+StringVar="Letzte Welle!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
+StringVar="Boss-Welle!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
+StringVar="Vorsicht vor den Fisch-Wyvern!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Rette Aquanos bevor das Wasser ansteigt!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelVictory.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Aquanos-Eternia-Splitter erhalten!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Der Boss nähert sich..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
+StringVar="Kraken"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_2 DunDef_SeqVar_LocalizedString]
+StringVar="Boss besiegt!"
+
