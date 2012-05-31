@@ -1,0 +1,98 @@
+[Campaign.BroadswordStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Triton's War Glaive"
+EquipmentDescription="Scourge of the legged"
+
+[Campaign.BroadswordStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Triton's War Glaive"
+RandomBaseNames[0]=(StringValue="Sea Sword")
+RandomBaseNames[1]=(StringValue="Tidal Blade")
+EquipmentDescription="Scourge of the legged"
+
+[Campaign.BroadswordStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Aquian Cog-Maul"
+
+[Campaign.BroadswordStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Aquian Cog-Maul"
+RandomBaseNames[0]=(StringValue="Shell Cracker")
+RandomBaseNames[1]=(StringValue="Gear Hammer")
+
+[Campaign.CrossbowStyle2_DLC_Boss HeroEquipment]
+EquipmentName="The Depth Charge"
+EquipmentDescription="Doom of Aquanos"
+
+[Campaign.CrossbowStyle2_DLC_Boss_LD HeroEquipment]
+EquipmentName="The Depth Charge"
+RandomBaseNames[0]=(StringValue="Wave Starter")
+RandomBaseNames[1]=(StringValue="Splashdown")
+EquipmentDescription="Doom of Aquanos"
+
+[Campaign.CrossbowStyle3_DLC_EMH HeroEquipment]
+EquipmentName="Pressurized Energy Core"
+EquipmentDescription="Provides ample electric power"
+
+[Campaign.CrossbowStyle3_DLC_EMH_LD HeroEquipment]
+EquipmentName="Pressurized Energy Core"
+RandomBaseNames[0]=(StringValue="Sea Shocker")
+RandomBaseNames[1]=(StringValue="Eel Zapper")
+EquipmentDescription="Provides ample electric power"
+
+[Campaign.MagicStaffStyle1_DLC_EMH HeroEquipment]
+EquipmentName="Xilent's Rhythm Staff"
+EquipmentDescription="Pulses to the rhythm of the Deep"
+
+[Campaign.MagicStaffStyle1_DLC_EMH_LD HeroEquipment]
+EquipmentName="Xilent's Rhythm Staff"
+RandomBaseNames[0]=(StringValue="Hydrostaff")
+RandomBaseNames[1]=(StringValue="Dowsing Staff")
+EquipmentDescription="Pulses to the rhythm of the Deep"
+
+[Campaign.MagicStaffStyle3_DLC_Boss HeroEquipment]
+EquipmentName="Arronax"
+EquipmentDescription="Named after an early explorer of Aquanos."
+
+[Campaign.MagicStaffStyle3_DLC_Boss_LD HeroEquipment]
+EquipmentName="Arronax"
+RandomBaseNames[0]=(StringValue="Rod of the Seas")
+RandomBaseNames[1]=(StringValue="Tidal Staff")
+EquipmentDescription="Named after an early explorer of Aquanos."
+
+[Campaign.MonkSpearStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Lemurian Halberd"
+EquipmentDescription="Caked in grime from the dark seas"
+
+[Campaign.MonkSpearStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Lemurian Halberd"
+RandomBaseNames[0]=(StringValue="Barnacled Pike")
+RandomBaseNames[1]=(StringValue="Sea Spear")
+EquipmentDescription="Caked in grime from the dark seas"
+
+[Campaign.MonkSpearStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Kelp Harvester"
+EquipmentDescription="Plants vs Blades."
+
+[Campaign.MonkSpearStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Kelp Harvester"
+RandomBaseNames[0]=(StringValue="Aqua Lance")
+RandomBaseNames[1]=(StringValue="Hydrospear")
+EquipmentDescription="Plants vs Blades."
+
+[Challenge.BroadswordStyle3_DLC HeroEquipment]
+EquipmentName="Kraken Fang"
+EquipmentDescription="Ripped straight from the glowing maw. "
+
+[Challenge.BroadswordStyle3_DLC_LD HeroEquipment]
+EquipmentName="Kraken Fang"
+RandomBaseNames[0]=(StringValue="Crab Stabber")
+RandomBaseNames[1]=(StringValue="Oceanic Bite")
+EquipmentDescription="Ripped straight from the glowing maw. "
+
+[Challenge.CrossbowStyle4_DLC HeroEquipment]
+EquipmentName="Everflame of the Nautilus"
+EquipmentDescription="Emits alchemical fire."
+
+[Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
+EquipmentName="Everflame of the Nautilus"
+RandomBaseNames[0]=(StringValue="Flamewave")
+RandomBaseNames[1]=(StringValue="Flash Boiler")
+EquipmentDescription="Emits alchemical fire."
+

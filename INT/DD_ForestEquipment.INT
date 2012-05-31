@@ -1,0 +1,40 @@
+[Apprentice.HeroEquipment_MushroomStaff HeroEquipment]
+EquipmentName="The Forest's Sorrow"
+EquipmentDescription="Retrieved from the deepest recesses of the forest."
+
+[Apprentice.HeroEquipment_SpiderQueenStaff HeroEquipment]
+EquipmentName="Hand of The Queen"
+EquipmentDescription="A round of applause for the Queen."
+
+[Huntress.HeroEquipment_BeetleBow HeroEquipment]
+EquipmentName="Black Death"
+EquipmentDescription="Please your eye, but plague your heart."
+
+[Huntress.HeroEquipment_ForestBow HeroEquipment]
+EquipmentName="Hastat's Recurve"
+EquipmentDescription="Its projectiles can never kill those with a pure soul."
+
+[Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
+EquipmentName="Glaive of Unicorn"
+EquipmentDescription="All that is left of a wandering creature."
+
+[Monk.HeroEquipment_MantisSpear HeroEquipment]
+EquipmentName="Preying Prayer"
+EquipmentDescription="It was inevitable. It always will be."
+
+[Monk.HeroEquipment_SpiderLegSpear HeroEquipment]
+EquipmentName="Leg of the Queen"
+EquipmentDescription="It is still dripping with poison."
+
+[Squire.HeroEquipment_Cleaver HeroEquipment]
+EquipmentName="Spiderling Cleaver"
+EquipmentDescription="It seems odd the Queen would carry this."
+
+[Squire.HeroEquipment_SquireChallenge HeroEquipment]
+EquipmentName="Patellar Hammer"
+EquipmentDescription="Spiders would be equally effective."
+
+[Squire.HeroEquipment_WebbingUntangler HeroEquipment]
+EquipmentName="Webbing Untangler"
+EquipmentDescription="This will teach those spiderlings!"
+

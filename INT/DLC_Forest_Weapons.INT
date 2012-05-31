@@ -1,0 +1,43 @@
+[Campaign.BroadswordStyle6_EMH HeroEquipment]
+EquipmentName="Spiderling Cleaver"
+EquipmentDescription="It seems odd the Queen would carry this..."
+
+[Campaign.BroadswordStyle9_Boss HeroEquipment]
+EquipmentName="The Forest's Sorrow"
+EquipmentDescription="Retrieved from the deepest recesses of the forest."
+
+[Campaign.CrossbowStyle11_Boss HeroEquipment]
+EquipmentName="Gossamer Sharpshooter"
+EquipmentDescription="An ancient tool of a wayward adventurer."
+
+[Campaign.CrossbowStyle5_EMH HeroEquipment]
+EquipmentName="Chitin Recurve"
+EquipmentDescription="Crafted from the nigh indestructible carapace of the Spider Queen."
+
+[Campaign.MagicStaffStyle8_Boss HeroEquipment]
+EquipmentName="Suspended Essence"
+EquipmentDescription="Part of the Queen lives on to serve a different purpose..."
+
+[Campaign.MagicStaffStyle9_EMH HeroEquipment]
+EquipmentName="Leg of the Queen"
+EquipmentDescription="It is still dripping with poison..."
+
+[Campaign.SpearStyle10_Boss HeroEquipment]
+EquipmentName="Fang of the Queen"
+EquipmentDescription="Funnels poison directly from her gland to the tip!"
+
+[Campaign.SpearStyle5_EMH HeroEquipment]
+EquipmentName="Webbing Untangler"
+EquipmentDescription="This will teach those spiderlings!"
+
+[Challenge.BroadswordStyle8 HeroEquipment]
+EquipmentName="Interdimensional Transducer"
+EquipmentDescription="Reaches into the nether to harness the spiders ethereal energy"
+
+[Challenge.SpearStyle3_EMH HeroEquipment]
+EquipmentName="The Spider Remodeler"
+EquipmentDescription="The spiders didn't look like this before they teleported."
+
+[Familiars.LegendaryFairy HeroEquipment_Familiar_PlayerHealer]
+EquipmentDescription="Queen of the Fairies, companion to those of great courage."
+

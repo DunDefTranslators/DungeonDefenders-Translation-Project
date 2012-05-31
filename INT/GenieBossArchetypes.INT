@@ -1,0 +1,6 @@
+[Enemy.EnemyGenie DunDefGenieBoss]
+DescriptiveName="Genie King"
+
+[EnemyBabyDjinn.EnemyBabyDjinn DunDefDjinn]
+DescriptiveName="Baby Djinn"
+

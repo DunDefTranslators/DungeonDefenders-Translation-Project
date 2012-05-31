@@ -1,0 +1,40 @@
+[Campaign.BoardswordStyle4_Boss HeroEquipment]
+EquipmentName="Crysknife of the Efreet"
+EquipmentDescription="Masterwork blade crafted by the Djinns."
+
+[Campaign.BroadswordStyle8_EMH HeroEquipment]
+EquipmentName="Ebon Falchion"
+EquipmentDescription="The blade has been shaped from Obsidian."
+
+[Campaign.CrossbowStyle7_EMH HeroEquipment]
+EquipmentName="Samiel the Flayer"
+EquipmentDescription="Fitted with the teeth of the fallen."
+
+[Campaign.CrossbowStyle8_Boss HeroEquipment]
+EquipmentName="Shaitan of a Thousand Winds"
+EquipmentDescription="The fury of a storm pulses within."
+
+[Campaign.MagicStaffStyle4_EMH HeroEquipment]
+EquipmentName="Undying Rod"
+EquipmentDescription="Cursed femur of the Sand Ogres."
+
+[Campaign.MagicStaffStyle7_Boss HeroEquipment]
+EquipmentName="Oculus of the Genie King"
+EquipmentDescription="An eye is upon you..."
+
+[Campaign.MonkSpearStyle2_Boss HeroEquipment]
+EquipmentName="Junbao's Sun-kissed Saber"
+EquipmentDescription="The focused power of the sun blazes forth."
+
+[Campaign.MonkSpearStyle9_EMH HeroEquipment]
+EquipmentName="Shimmerblade Scimitar"
+EquipmentDescription="It's surface is blinding."
+
+[Challenge.CrossbowStyle8_EMH HeroEquipment]
+EquipmentName="Shai Hulud"
+EquipmentDescription="Terror of the sands."
+
+[Challenge.MagicStaffStyle05 HeroEquipment]
+EquipmentName="Genie King's Shardstaff"
+EquipmentDescription="A glowing crystal suspended in a shriveled tongue."
+

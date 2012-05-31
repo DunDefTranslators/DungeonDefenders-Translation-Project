@@ -1,0 +1,6 @@
+[EnemyBabySpider DunDefSpider]
+DescriptiveName="Baby Spider"
+
+[EnemySpiderQueen DunDefSpiderQueen]
+DescriptiveName="Spider Queen"
+
