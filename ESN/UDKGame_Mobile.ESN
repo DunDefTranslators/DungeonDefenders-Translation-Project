@@ -1,0 +1,734 @@
+[DunDefDarkElfWarrior]
+DescriptiveName="Elfo Guerrero Oscuro"
+
+[DunDefInput]
+KeyDescriptions[0]=(KeyDescription="1")
+KeyDescriptions[1]=(KeyDescription="2")
+KeyDescriptions[2]=(KeyDescription="3")
+KeyDescriptions[3]=(KeyDescription="4")
+KeyDescriptions[4]=(KeyDescription="5")
+KeyDescriptions[5]=(KeyDescription="6")
+KeyDescriptions[6]=(KeyDescription="7")
+KeyDescriptions[7]=(KeyDescription="8")
+KeyDescriptions[8]=(KeyDescription="9")
+KeyDescriptions[9]=(KeyDescription="0")
+KeyDescriptions[10]=(KeyDescription="Clic Izquierdo")
+KeyDescriptions[11]=(KeyDescription="Clic Derecho")
+KeyDescriptions[12]=(KeyDescription="Clic Centra/Rueda")
+KeyDescriptions[13]=(KeyDescription="Control")
+KeyDescriptions[14]=(KeyDescription="Control")
+KeyDescriptions[15]=(KeyDescription="Rueda del ratón")
+KeyDescriptions[16]=(KeyDescription="Rueda del ratón")
+KeyDescriptions[17]=(KeyDescription="Mayús")
+KeyDescriptions[18]=(KeyDescription="Mayús")
+KeyDescriptions[19]=(KeyDescription="Espacio")
+KeyDescriptions[20]=(KeyDescription="(X)")
+KeyDescriptions[21]=(KeyDescription="(Y)")
+KeyDescriptions[22]=(KeyDescription="(B)")
+KeyDescriptions[23]=(KeyDescription="(A)")
+KeyDescriptions[24]=(KeyDescription="(Start)")
+KeyDescriptions[25]=(KeyDescription="(Atrás)")
+KeyDescriptions[26]=(KeyDescription="(Arriba)")
+KeyDescriptions[27]=(KeyDescription="(Abajo)")
+KeyDescriptions[28]=(KeyDescription="(Izquierda)")
+KeyDescriptions[29]=(KeyDescription="(Derecha)")
+KeyDescriptions[30]=(KeyDescription="(L1)")
+KeyDescriptions[31]=(KeyDescription="(R1)")
+KeyDescriptions[32]=(KeyDescription="(Gatillo izquierdo)")
+KeyDescriptions[33]=(KeyDescription="(Gatillo derecho)")
+KeyDescriptions[34]=(KeyDescription="(Joystick izquierdo)")
+KeyDescriptions[35]=(KeyDescription="(Joystick derecho)")
+BindingDescriptions[0]=(Description="Hacia delante")
+BindingDescriptions[1]=(Description="Hacia atrás")
+BindingDescriptions[2]=(Description="Estrafe izquierdo")
+BindingDescriptions[3]=(Description="Estrafe derecho")
+BindingDescriptions[4]=(Description="Saltar/Confirmar")
+BindingDescriptions[5]=(Description="Pausar")
+BindingDescriptions[6]=(Description="Activar/Almacenar")
+BindingDescriptions[7]=(Description="Recojer")
+BindingDescriptions[8]=(Description="Vínculos a habilidades")
+BindingDescriptions[9]=(Description="Vínculos a habilidades")
+BindingDescriptions[10]=(Description="Vínculos a habilidades")
+BindingDescriptions[11]=(Description="Vínculos a habilidades")
+BindingDescriptions[12]=(Description="Rotar cámara")
+BindingDescriptions[13]=(Description="Mostrar mapa")
+BindingDescriptions[14]=(Description="Cancelar acción")
+BindingDescriptions[15]=(Description="Alternar cámara")
+BindingDescriptions[16]=(Description="Mostrar&&inventario")
+BindingDescriptions[17]=(Description="Abrir rueda de acción")
+BindingDescriptions[18]=(Description="Usar arma/Confirmar acción")
+BindingDescriptions[19]=(Description="Alternar arma")
+BindingDescriptions[20]=(Description="Mover")
+BindingDescriptions[21]=(Description="Girar")
+BindingDescriptions[22]=(Description="Aumentar")
+BindingDescriptions[23]=(Description="Girar")
+
+[UI_OptionsMenu]
+ControlSchemeName[0]="Control de estrafe"
+ControlSchemeName[1]="Constrol predeterminado"
+
+[UI_Leaderboard]
+myHeroInfo.HeroName="Descon."
+TopRankingsView="Rankings Top"
+InfiniteWaveString="Oleadas infinitas"
+RetrieveString="Obteniendo marcadores..."
+
+[DunDefGoblin]
+DescriptiveName="Trasgo"
+
+[UI_CreateHero]
+MSG_PickNameTitle="Nombre:"
+MSG_PickNameDescription="Por favor, introduce un nombre para tu héroe"
+customTemplateName="Personalizado"
+
+[DunDefPracticeDummy]
+DescriptiveName="Muñeco de práctica"
+
+[DunDefAchievementTrophy]
+ActivationString_Use="(Detalles)"
+
+[DunDefPlayerAbility_GenericActorSpawner]
+DescriptiveName="Establecer descripción única en arquetipo"
+
+[DunDefHero]
+StatNames[0]="Nada"
+StatNames[1]="Salud"
+StatNames[2]="Velocidad"
+StatNames[3]="Daño"
+StatNames[4]="Vel. de ejecución"
+StatNames[5]="Habilidad uno"
+StatNames[6]="Habilidad dos"
+StatNames[7]="Salud de las def."
+StatNames[8]="Vel. At. de las def."
+StatNames[9]="Daño de las def."
+StatNames[10]="Área de efecto de las def."
+StatDescriptions[0]="Nada"
+StatDescriptions[1]="Descripción de la salud"
+StatDescriptions[2]="Descripción de la vel."
+StatDescriptions[3]="Descripción del daño"
+StatDescriptions[4]="Descripción de la vel. de ejecución"
+StatDescriptions[5]="Descripción de la habilidad 1"
+StatDescriptions[6]="Descripción de la habilidad 2"
+StatDescriptions[7]="Descripción de la salud de las def."
+StatDescriptions[8]="Descripción de la vel. de at. de las def."
+StatDescriptions[9]="Descripción del ataque de las def."
+StatDescriptions[10]="Descripción del área de efecto de las def."
+
+[GameSpyMessages]
+NoConnection=No se ha podido conectar porque no hay conexión a internet
+ServiceUnavailable=Los servicios de GameSpy no están disponibles actualmente
+DupeLogin=¡Has sido desconectado de tu cuenta porque se ha iniciado sesión en otro equipo!
+InvalidUser=Nombre de usuario o contraseña no válido. Por favor, inténtalo de nuevo.
+UnknownError=Se ha producido un error mientras iniciabas sesión. Por favor, inténtalo de nuevo.
+LoggingIn=Iniciando sesión...
+LoginSuccess=Identificado con éxito
+LoginCancelled=Cancelado por el usuario
+SaveLoginInfo=¿Recordar los datos?
+
+[DunDefEnemy]
+DescriptiveName="Enemigo"
+
+[UI_MultiplayerMenu]
+MSG_NoGamesFoundTitle="No se han encontrado partidas"
+MSG_NoGamesFoundDescription="No se ha encontrado ninguna partida disponible.\n\n¿Quieres crear una?"
+MSG_CreateGameFailedTitle="Error al crear partida"
+MSG_CreateGameFailedDescription="Error al crear partida"
+MSG_CreatingGameTitle="Creando partida"
+MSG_JoiningGameTitle="Uniéndote a la partida"
+MSG_SearchFailedTitle="Error en la búsqueda"
+MSG_SearchFailedDescription="Error al buscar partida."
+MSG_NoGamesQuickMatchTitle="No se han encontrado partidas"
+MSG_NoGamesQuickMatchDescription="No se han encontrado partidas.\n\n¿Quieres crear una?"
+MSG_SearchingForGamesTitle="Buscando"
+MSG_SearchingForGamesDescription="Buscando partidas..."
+MSG_CreatePrivateMatchTitle="¿Crear una partida privada?"
+MSG_CreatePrivateMatchDescription="Tu partida no aparecerá disponible para otros jugadores. ¿Estás seguro de que quieres crearla?"
+
+[DunDefDroppedEquipment]
+ActivationString="(Equipar objeto)"
+AltActivationString="(A la caja de objetos)"
+
+[DunDefForge]
+ActivationString_FailureDuringCombatPhase="(No se puede usar en la Fase de Combate)"
+ActivationString_Use="(Activar)"
+AltActivationString="(Ver"
+DescriptiveName="Fragua del Defensor"
+leaderboardSignPrefix="Héroe nº1"
+leaderboardEmptyString1="¡Se el primero en"
+leaderboardEmptyString2="aparecer en el marcador!"
+scoreString="Puntos:"
+LevelString="Nvl"
+
+[DunDefTower]
+ManaText="Maná"
+UpgradeToText="Has subido de nivel"
+AttackRangeString="Alcance de ataque:"
+AttackDamageString="Daño de ataque:"
+AttackIntervalString="Vel. de ataque:"
+AttackIntervalEndString="segundos"
+TowerUnitCostString="Unidades de Defensa:"
+HideDetailsString="(Ocultar detalles)"
+ShowDetailsString="(Mostrar detalles)"
+
+[DunDefPlayerAbility_SellTower]
+NotificationString="Elige una defensa para vender"
+ActivationFailureStringEnd="a"
+
+[DunDefTower_DetonationType]
+ActivationRangeString="Radio de activación:"
+MaximumDetonationsString="Detonaciones máximas:"
+AttackDurationString="Duración efectiva:"
+DetonationResetTimeString="Restablecimiento en:"
+AttackRangeString="Radio de efectividad:"
+
+[DunDefSkeleton]
+DescriptiveName="Esqueleto"
+
+[HeroEquipment_Familiar]
+ForgedByDescription="Asesinado por"
+
+[UI_PlayerStats]
+showGamerCardString="Info. del jugador"
+totalString="Total"
+bestString="Mejor"
+leastString="Peor"
+mostString="El que más"
+killString="Víctimas"
+playerString="Jugador"
+towerString="Defensa"
+towersString="Defensas"
+builtString="Constr."
+repairString="Reparaciones"
+destroyString="Destrucciones"
+soldString="Vendidas"
+timeString="Tiempo"
+chestString="Cofres abiertos"
+manaString="Maná obtenido"
+expString="EXP conseguida"
+scoreString="Puntos"
+damageString="Daños recibidos"
+DeathString="Muertes"
+naString="N/D"
+pureStrategyString="Estrategia Pura"
+survivalString="Supervivencia"
+highestString="La más alta"
+waveString="Oleada"
+endingsAchieved="Finales completados:"
+towerButtonString="Defensas"
+enemyButtonString="Enemigos"
+treasureButtonString="Tesoro"
+generalString="General"
+awardString="Premios"
+flawlessVictoryString="Victoria perfecta"
+immortalString="Inmortal"
+invincibleString="Invencible"
+mvpString="Mejor jugador"
+strategistString="Estratega"
+triggerHappyString="Gatillo fácil"
+bankerString="Banquero"
+chillaxString="Relajado"
+janitorString="Portero"
+knightString="Caballero"
+lordString="Señor"
+handymanString="Manitas"
+
+[DunDefDemon]
+DescriptiveName="Demonio"
+
+[DunDefGameReplicationInfo]
+ScoreAwardPreStrings[1]="Oleada Finalizada"
+ScoreAwardPreStrings[2]="Bonificación por tiempo ("
+ScoreAwardPreStrings[3]="Cristal intacto: Puntuación total x"
+ScoreAwardPreStrings[4]="Jugador intacto: Puntuación total x"
+ScoreAwardPreStrings[5]="Solo has usado torres: Puntuación total x"
+ScoreAwardPreStrings[6]="Solo has usado armas: Puntuación total x"
+ScoreAwardPreStrings[7]="Derrotado"
+ScoreAwardPreStrings[8]="Recompensa: '"
+ScoreAwardPreStrings[9]="¡Has hecho trampas! Es una larga descripción  +"
+ScoreAwardPostStrings[1]="  +"
+ScoreAwardPostStrings[2]="segs)  +"
+ScoreAwardPostStrings[7]="  +"
+ScoreAwardPostStrings[8]="'  +"
+MajorNotificationLabels[0]="        Se han curado todos los jugadores        "
+MajorNotificationLabels[1]="    Se han curado todos los jugadores y cristales    "
+MajorNotificationLabels[2]="Oleada"
+MajorNotificationLabels[3]="Tendrás más suerte la próxima vez"
+GameOverDescriptionReasons[0]="¡Un Cristal de Eternia ha sido destruido!"
+SpectatorWaitString="Esperando a la fase de construcción para unirse"
+PureStrategyModeString="Estrategia Pura"
+SurvivalModeString="Supervivencia"
+statsWaitText="Enviando estadísticas..."
+
+[UI_GameSetup]
+ChallengeString="Desafío:"
+LevelString="Nivel:"
+DifficultyString="Dificultad:"
+InfiniteBuildTimeString="Tiempo de construcción infinito:"
+SurvivalModeString="Supervivencia:"
+StartingWaveString="Comenzando la oleada:"
+TavernItemPickupString="Objetos recogidos en la taberna:"
+PureStrategyModeString="Estrategia Pura:"
+MSG_DLCWarningDescription1="Hay jugadores que no tienen el mapa de este contenido adicional"
+MSG_DLCWarningDescription2="Si cambias a este nivel se echará a los siguientes jugadores:"
+MSG_DLCWarningDescription3="¿Estás seguro de que quieres cambiar a este nivel?"
+MSG_DLCWarningTitle="Advertencia"
+OnStrings[0]="Bloqueado"
+OnStrings[1]="Desbloqueado"
+StringYes="Sí"
+StringNo="No"
+
+[UIScriptWidget_HeroSelectionButton]
+LevelString="Nivel"
+HealthString="Salud"
+manaString="Maná"
+MaxManaString="Maná máx."
+MaxHealthString="Salud máx."
+
+[DunDefWaveBillboard]
+enemiesString="Enemigos:"
+
+[DunDefPlayer]
+ActivationString="Ver info. del héroe"
+HealthString="Salud:"
+manaString="Maná:"
+
+[DunDef_UIAction_CheckAllPlayersLoggedIn]
+MessageTitle="Error al guardar"
+MessageText="Nota: no has iniciado sesión en tu perfil. No se guardará nada de lo que consigas si no inicias sesión."
+
+[DunDefHeroManager]
+DifficultyNames[0]="Fácil"
+DifficultyNames[1]="Normal"
+DifficultyNames[2]="Difícil"
+DifficultyNames[3]="Demencial"
+CampaignLevelEntries[0]=(LevelFriendlyName="Forjas y fraguas",LevelDescription="Un sulfuroso lugar de fuego y azufre, donde los herreros se esfuerzan en hacer las armas más poderosas.")
+CampaignLevelEntries[1]=(LevelFriendlyName="Cuarto de magos",LevelDescription="Allá donde vive el Gran Mago, estudiando sus artes arcanas.")
+CampaignLevelEntries[2]=(LevelFriendlyName="Laboratorio químico",LevelDescription="Aquí, se han desarrollado extraños dispositivos capaces de transmutar los elementos.")
+CampaignLevelEntries[3]=(LevelFriendlyName="Cuarto de los siervos",LevelDescription="Los siervos de los nobles poseedores de este castillo hacen de esta habitación su hogar.")
+CampaignLevelEntries[4]=(LevelFriendlyName="Armería del castillo",LevelDescription="Las armas más vastas de los guardias del castillo se encuentran en esta zona de entrenamiento intensivo.")
+CampaignLevelEntries[5]=(LevelFriendlyName="Salón de la corte",LevelDescription="La aristocracia utiliza esta majestuosa habitación para realizar los tribunales.")
+CampaignLevelEntries[6]=(LevelFriendlyName="La habitación del trono",LevelDescription="La sede del propio poder, desde la cual se gobierna el reino.")
+CampaignLevelEntries[7]=(LevelFriendlyName="Desafío: Aliados Improbables",LevelDescription="¡Protege a tu ogro del ataque de las hordas enemigas!")
+CampaignLevelEntries[8]=(LevelFriendlyName="Desafío: Cristaletransporte",LevelDescription="¡El cristal se teletransportará aleatoriamente por el mapa cada período de tiempo, ¡mantente alerta!")
+CampaignLevelEntries[9]=(LevelFriendlyName="Desafío: Trasgotormenta",LevelDescription="Los trasgos caen del cielo, están por todos lados. ¡Abre tu paragüas ante estos trolls!")
+CampaignLevelEntries[10]=(LevelFriendlyName="Desafío: Brujería",LevelDescription="Solo hay dos magos vulnerables. ¡Encuéntralos y destrúyelos para que otros dos sean vulnerables!")
+CampaignLevelEntries[11]=(LevelFriendlyName="Desafío: Furia de Titanes",LevelDescription="¿Puedes sobrevivir a oleadas de ogros? ¡Comprobémoslo!")
+CampaignLevelEntries[12]=(LevelFriendlyName="Desafío: Como musulmanes",LevelDescription="Prepárate para unas oleadas de Kobolds Kamikazes que se inmolarán contra tu cristal. ¿Crees que podrás pararlos?")
+CampaignLevelEntries[13]=(LevelFriendlyName="Desafío: El Pollo Popeye",LevelDescription="Aleatoriamente, un héroe se convertirá en pollo, será mas lento, los enemigos le perseguirán y morirá de un solo golpe.")
+DefaultStatNames[0]="Nada"
+DefaultStatNames[1]="Salud"
+DefaultStatNames[2]="Velocidad"
+DefaultStatNames[3]="Daño"
+DefaultStatNames[4]="Ejecución"
+DefaultStatNames[5]="Habilidad uno"
+DefaultStatNames[6]="Habilidad dos"
+DefaultStatNames[7]="Habilidad tres"
+DefaultStatNames[8]="Ataque de las def."
+DefaultStatNames[9]="Daño de las def."
+DefaultStatNames[10]="Efecto y área de def."
+LobbyLevelName="Taberna"
+CorruptSaveTitle="Partida dañada"
+CorruptSaveMsg="Tu partida estaba dañada. Cargado con éxito."
+
+[DunDefMapInfo]
+DefaultMissionObjectiveText="¡Defiende los Cristales de Eternia!"
+LobbyLevelPreDescription="Taberna de"
+
+[DunDefTower_AuraStickyGloop]
+AttackDamageString="Velocidad del enemigo:"
+
+[UIScriptWidget_HeroInfoExpBar]
+PreValuesString="Experiencia: "
+
+[UI_SearchFilters]
+MSG_OneDifficultyRequiredTitle="¡No está permitido!"
+MSG_OneDifficultyRequiredDescription="Debes seleccionar almenos un nivel de dificultad, si no, ¡no obtendrás resultados de búsqueda!"
+
+[DunDefTower_ChainLightning]
+ChainLengthString="Longitud máxima:"
+AttackDamagePerSecondString="por segundo"
+AttackIntervalString="Duración del ataque:"
+ChainTargetsString="Máx. objetivos en cadena:"
+
+[UI_CustomizeCrystal]
+LockedString="¡Bloqueado!"
+RequiredString="Requerido:"
+
+[UI_PauseMenu]
+LeaveGameString="Abandonar partida"
+muteString="Enmudecer"
+unmuteString="Desenmudecer"
+DeletionConfirmationStrings[0]="¿Estás seguro de que quieres reiniciar este nivel?"
+DeletionConfirmationStrings[1]="¿Estás seguro de que quieres regresar a tu taberna?"
+DeletionConfirmationStrings[2]="¿Estás seguro de que quieres abandonar la partida?"
+DeletionConfirmationStrings[3]="¿Estás seguro de que quieres salir al menú principal?"
+
+[DunDefOgre]
+DescriptiveName="Ogro"
+
+[UI_CharacterSelect]
+PressStartString="Presiona START"
+
+[DunDefGameStats]
+statClasses[25]=(AwardName="Inmortal",AwardDescription="No mueras en toda la partida")
+statClasses[26]=(AwardName="Invencible",AwardDescription="No recibas ni un golpe en una oleada que no sea la primera")
+statClasses[27]=(AwardName="Caballero",AwardDescription="Acaba con 10 enemigos en 5 segundos")
+statClasses[28]=(AwardName="Señor",AwardDescription="Acaba con 50 enemigos en 5 segundos")
+statClasses[29]=(AwardName="Estratega",AwardDescription="Consigue la mayor puntuación de torres destruidas")
+statClasses[30]=(AwardName="Banquero",AwardDescription="Consigue la mayor cantidad de maná")
+statClasses[31]=(AwardName="Gatillo fácil",AwardDescription="Se el primero en estar listo para la fase de combate")
+statClasses[32]=(AwardName="Manitas",AwardDescription="Se el que más torres ha reparado")
+statClasses[33]=(AwardName="Portero",AwardDescription="Consigue la mayor cantidad de víctimas en una oleada")
+statClasses[34]=(AwardName="Relajado",AwardDescription="Se el que menos se ha movido durante una oleada")
+statClasses[35]=(AwardName="Victoria perfecta",AwardDescription="Mantén intacto el cristal en una oleada que no sea la primera")
+statClasses[36]=(AwardName="Mejor héroe",AwardDescription="Se el jugador que más ha matado")
+statClasses[37]=(AwardName="Trabajo en equipo",AwardDescription="Completa una misión con 4 jugadores activos")
+statClasses[38]=(AwardName="Por los pelos",AwardDescription="Sobrevive a una oleada que no sea la primera con menos de 100 pts. de salud del Cristal en normal")
+statClasses[39]=(AwardName="Primera sangre",AwardDescription="Causa la primera muerte de la oleada")
+statClasses[40]=(AwardName="Mecánico",AwardDescription="Se el que más mejoras de torres ha hecho")
+statClasses[41]=(AwardName="Matajefes",AwardDescription="Acaba con el jefe")
+statClasses[42]=(AwardName="Maestro constructor",AwardDescription="Completa las unidades de defensa durante toda una ronda")
+statClasses[43]=(AwardName="Maestro estratega",AwardDescription="Daña a los enemigos únicamente mediante torretas tras la primera oleada")
+statClasses[44]=(AwardName="Forajido",AwardDescription="Daña a los enemigos únicamente con armas/habilidades tras la primera oleada")
+statClasses[45]=(AwardName="Mejor jugador",AwardDescription="Se el que más muertes ha causado")
+
+[DunDefDamageType_Fire]
+FriendlyName="Fuego"
+AdjectiveName="Ardiente"a)"
+
+[DunDefPlayerAbility_DetonateTraps]
+ActivationFailureString_NoTrapsToDetonate="No hay trampas cercanas para detonar"
+DescriptiveName="Detonar trampas"
+
+[DunDefTower_Aura]
+AttackRangeString="Radio de efectividad:"
+
+[DunDefCrystalCore]
+ActivationBuildPhaseString="(Activar para comenzar la fase de combate)"
+ActivationVictoryString="(Activar para adentrarte en el próximo nivel)"
+ActivationVictoryViewStatsString="(Activar para ver las estadísticas)"
+CoreUnderAttackMessageString="¡Estan atacado uno de los Cristales de Eternia!"
+LobbyOpenGameSetupString="Preparar misión"
+LobbyViewHostsStatsString="Ver estadísticas de"
+LobbyViewYourStatsString="Ver tus estadísticas"
+
+[UI_PasswordPrompt]
+MSG_PasswordTitle="Contraseña incorrecta"
+MSG_PasswordDescription="La contraseña que has introducido no es correcta, inténtalo de nuevo"
+
+[DunDefDamageableTarget]
+SummonedByString="Construida por"
+
+[DunDefWeapon]
+ReloadString="Recargando"
+
+[UIScriptWidget_EquipmentStat]
+DamageResistanceString="Bonif. de resistencia al daño"
+BonusString="Bonificación"
+
+[DunDefViewportClient]
+MSG_DuplicateLoginTitle="Inicio de sesión duplicado"
+MSG_JoinFailedTitle="Error al unirte"
+MSG_JoinFailedDescription="Se ha producido un error al unirte a la partida"
+
+[DunDefSceneClient]
+MSG_NetworkConnectionLostTitle="Se ha perdido la conexión"
+MSG_NetworkConnectionLostDescription="Se ha perdido tu conexión a internet."
+MSG_SigninChangeTitle="Conflicto de sesión"
+MSG_SigninChangeDescription="Se ha producido un conflicto de sesión de un jugador activo."
+
+[DunDefPlayerAbility_CharacterToggle]
+ToggleActivationString="Activado"
+ToggleDeactivationString="Desactivado"
+
+[ActionWheelEntry]
+ToolTipDescription="Esto es una descripción informativa & Por favor, reemplazala con algo en el arquetipo"
+
+[DunDefKobold]
+DescriptiveName="Kobold"
+
+[DunDefPlayerAbility_RepairTower]
+NotificationString="Elige una defensa para reparar"
+ActivationFailureString_Mana="Se necesitan"
+ActivationFailureStringEnd="para"
+
+[DunDefPlayerAbility_Heal]
+CastingDescription="Curándote"
+ActivationFailureString_Short="Tu salud está al máximo"
+ActivationFailureString="No te puedes curar si tienes la salud al máximo."
+DescriptiveName="Curación"
+
+[DunDefDamageType_Generic]
+FriendlyName="Genérico"
+
+[UICheckBox_Scripted]
+ValueDataSource.MarkupString="1280x720"
+
+[UI_GameSpyLogin]
+MSG_InvalidCharacterTitle="Tecla no válida"
+MSG_InvalidCharacterDescription1="Las IDs de GameSpy no funcionan con '"
+MSG_InvalidCharacterDescription2="' personaje"
+MSG_LoggingInTitle="Iniciando sesión"
+MSG_LoginFailedTitle="Se ha producido un error"
+MSG_LoginSucceededTitle="Has iniciado sesión"
+MSG_LoginSucceededDescription="Has iniciado sesión"
+
+[DunDefTower_AuraHeal]
+AttackDamageString="Salud:"
+AttackIntervalString="Vel. de cura:"
+
+[DunDefHUD]
+ReachedLevelCapMessageString="ha alcanzado el nivel máximo de su héroe:"
+ReachedDemoLevelCapMessageString="ha alcanzado el nivel máximo de la versión de prueba de su héroe:"
+RandomDeathStrings[0]="Estás acabado"
+RandomDeathStrings[1]="¡Ouch!"
+RandomDeathStrings[2]="Eso debe de doler"
+
+[UI_NetworkMultiplayer]
+MSG_SearchingForGamesTitle="Buscando"
+MSG_SearchingForGamesDescription="Buscando partidas..."
+MSG_FailedToJoinGameTitle="Error al unirte"
+MSG_FailedToJoinGameDescription="Se ha producido un error al unirte a la partida"
+MSG_JoiningGameTitle="Entrando"
+MSG_JoiningGameDescription="Uniéndote a la partida..."
+MSG_CannotJoinTitle="No puedes entrar"
+MSG_CannotJoinGameFull="¡No puedes entrar a la partida por que está llena!"
+MSG_CannotJoinNotAllOnline="¡No puedes entrar a la partida por que no todos los jugadores pueden jugar online!"
+MSG_CreatingGameTitle="Creando partida"
+MSG_CreatingGameDescription="Creando partida..."
+
+[UI_HeroInfoNew]
+LevelString="Nivel"
+LevelUpPreString="Aplicar puntos de EXP"
+
+[UI_HeroSelection]
+CancelString="Cancelar"
+
+[UI_EquipmentInfo_New]
+LevelString="Nivel"
+InvestingString="Invirtiendo..."
+UpgradeString="Inversión"
+ApplyLevelUpString="¡Mejorar!"
+MaximumLevelString="Al máximo nivel"
+PickStatString="Elegir estadísticas a mejorar"
+UpgradeInForgeString="Invertir en la fragua"
+UpgradeNextWaveString="Invertir en la próxima oleada"
+
+[HeroEquipment]
+LevelString="Nvl"
+ForgedByDescription="Forjado por"
+AdditionalDescription="Adicional"
+DamageDescription="Daño"
+EquipmentStatNames[0]="Daño"
+EquipmentStatNames[1]="Daño a distancia"
+EquipmentStatNames[2]="Daño elemental"
+EquipmentStatNames[3]="Disparos por segundo"
+EquipmentStatNames[4]="Tamaño del cargador"
+EquipmentStatNames[5]="Bonif. de recarga rápida"
+EquipmentStatNames[6]="Bonif. de retroceso"
+EquipmentStatNames[7]="Bonif. de vel. de recarga"
+EquipmentStatNames[8]="Resist. al bloqueo de daño"
+EquipmentStatNames[9]="Proyectiles adicionales"
+EquipmentStatNames[10]="Bonif. de vel. de proyectiles"
+EquipmentStatDescriptions[0]="El daño que hace el arma con cada ataque."
+EquipmentStatDescriptions[1]="El daño que hace el arma con sus ataques a distancia."
+EquipmentStatDescriptions[2]="El daño elemental que hace el arma."
+EquipmentStatDescriptions[3]="Los disparos del arma por segundo."
+EquipmentStatDescriptions[4]="La munición del arma en el cargador."
+EquipmentStatDescriptions[5]="Una bonificación de velocidad de recarga del arma."
+EquipmentStatDescriptions[6]="Una bonificación de retroceso causado por el arma."
+EquipmentStatDescriptions[7]="Una bonificación de velocidad de recarga del arma."
+EquipmentStatDescriptions[8]="El porcentaje de daño que se reduce al bloquear con este arma."
+EquipmentStatDescriptions[9]="Los disparos del arma por segundo."
+EquipmentStatDescriptions[10]="Una bonificación de velocidad de los proyectiles del arma."
+BaseForgerName="Desconocido"
+GivenEquipmentMessageString="' se ha guardado en tu caja de objetos!"
+RandomBaseNames[0]=(StringValue="Nombre aleatorio genérico de obj.")
+DamageReductionNames[0]=(StringValue="Encantando")
+DamageReductionNames[1]=(StringValue="Bendecido")
+DamageReductionNames[2]=(StringValue="Afortunado")
+DamageReductionNames[4]=(StringValue="Desafortunado")
+QualityDescriptorRealNames[0]=(StringValue="Divino")
+QualityDescriptorRealNames[1]=(StringValue="Legendario")
+QualityDescriptorRealNames[2]=(StringValue="Épico")
+QualityDescriptorRealNames[3]=(StringValue="Impresionante")
+QualityDescriptorRealNames[4]=(StringValue="Poderoso")
+QualityDescriptorRealNames[5]=(StringValue="Brillante")
+QualityDescriptorRealNames[6]=(StringValue="Pulido")
+QualityDescriptorRealNames[7]=(StringValue="Robusto")
+QualityDescriptorRealNames[8]=(StringValue="Sólido")
+QualityDescriptorRealNames[9]=(StringValue="Retaco")
+QualityDescriptorRealNames[10]=(StringValue="Usado")
+QualityDescriptorRealNames[11]=(StringValue="Roto")
+QualityDescriptorRealNames[12]=(StringValue="Maldito")
+
+[DunDefPlayerAbility_UpgradeTower]
+FailureString_TowerHasMaxUpgrades="Esta defensa no se puede mejorar más."
+NotificationString="Elige una defensa que mejorar"
+UpgradingString="Mejorando"
+ActivationFailureString_Mana="Se necesitan"
+ActivationFailureStringEnd="para"
+
+[DunDefPlayerController]
+MSG_StorageDeviceRemovedTitle="Dispositivo de almacenamiento retirado"
+MSG_StorageDeviceRemovedDescription="Un dispositivo que contenía contenido adicional se ha retirado. Volverás automáticamente al menú principal."
+MSG_WaitingForDLCMasksTitle="Esperando"
+MSG_WaitingForDLCMasksDescription="Cargando información de los mapas que tienen los demás jugadores..."
+MSG_BootedFromGameTitle="Te han echado de la partida"
+MSG_BootedFromGameDescription="Has sido expulsado automáticamente porque no tenías el contenido adicional que ha iniciado el anfitrión de la partida."
+MSG_JoiningTitle="Entrando..."
+MSG_JoiningDescription="Entrando a la partida..."
+MSG_JoinFailedTitle="Error al unirte"
+MSG_JoinFailedDescription1="Se ha producido un error al unirte mediante invitación."
+MSG_JoinFailedDescription2="Se ha producido un error al unirte mediante invitación porque no todos los jugadores pueden unirse."
+MSG_JoinFailedDescription3="Se ha producido un error al unirte mediante invitación porque la partida está llena."
+
+[UIPanel_Leaderboard]
+entryNotFoundString="No apareces en esta tabla de puntuaciones"
+emptyLeaderboardString="Esta tabla de punt. está vacía"
+myHeroInfo.HeroName="Desconocido"
+TopRankingsView="Rankings Top"
+FriendsView="Amigos"
+InfiniteWaveString="Supervivencia"
+RetrieveString="Recibiendo marcadores..."
+pureStrategyString="Estrategia Pura"
+CampaignString="Campaña"
+ChallengeString="Desafíos"
+
+[DunDefTower_SliceNDice]
+DamageRateAtMaxSpinString="Daño mientras gira:"
+AttackIntervalString="Tiempo en llegar a la máx. vel.:"
+
+[UI_GameStats]
+genericFeedbackString="Más info."
+hideInfoString="Ocultar info."
+showGamerCardString="Info. del jugador"
+timeString="Tiempo"
+totalString="Total"
+combatString="Combate"
+buildString="Constr."
+killsString="Víctimas"
+playersString="Héroes"
+towersString="Defensas"
+wavesString="Oleadas"
+chestsString="Cofres del tesoro"
+builtString="Construidas"
+soldString="Venidas"
+repairedString="Reparadas"
+destroyedString="Destruidas"
+openedString="Abiertas"
+bootyString="Botín"
+usefulBootyString="Útil"
+unusefulBootyString="Inútil"
+enemiesEncounteredString="Enemigos generados"
+deathsString="Muertes"
+totalExpString="EXP ganada"
+totalManaString="Maná"
+mvpString="Mejor jugador"
+awardsString="Premios"
+LevelString="Nivel"
+waveString="Oleada"
+enemiesString="Enemigos"
+spawnedString="Generado"
+killedString="Asesinado"
+playerDamageString="Daño"
+upgradedString="Mejorado"
+damageTakenString="Daños recibidos"
+towerString="Defensa"
+heroString="Héroe"
+repeatLevelString="Reiniciar nivel"
+nextLevelString="Siguiente nivel"
+closeString="Cerrar"
+lobbyString="Ir a la taberna"
+bestString="Mejor"
+leastString="Último"
+mostString="El que más"
+naString="N/D"
+playerString="Jugadorr"
+scoreString="Puntos"
+pureStrategyString="Estrategia Pura"
+survivalString="Supervivencia"
+highestString="El más alto"
+receivingString="Recibiendo estadísticas..."
+exitString="Salir de la partida"
+
+[DunDefPlayerReplicationInfo]
+LevelUpMessageString="ha subido de nivel."
+ChangedNamesMessageString="se ha cambiado el nombre a"
+EnteredGameMessageString="se unido a la partida."
+LeftGameMessageString="ha abandonado la defensa."
+NewHeroMessageString="ha traído a"
+NewHeroMessageStringEnd="a la defensa."
+muteString="(enmudecido)"
+
+[DunDefPlayerAbility_Squire_CircleSlice]
+DescriptiveName="Corte Circular"
+
+[DunDefTower_AuraStrengthDrain]
+AttackDamageString="Fuerza del enemigo:"
+
+[DunDefPlayerAbility_TowerPlacement]
+ActivationFailureStringEnd="para construir"
+
+[DunDefDamageType_Lightning]
+FriendlyName="Rayo"
+AdjectiveName="Eléctrico"
+
+[DunDefPlayerAbility]
+ActivationFailureString_HeroLevel="Nivel requerido"
+ActivationFailureString_Mana="Requierido"
+ActivationFailureString_Physics="Requiere construirse en superficies planas"
+ActivationFailureString_Cooldown="Requiere recargarse:"
+ActivationManaString="Maná"
+ActivationSecondsString="segundos"
+ActivationFailureStringEnd="para activar"
+ActivationFailureString_NotApplicable="No se puede activar actualmente"
+CancelledDueToManaString="se ha cancelado debido a que no hay maná suficiente."
+AbilityUnlockedMessageString="¡Has desbloqueado la habildiad '!"
+
+[DunDefGameSearchCommon]
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[DunDefOnlineGameSettingsConsole]
+LobbyLevelName="Taberna"
+Difficulty.FriendlyName="Dificultad"
+LevelFriendlyName.FriendlyName="Mapa"
+SurvivalMode.FriendlyName="¿Oleadas infinitas?"
+InfiniteBuild.FriendlyName="¿constr. infinitas?"
+PureStrategy.FriendlyName="¿Estrategia Pura?"
+hostInfo.FriendlyName="Anfitrión"
+StartAtWave.FriendlyName="Comenzar oleada"
+LocalizedSettingsMappings[0]=(ValueMappings=())
+
+[DunDefDarkElf]
+DescriptiveName="Elfo Arquero Oscuro"
+
+[DunDefOrc]
+DescriptiveName="Orco"
+
+[DunDefPlayerAbility_BuildTower]
+ActivationFailureString_NeedTowerUnits="Necesita"
+ActivationTowerUnitsString="Unidades de Defensa"
+ActivationSummonString="para construir"
+TowerUnitDescriptionString="Unidades de Defensa"
+ChooseWhereToSummonString="Elige dónde construirla"
+SummoningString="Construyendo"
+SetRotationString="Establecer rotación de"
+PlacementDeniedStrings[0]="No puedes construirlo aquí"
+PlacementDeniedStrings[1]="La energía oscura no te permite construir aquí"
+PlacementDeniedStrings[2]="No puedes construir dos trampas juntas"
+PlacementDeniedStrings[3]="No puedes construir dos auras juntas"
+AbilityUnlockedMessagePreString="'Construir"
+AbilityUnlockedMessageString="¡Has desbloqueado: '!"
+
+[UIScriptWidget_HeroStat]
+HeroDamageResistanceString="Resistencia al daño"
+heroString="Héroe:"
+EquipmentString="Equipamiento:"
+
+[UI_ItemBox]
+LockItemString="Preservar objeto"
+UnlockItemString="No preservar más"
+AllItemsString="¡Todos los objetos desbloqueados!"
+SellAllInLobbyString="Vender todo"
+SellInLobbyString="Vender objeto"

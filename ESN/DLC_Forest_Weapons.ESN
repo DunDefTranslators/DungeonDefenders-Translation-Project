@@ -1,0 +1,43 @@
+[Campaign.BroadswordStyle6_EMH HeroEquipment]
+EquipmentName="Cuchillo de cría de araña"
+EquipmentDescription="Parece raro que la Reina llevara esto."
+
+[Campaign.BroadswordStyle9_Boss HeroEquipment]
+EquipmentName="La tristeza del bosque"
+EquipmentDescription="Rescatada de las profundidades del bosque."
+
+[Campaign.CrossbowStyle11_Boss HeroEquipment]
+EquipmentName="Gossamer Sharpshooter"
+EquipmentDescription="Una herramienta antigua de un aventurero descarriado".
+
+[Campaign.CrossbowStyle5_EMH HeroEquipment]
+EquipmentName="La quitina Recurvo"
+EquipmentDescription="Hecho a mano de la caparazón casi indestructible de la Reina Araña".
+
+[Campaign.MagicStaffStyle8_Boss HeroEquipment]
+EquipmentName="Esencia suspendido"
+EquipmentDescription="Parte de la reina vive para servir a un propósito diferente ..."
+
+[Campaign.MagicStaffStyle9_EMH HeroEquipment]
+EquipmentName="La pata de la Reina"
+EquipmentDescription="Todavía chorrea veneno."
+
+[Campaign.SpearStyle10_Boss HeroEquipment]
+EquipmentName="Colmillo de la Reina"
+EquipmentDescription="Embudos de intoxicaciones de su glándula de la punta!"
+
+[Campaign.SpearStyle5_EMH HeroEquipment]
+EquipmentName="Desenredador de telarañas"
+EquipmentDescription="¡Eso les dará una lección a esas crías de araña!"
+
+[Challenge.BroadswordStyle8 HeroEquipment]
+EquipmentName="Transductor Interdimensional"
+EquipmentDescription="se extiende a los Países Bajos para aprovechar las arañas de energía etérea".
+
+[Challenge.SpearStyle3_EMH HeroEquipment]
+EquipmentName="La Araña Remodelador"
+EquipmentDescription="Las arañas no se parecía a esto antes de que teletransportado".
+
+[HeroEquipment_Familiar_PlayerHealer Familiars.LegendaryFairy]
+EquipmentDescription="Reina de las Hadas, que acompaña a los de gran valor."
+

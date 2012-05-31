@@ -1,0 +1,40 @@
+[Apprentice.HeroEquipment_MushroomStaff HeroEquipment]
+EquipmentName="La tristeza del bosque"
+EquipmentDescription="Rescatada de las profundidades del bosque."
+
+[Apprentice.HeroEquipment_SpiderQueenStaff HeroEquipment]
+EquipmentName="La mano de la Reina"
+EquipmentDescription="Una ronda de aplausos para la Reina."
+
+[Huntress.HeroEquipment_BeetleBow HeroEquipment]
+EquipmentName="La muerte negra"
+EquipmentDescription="Complace tus ojos pero plaga tu corazón."
+
+[Huntress.HeroEquipment_ForestBow HeroEquipment]
+EquipmentName="La ballesta curvada de Hastat"
+EquipmentDescription="Sus proyectiles no pueden matar los que tengan un alma pura."
+
+[Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
+EquipmentName="La espada del unicornio"
+EquipmentDescription="Lo único que queda de una criatura errante."
+
+[Monk.HeroEquipment_MantisSpear HeroEquipment]
+EquipmentName="Guadaña religiosa"
+EquipmentDescription="Era inevitable. Siempre lo será."
+
+[Monk.HeroEquipment_SpiderLegSpear HeroEquipment]
+EquipmentName="La pata de la Reina"
+EquipmentDescription="Todavía chorrea veneno."
+
+[Squire.HeroEquipment_Cleaver HeroEquipment]
+EquipmentName="Cuchillo de cría de araña"
+EquipmentDescription="Parece raro que la Reina llevara esto."
+
+[Squire.HeroEquipment_SquireChallenge HeroEquipment]
+EquipmentName="Martillo rotular"
+EquipmentDescription="Las arañas serían igual de efectivas."
+
+[Squire.HeroEquipment_WebbingUntangler HeroEquipment]
+EquipmentName="Desenredador de telarañas"
+EquipmentDescription="¡Eso les dará una lección a esas crías de araña!"
+

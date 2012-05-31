@@ -1,0 +1,98 @@
+[Campaign.BroadswordStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Espada de Guerra de Tritón"
+EquipmentDescription="El azote de las profundidades marinas"
+
+[Campaign.BroadswordStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Espada de Guerra de Tritón"
+RandomBaseNames[0]=(StringValue="Espada Marina")
+RandomBaseNames[1]=(StringValue="Hoja de la Marea")
+EquipmentDescription="El azote de las profundidades marinas"
+
+[Campaign.BroadswordStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Martillo Mutilador de las Profundidades"
+
+[Campaign.BroadswordStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Martillo Mutilador de las Profundidades"
+RandomBaseNames[0]=(StringValue="Rompeconchas")
+RandomBaseNames[1]=(StringValue="Martillo Mutilador")
+
+[Campaign.CrossbowStyle2_DLC_Boss HeroEquipment]
+EquipmentName="La Carga de las Profundidad"
+EquipmentDescription="La Derrota de Aquanos"
+
+[Campaign.CrossbowStyle2_DLC_Boss_LD HeroEquipment]
+EquipmentName="La Carga de las Profundidades"
+RandomBaseNames[0]=(StringValue="Iniciador de la Marea")
+RandomBaseNames[1]=(StringValue="Chapuzón")
+EquipmentDescription="La derrota de Aquanos"
+
+[Campaign.CrossbowStyle3_DLC_EMH HeroEquipment]
+EquipmentName="Nucleo de Energía a Presión"
+EquipmentDescription="Proporciona gran cantidad de energía eléctrica"
+
+[Campaign.CrossbowStyle3_DLC_EMH_LD HeroEquipment]
+EquipmentName="Nucleo de Energía a Presión"
+RandomBaseNames[0]=(StringValue="Electificamares")
+RandomBaseNames[1]=(StringValue="Anguila Eléctrica")
+EquipmentDescription="Proporciona gran cantidad de energía eléctrica"
+
+[Campaign.MagicStaffStyle1_DLC_EMH HeroEquipment]
+EquipmentName="Bastón de Xilent"
+EquipmentDescription="Danza al ritmo de las profundidades"
+
+[Campaign.MagicStaffStyle1_DLC_EMH_LD HeroEquipment]
+EquipmentName="Bastón de Xilent"
+RandomBaseNames[0]=(StringValue="Hidrobastón")
+RandomBaseNames[1]=(StringValue="Báculo Radiestético")
+EquipmentDescription="Danza al ritmo de las profundidades"
+
+[Campaign.MagicStaffStyle3_DLC_Boss HeroEquipment]
+EquipmentName="Arronax"
+EquipmentDescription="Llamado así por un explorador de Aquanos"
+
+[Campaign.MagicStaffStyle3_DLC_Boss_LD HeroEquipment]
+EquipmentName="Arronax"
+RandomBaseNames[0]=(StringValue="Báculo de los Mares")
+RandomBaseNames[1]=(StringValue="Báculo de la Marea")
+EquipmentDescription="Llamado así por un explorador de Aquanos"
+
+[Campaign.MonkSpearStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Alabarda Lemuriana"
+EquipmentDescription="Apelmazada con los residuos de las profundidades marinas"
+
+[Campaign.MonkSpearStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Alabarda Lemuriana"
+RandomBaseNames[0]=(StringValue="Asta de Percebes")
+RandomBaseNames[1]=(StringValue="Asta de Mar")
+EquipmentDescription="Apelmazada con los residuos de las profundidades marinas"
+
+[Campaign.MonkSpearStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Cosechadora de Algas"
+EquipmentDescription="Platas contra Espadas."
+
+[Campaign.MonkSpearStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Cosechadora de Algas"
+RandomBaseNames[0]=(StringValue="Lanza de las Aguas")
+RandomBaseNames[1]=(StringValue="Hidrolanza")
+EquipmentDescription="Platas contra Espadas."
+
+[Challenge.BroadswordStyle3_DLC HeroEquipment]
+EquipmentName="Colmillo del Kraken"
+EquipmentDescription="Arrancado directamente de las fauces de la bestia. "
+
+[Challenge.BroadswordStyle3_DLC_LD HeroEquipment]
+EquipmentName="Colmillo del Kraken"
+RandomBaseNames[0]=(StringValue="Apuñalador del Cangrejo")
+RandomBaseNames[1]=(StringValue="Dentellada Oceánica")
+EquipmentDescription="Arrancado directamente de las fauces de la bestia. "
+
+[Challenge.CrossbowStyle4_DLC HeroEquipment]
+EquipmentName="Everflame of the Nautilus"
+EquipmentDescription="Emite fuego alquímico."
+
+[Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
+EquipmentName="Llama Eterna de Nautilus"
+RandomBaseNames[0]=(StringValue="Ola de Calor")
+RandomBaseNames[1]=(StringValue="Destello de la Caldera")
+EquipmentDescription="Emite fuego alquímico."
+

@@ -1,0 +1,36 @@
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Ha llegado un Ogro"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
+StringVar="Victoria"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
+StringVar="Activa el cristal para continuar"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
+StringVar="Adentrándote en el siguiente nivel"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
+StringVar="¡Última oleada!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
+StringVar="¡Oleada del Jefe final!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
+StringVar="Cuidado con los Wyvern Acuáticos"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="¡Salva Aquanos antes de que suba la marea!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelVictory.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="¡Has recogido el fragmento de Eternia de Aquanos!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="El Jefe se está acercando..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
+StringVar="El Kraken"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_2 DunDef_SeqVar_LocalizedString]
+StringVar="¡El Jefe ha sido derrotado!"
+

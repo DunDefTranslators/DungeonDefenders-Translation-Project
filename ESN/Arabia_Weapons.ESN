@@ -1,0 +1,40 @@
+[Campaign.BoardswordStyle4_Boss HeroEquipment]
+EquipmentName="Baratija del Efreet"
+EquipmentDescription="Una espada maestra fabricada por los Djinns."
+
+[Campaign.BroadswordStyle8_EMH HeroEquipment]
+EquipmentName="Bracamarte de Ébano"
+EquipmentDescription="Este sable se ha afilado con obsidiana."
+
+[Campaign.CrossbowStyle7_EMH HeroEquipment]
+EquipmentName="Samiel el Volador"
+EquipmentDescription="Fabricado con los dientes de los muertos."
+
+[Campaign.CrossbowStyle8_Boss HeroEquipment]
+EquipmentName="Demonio de los Mil Vientos"
+EquipmentDescription="En su interior se esconde la furia de una tormenta."
+
+[Campaign.MagicStaffStyle4_EMH HeroEquipment]
+EquipmentName="Fémur de los No Muertos"
+EquipmentDescription="Un fémur maldito de los ogros de arena."
+
+[Campaign.MagicStaffStyle7_Boss HeroEquipment]
+EquipmentName="Báculo del Rey de los Genios"
+EquipmentDescription="Siempre te ha echado el ojo..."
+
+[Campaign.MonkSpearStyle2_Boss HeroEquipment]
+EquipmentName="Sable Bañado por el Sol de Junbao"
+EquipmentDescription="Concentra todo el poder del resplandeciente sol."
+
+[Campaign.MonkSpearStyle9_EMH HeroEquipment]
+EquipmentName="Cimitarra Reluciente"
+EquipmentDescription="El reflejo de su superficie es cegador."
+
+[Challenge.CrossbowStyle8_EMH HeroEquipment]
+EquipmentName="Rata del Desierto Blanca"
+EquipmentDescription="El terror del desierto."
+
+[Challenge.MagicStaffStyle05 HeroEquipment]
+EquipmentName="Bastón del Rey de los Genios"
+EquipmentDescription="Un brillante cristal está suspendido en él."
+
