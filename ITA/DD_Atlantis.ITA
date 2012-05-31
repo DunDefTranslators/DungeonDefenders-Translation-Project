@@ -1,0 +1,36 @@
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Un Orco è arrivato
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
+StringVar="Livello vittoria"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
+StringVar="Attiva cristallo di procedere"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
+StringVar="Procedendo al livello successivo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
+StringVar="Ondata Finale!""
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
+StringVar="Ondata del boss"
+
+[TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
+StringVar="Beware the Pesce-Wyverns!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Salva Aquanos prima che l'acqua aumenta troppo lontano!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelVictory.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Hai preso il Frammento di Eternia di Aquanos!"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
+StringVar="Il Boss si sta avvicinando…"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
+StringVar="Kraken"
+
+[TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_2 DunDef_SeqVar_LocalizedString]
+StringVar="Boss sconfitto!"
+

@@ -1,0 +1,100 @@
+[Campaign.BroadswordStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Triton La guerra di Glaive"
+EquipmentDescription="Flagello degli abissi"
+
+[Campaign.BroadswordStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Triton La guerra di Glaive"
+RandomBaseNames[0]=(StringValue="Sea Sword")
+RandomBaseNames[1]=(StringValue="Tidal Blade")
+EquipmentDescription="Flagello degli abissi"
+
+[Campaign.BroadswordStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Aquian ingranaggi martello"
+EquipmentDescription="La furia di acqua e acciaio"
+
+[Campaign.BroadswordStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Aquian ingranaggi martello""
+RandomBaseNames[0]=(StringValue="Shell Cracker")
+RandomBaseNames[1]=(StringValue="Gear Hammer")
+EquipmentDescription="La furia di acqua e acciaio"
+
+[Campaign.CrossbowStyle2_DLC_Boss HeroEquipment]
+EquipmentName="L'acqua bomba"
+EquipmentDescription="Il destino di Aquanos"
+
+[Campaign.CrossbowStyle2_DLC_Boss_LD HeroEquipment]
+EquipmentName="L'acqua bomba"
+RandomBaseNames[0]=(StringValue="Wave Starter")
+RandomBaseNames[1]=(StringValue="Splashdown")
+EquipmentDescription="Il destino di Aquanos"
+
+[Campaign.CrossbowStyle3_DLC_EMH HeroEquipment]
+EquipmentName="Pressurizzata di energia orb"
+EquipmentDescription="Fornisce un sacco di energia elettrica"
+
+[Campaign.CrossbowStyle3_DLC_EMH_LD HeroEquipment]
+EquipmentName="Pressurizzata di energia orb"
+RandomBaseNames[0]=(StringValue="Sea Shocker")
+RandomBaseNames[1]=(StringValue="Eel Zapper")
+EquipmentDescription"Fornisce un sacco di energia elettrica"
+
+[Campaign.MagicStaffStyle1_DLC_EMH HeroEquipment]
+EquipmentName="Ritmo Xilent di Staff"
+EquipmentDescription="Impulsi al ritmo del profondo"
+
+[Campaign.MagicStaffStyle1_DLC_EMH_LD HeroEquipment]
+EquipmentName="Ritmo Xilent di Staff"
+RandomBaseNames[0]=(StringValue="Hydrostaff")
+RandomBaseNames[1]=(StringValue="Dowsing Staff")
+EquipmentDescription="Impulsi al ritmo del profondo"
+
+[Campaign.MagicStaffStyle3_DLC_Boss HeroEquipment]
+EquipmentName="Arronax"
+EquipmentDescription="Chiamato dopo uno dei primi esploratori di Aquanos"
+
+[Campaign.MagicStaffStyle3_DLC_Boss_LD HeroEquipment]
+EquipmentName="Arronax"
+RandomBaseNames[0]=(StringValue="Rod of the Seas")
+RandomBaseNames[1]=(StringValue="Tidal Staff")
+EquipmentDescription="Chiamato dopo uno dei primi esploratori di Aquanos"
+
+[Campaign.MonkSpearStyle6_DLC_Boss HeroEquipment]
+EquipmentName="Lemuria alabarda"
+EquipmentDescription="Incrostati di sporcizia dai mari oscuri"
+
+[Campaign.MonkSpearStyle6_DLC_Boss_LD HeroEquipment]
+EquipmentName="Lemuria alabarda"
+RandomBaseNames[0]=(StringValue="Barnacled Pike")
+RandomBaseNames[1]=(StringValue="Sea Spear")
+EquipmentDescription="Incrostati di sporcizia dai mari oscuri"
+
+[Campaign.MonkSpearStyle7_DLC_EMH HeroEquipment]
+EquipmentName="Alghe Mietitrebbia"
+EquipmentDescription="impianti contro le pale"
+
+[Campaign.MonkSpearStyle7_DLC_EMH_LD HeroEquipment]
+EquipmentName="Alghe Mietitrebbia"
+RandomBaseNames[0]=(StringValue="Aqua Lance")
+RandomBaseNames[1]=(StringValue="Hydrospear")
+EquipmentDescription="Impianti contro le Pale"
+
+[Challenge.BroadswordStyle3_DLC HeroEquipment]
+EquipmentName="Dente del Kraken"
+EquipmentDescription="Strappata direttamente dal fauci della bestia"
+
+[Challenge.BroadswordStyle3_DLC_LD HeroEquipment]
+EquipmentName="Dente del Kraken"
+RandomBaseNames[0]=(StringValue="Crab Stabber")
+RandomBaseNames[1]=(StringValue="Oceanic Bite")
+EquipmentDescription="Strappata direttamente dal fauci della bestia"
+
+[Challenge.CrossbowStyle4_DLC HeroEquipment]
+EquipmentName="Everflame del Nautilus"
+EquipmentDescription="Emette fuoco alchemico"
+
+[Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
+EquipmentName="Everflame del Nautilus"
+RandomBaseNames[0]=(StringValue="Flamewave")
+RandomBaseNames[1]=(StringValue="Flash Boiler")
+EquipmentDescription="Emette fuoco alchemico"
+

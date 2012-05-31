@@ -1,0 +1,40 @@
+[Apprentice.HeroEquipment_MushroomStaff HeroEquipment]
+EquipmentName="Il Dolore della foresta"
+EquipmentDescription="Recuperato nei luoghi più remoti della foresta."
+
+[Apprentice.HeroEquipment_SpiderQueenStaff HeroEquipment]
+EquipmentName="Mano della Regina"
+EquipmentDescription="Un applauso per la Regina."
+
+[Huntress.HeroEquipment_BeetleBow HeroEquipment]
+EquipmentName="Morte nera"
+EquipmentDescription="Inganna la vista, ma tormenta il cuore."
+
+[Huntress.HeroEquipment_ForestBow HeroEquipment]
+EquipmentName="Balestra di Hastat"
+EquipmentDescription="I suoi dardi non possono uccidere le anime pure."
+
+[Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
+EquipmentName="Glaive dell'Unicorno"
+EquipmentDescription="Tutto ciò che resta di una creatura errante."
+
+[Monk.HeroEquipment_MantisSpear HeroEquipment]
+EquipmentName="Zampa di mantide"
+EquipmentDescription="Era letale e lo sarà sempre."
+
+[Monk.HeroEquipment_SpiderLegSpear HeroEquipment]
+EquipmentName="Gamba della Regina"
+EquipmentDescription="Gocciola ancora di veleno."
+
+[Squire.HeroEquipment_Cleaver HeroEquipment]
+EquipmentName="Mannaia del ragno"
+EquipmentDescription="Sembra strano che la Regina ne avesse una."
+
+[Squire.HeroEquipment_SquireChallenge HeroEquipment]
+EquipmentName="Martelletto"
+EquipmentDescription="I ragni sarebbero altrettanto efficaci."
+
+[Squire.HeroEquipment_WebbingUntangler HeroEquipment]
+EquipmentName="Stelatore"
+EquipmentDescription="Darà una bella lezione ai ragni!"
+

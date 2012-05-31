@@ -1,0 +1,43 @@
+[Campaign.BroadswordStyle6_EMH HeroEquipment]
+EquipmentName="Mannaia del ragno"
+EquipmentDescription="Sembra strano che la Regina ne avesse una."
+
+[Campaign.BroadswordStyle9_Boss HeroEquipment]
+EquipmentName="Il Dolore della foresta"
+EquipmentDescription="Recuperato nei luoghi più remoti della foresta."
+
+[Campaign.CrossbowStyle11_Boss HeroEquipment]
+EquipmentName="Gossamer Sharpshooter"
+EquipmentDescription="Uno strumento antico di un avventuriero ribelle."
+
+[Campaign.CrossbowStyle5_EMH HeroEquipment]
+EquipmentName="Chitina Ricurvi"
+EquipmentDescription="Realizzata dal carapace quasi indistruttibile della Regina Ragno."
+
+[Campaign.MagicStaffStyle8_Boss HeroEquipment]
+EquipmentName="Essenza Sospeso"
+EquipmentDescription="Parte della Regina vive per servire uno scopo diverso ..."
+
+[Campaign.MagicStaffStyle9_EMH HeroEquipment]
+EquipmentName="Gamba della Regina"
+EquipmentDescription="Gocciola ancora di veleno."
+
+[Campaign.SpearStyle10_Boss HeroEquipment]
+EquipmentName="Fang della Regina"
+EquipmentDescription="Imbuti veleno direttamente dalla sua ghiandola alla punta!"
+
+[Campaign.SpearStyle5_EMH HeroEquipment]
+EquipmentName="Stelatore"
+EquipmentDescription="Darà una bella lezione ai ragni!"
+
+[Challenge.BroadswordStyle8 HeroEquipment]
+EquipmentName="Trasduttore interdimensionale"
+EquipmentDescription="Raggiunge il inferi per sfruttare i ragni energia eterea."
+
+[Challenge.SpearStyle3_EMH HeroEquipment]
+EquipmentName="Il Ragno Remodeler"
+EquipmentDescription="I ragni non aveva l'aspetto di questa prima teletrasportato."
+
+[Familiars.LegendaryFairy HeroEquipment_Familiar_PlayerHealer]
+EquipmentDescription="Regina delle Fate, compagno a quelli di grande coraggio."
+
