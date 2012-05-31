@@ -26,7 +26,7 @@ StringVar="Rette Aquanos bevor das Wasser ansteigt!"
 StringVar="Aquanos-Eternia-Splitter erhalten!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Der Boss nähert sich..."
+StringVar="Der Boss nähert sich ..."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
 StringVar="Kraken"
