@@ -3,7 +3,8 @@ DungeonDefenders Translation Project
 
 How to install ?
 Copy all the files in "GAME_PATH/UDKGame/Localization".
-(Note that ITA & CZE files are not up to date)
+(Note that ITA have not been modified & CZE files are not uptodate)
+
 
 Contacts :
 - DEU (German)  : Lazerus, BoMbaStiXxX
@@ -13,8 +14,7 @@ Contacts :
 
 Version note:
 
-31/05/2012. FRA & ESN files officially added to the game (v7.36).
+31/05/2012. FRA & ESN modified files officially added to the game (v7.36).
 DEU translation in progress.
-
 05/09/2011. Added CZE.
 04/09/2011. Added FRA, DEU, ITA, ESN, INT.
