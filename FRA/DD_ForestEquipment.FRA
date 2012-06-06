@@ -12,7 +12,7 @@ EquipmentDescription="Un plaisir pour l'œil, mais un poison pour le cœur."
 
 [Huntress.HeroEquipment_ForestBow HeroEquipment]
 EquipmentName="Arbalète d'Hastat"
-EquipmentDescription="Ses projectiles ne peuvent tuer ceux qui ont un cœur pur."
+EquipmentDescription="Ses projectiles ne peuvent tuer ceux qui ont une âme pur."
 
 [Monk.HeroEquipment_GlaiveOfUnicorn HeroEquipment]
 EquipmentName="Glaive de la licorne"
@@ -32,9 +32,9 @@ EquipmentDescription="Il est étrange que la reine puisse porter une telle arme."
 
 [Squire.HeroEquipment_SquireChallenge HeroEquipment]
 EquipmentName="Marteau rotule"
-EquipmentDescription="Les araignées seraient autant efficaces."
+EquipmentDescription="Les araignées seraient aussi efficaces."
 
 [Squire.HeroEquipment_WebbingUntangler HeroEquipment]
 EquipmentName="Démêleuse de toile"
-EquipmentDescription="Ou comment donner une bonne leçon à ces arachnides !"
+EquipmentDescription="Où comment donner une bonne leçon à ces arachnides !"
 

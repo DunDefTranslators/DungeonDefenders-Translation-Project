@@ -7,11 +7,11 @@ EquipmentName="Tristesse de la forêt"
 EquipmentDescription="Récupéré dans les confins de la forêt."
 
 [Campaign.CrossbowStyle11_Boss HeroEquipment]
-EquipmentName="Arachnéenne tireur"
+EquipmentName="Tireur Arachnéen"
 EquipmentDescription="Un outil ancien d'un aventurier rebelle."
 
 [Campaign.CrossbowStyle5_EMH HeroEquipment]
-EquipmentName="Chitine recurve"
+EquipmentName="Chitine recourbée"
 EquipmentDescription="Fabriqué à partir de la carapace quasiment indestructible de la Reine Araignée."
 
 [Campaign.MagicStaffStyle8_Boss HeroEquipment]
@@ -23,8 +23,8 @@ EquipmentName="Patte de la reine"
 EquipmentDescription="Elle est encore gorgée de poison."
 
 [Campaign.SpearStyle10_Boss HeroEquipment]
-EquipmentName="Griffe de la reine"
-EquipmentDescription="Empoisonné directement à partir de la glande à sa pointe !"
+EquipmentName="Croc de la reine"
+EquipmentDescription="La pointe est empoisonnée directement à partir de sa glande !"
 
 [Campaign.SpearStyle5_EMH HeroEquipment]
 EquipmentName="Démêleuse de toile"
@@ -32,7 +32,7 @@ EquipmentDescription="Ou comment donner une bonne leçon à ces arachnides!"
 
 [Challenge.BroadswordStyle8 HeroEquipment]
 EquipmentName="Transducteur interdimensionnel"
-EquipmentDescription="Atteint dans le Néant à exploiter les araignées d'énergie éthérée."
+EquipmentDescription="Perce le nether afin d'exploiter les araignées d'énergie éthérée."
 
 [Challenge.SpearStyle3_EMH HeroEquipment]
 EquipmentName="Remodeleur d'araignée"

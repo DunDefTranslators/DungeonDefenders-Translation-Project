@@ -17,7 +17,7 @@ StringVar="Vague finale !"
 StringVar="Vague du Boss"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Attention aux Wyvernes !"
+StringVar="Gare aux Wyvernes !"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
 StringVar="Sauvez Aquanos avant que l'eau ne vous noie !"
@@ -26,7 +26,7 @@ StringVar="Sauvez Aquanos avant que l'eau ne vous noie !"
 StringVar="Fragment d'Eternia d'Aquanos récupéré !"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Le Boss approche ..."
+StringVar="Le Boss approche..."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
 StringVar="Kraken"
