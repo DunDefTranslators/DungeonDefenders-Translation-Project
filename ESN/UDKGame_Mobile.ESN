@@ -313,7 +313,7 @@ CampaignLevelEntries[8]=(LevelFriendlyName="Desafío: Cristaletransporte",LevelDe
 CampaignLevelEntries[9]=(LevelFriendlyName="Desafío: Trasgotormenta",LevelDescription="Los trasgos caen del cielo, están por todos lados. ¡Abre tu paragüas ante estos trolls!")
 CampaignLevelEntries[10]=(LevelFriendlyName="Desafío: Brujería",LevelDescription="Solo hay dos magos vulnerables. ¡Encuéntralos y destrúyelos para que otros dos sean vulnerables!")
 CampaignLevelEntries[11]=(LevelFriendlyName="Desafío: Furia de Titanes",LevelDescription="¿Puedes sobrevivir a oleadas de ogros? ¡Comprobémoslo!")
-CampaignLevelEntries[12]=(LevelFriendlyName="Desafío: Como musulmanes",LevelDescription="Prepárate para unas oleadas de Kobolds Kamikazes que se inmolarán contra tu cristal. ¿Crees que podrás pararlos?")
+CampaignLevelEntries[12]=(LevelFriendlyName="Desafío: Terror Zippy",LevelDescription="Prepárate para unas oleadas de Kobolds Kamikazes que se inmolarán contra tu cristal. ¿Crees que podrás pararlos?")
 CampaignLevelEntries[13]=(LevelFriendlyName="Desafío: El Pollo Popeye",LevelDescription="Aleatoriamente, un héroe se convertirá en pollo, será mas lento, los enemigos le perseguirán y morirá de un solo golpe.")
 DefaultStatNames[0]="Nada"
 DefaultStatNames[1]="Salud"
