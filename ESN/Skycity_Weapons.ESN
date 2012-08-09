@@ -1,0 +1,87 @@
+[Campaign.Apprentice.Equipment_GargoyleStaff_EMH HeroEquipment]
+EquipmentDescription="Esta figura de piedra emite una energía misteriosa..."
+
+[Campaign.Apprentice.Equipment_Staffaphone_Boss HeroEquipment]
+EquipmentDescription="Un arma inbuída del antiguo poder del frío."
+
+[Campaign.Huntress.Equipment_KrytykalStryke_Boss HeroEquipment]
+EquipmentName="Atake Krítiko"
+EquipmentDescription="Dispara cañonazos de aire áltamente comprimido a tus enemigos."
+
+[Campaign.Huntress.Equipment_SteamGun_EMH HeroEquipment]
+EquipmentDescription="¡Aplasta a tus enemigos como si de moscas se tratase!"
+
+[Campaign.Monk.Equipment_Clockwork_EMH HeroEquipment]
+EquipmentDescription="Afinada la tecnología para todas tus necesidades de ensartar."
+
+[Campaign.Monk.Equipment_Clockwork_EMH_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Lanza de Engranajes")
+RandomBaseNames[1]=(StringValue="Molino Atizador")
+
+[Campaign.Monk.Equipment_CogSword_EMH_LD HeroEquipment]
+EquipmentName="Espada Dentada"
+RandomBaseNames[0]=(StringValue="Espadón de Relojería")
+RandomBaseNames[1]=(StringValue="Molino Cortador")
+
+[Campaign.Monk.Equipment_GargoyleStaff_EMH_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Bastón Vigilante")
+RandomBaseNames[1]=(StringValue="Bastón Demoníaco")
+
+[Campaign.Monk.Equipment_KrytykalStryke_Boss_LD HeroEquipment]
+EquipmentName="Atake Krítiko"
+RandomBaseNames[0]=(StringValue="Sonobláster")
+RandomBaseNames[1]=(StringValue="Pistola Fonográfica")
+
+[Campaign.Monk.Equipment_MonkPunkGlaive_EMH_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Timón de un Dirigible")
+RandomBaseNames[1]=(StringValue="Pieza de Repuesto de Lanza")
+
+[Campaign.Monk.Equipment_MonkWrench_BOSS HeroEquipment]
+EquipmentDescription="¡Práctico para solucionar todo tipo de problemas!"
+
+[Campaign.Monk.Equipment_MonkWrench_BOSS_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Junta de Tensor")
+RandomBaseNames[1]=(StringValue="Llave de Confianza")
+
+[Campaign.Monk.Equipment_Staffaphone_Boss_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Bastón Musical")
+RandomBaseNames[1]=(StringValue="Bastoneto")
+
+[Campaign.Monk.Equipment_SteamGun_EMH_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Pistola de Vapor")
+RandomBaseNames[1]=(StringValue="Lanzavapor")
+
+[Campaign.Monk.Equipment_SteamSaw_Boss_LD HeroEquipment]
+EquipmentName="Sierra de Vapor"
+RandomBaseNames[0]=(StringValue="Cortador de Vapor")
+RandomBaseNames[1]=(StringValue="Máquina de Cortar de Acero Dentado")
+
+[Campaign.Monk.Equipment_TheLight_BOSS_LD HeroEquipment]
+RandomBaseNames[0]=(StringValue="Iluminador")
+RandomBaseNames[1]=(StringValue="Farola")
+
+[Campaign.Squire.Equipment_CogSword_EMH HeroEquipment]
+EquipmentName="Espada Dentada"
+EquipmentDescription="Haz a tus enemigos "enemigos en polvo"."
+
+[Campaign.Squire.Equipment_SteamSaw_Boss HeroEquipment]
+EquipmentName="Sierra de Vapor"
+EquipmentDescription="¡Corta a tus enemigos con el poder del vapor!"
+
+[Challenge.Apprentice.Equipment_TheLight_BOSS HeroEquipment]
+EquipmentName="Clásico del Águila Crestada Estandar"
+EquipmentDescription="Formalmente utilizado como colores del reino, infundido con el poder de El Águila."
+
+[Challenge.Monk.Equipment_MonkPunkGlaive_EMH HeroEquipment]
+EquipmentDescription="Formado con los restos de una aeronave caída."
+
+[Pet.SkyCityPetEquipment HeroEquipment_Familiar_PawnBooster]
+EquipmentName="Gato propulsor"
+EquipmentStatNames[4]="Potencia la intensidad"
+EquipmentStatNames[5]="Potencia el alcance"
+EquipmentStatNames[6]="Potencia la resistencia de las defensas"
+EquipmentStatNames[7]="Potencia el alcance de las defensas"
+EquipmentStatNames[9]="Número de héroes a potenciar"
+RandomBaseNames[0]=(StringValue="AstroGato")
+EquipmentDescription="Potencia el daño de tu héroe y los aliados cercanos."
+
