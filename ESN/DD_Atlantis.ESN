@@ -8,10 +8,10 @@ StringVar="Victoria"
 StringVar="Activa el cristal para continuar"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Adentrándote en el siguiente nivel"
+StringVar="Avanzando al siguiente nivel"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="¡Última oleada!"
+StringVar="¡Asalto final!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
 StringVar="¡Oleada del Jefe final!"

@@ -27,16 +27,16 @@ StringVar="¡Has recogido un fragmento mágico de Eternia de Mistymire!"
 StringVar="¡Defiende los Cristales de Eternia estén donde estén!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Cuidado con los Wyvern"
+StringVar="Cuidado con los Guivernos"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
 StringVar="Olea del Jefe final"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="¡Última oleada!"
+StringVar="¡Asalto final!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Adentrándote en el siguiente nivel""
+StringVar="Avanzando al siguiente nivel""
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
 StringVar="Activa el cristal para continuar"
